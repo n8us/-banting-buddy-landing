@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Banting Buddy 2.0 - LCHF Meal Tracker</title>
+    <meta name="description" content="Banting meal planner & macro tracker - works offline, no data collected. The ultimate Banting app for following LCHF lifestyle.">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f9f9f9;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        header {
+            background: linear-gradient(135deg, #4CAF50, #8BC34A);
+            color: white;
+            text-align: center;
+            padding: 60px 20px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+        }
+        
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+        
+        header p {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+        
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+        
+        .feature {
+            background: white;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+        
+        .feature-icon {
+            font-size: 3rem;
+            margin-bottom: 15px;
+            color: #4CAF50;
+        }
+        
+        .feature h3 {
+            margin-bottom: 12px;
+            color: #2E7D32;
+        }
+        
+        .cta-section {
+            text-align: center;
+            padding: 50px 20px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            margin-bottom: 40px;
+        }
+        
+        .cta-button {
+            display: inline-block;
+            background: #4CAF50;
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            font-size: 1.1rem;
+            transition: background 0.3s;
+            border: none;
+            cursor: pointer;
+        }
+        
+        .cta-button:hover {
+            background: #45a049;
+        }
+        
+        .testimonials {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+        
+        .testimonial {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            border-left: 4px solid #4CAF50;
+        }
+        
+        .testimonial p {
+            font-style: italic;
+            margin-bottom: 15px;
+        }
+        
+        .testimonial-author {
+            font-weight: bold;
+            color: #2E7D32;
+        }
+        
+        footer {
+            text-align: center;
+            padding: 30px 20px;
+            color: #666;
+            font-size: 0.9rem;
+        }
+        
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 2rem;
+            }
+            
+            header p {
+                font-size: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Banting Buddy 2.0</h1>
+            <p>Your ultimate LCHF meal tracker & macro calculator for the Banting lifestyle</p>
+        </div>
+    </header>
+    
+    <div class="container">
+        <section class="features">
+            <div class="feature">
+                <div class="feature-icon">🍽️</div>
+                <h3>Meals</h3>
+                <p>Get personalized Banting meal plans based on your preferences, macros, and available ingredients. No more meal planning stress!</p>
+            </div>
+            
+            <div class="feature">
+                <div class="feature-icon">📊</div>
+                <h3>Macro Tracker</h3>
+                <p>Track your daily fat, protein, and carb intake with easy-to-use tools. See your progress at a glance.</p>
+            </div>
+            
+            <div class="feature">
+                <div class="feature-icon">📱</div>
+                <h3>Barcode Scanner</h3>
+                <p>Scan food barcodes to instantly get nutritional information and Banting compatibility.</p>
+            </div>
+            
+            <div class="feature">
+                <div class="feature-icon">🔒</div>
+                <h3>Privacy First</h3>
+                <p>All your data stays on your device. No tracking, no data collection, no account required.</p>
+            </div>
+            
+            <div class="feature">
+                <div class="feature-icon">📴</div>
+                <h3>Works Offline</h3>
+                <p>Use Banting Buddy anywhere, anytime - no internet connection needed after initial download.</p>
+            </div>
+        </section>
+        
+        <section class="cta-section">
+            <h2>Ready to Transform Your Banting Journey?</h2>
+            <p>Join thousands who are successfully following the Banting lifestyle with our easy-to-use app.</p>
+            <a href="https://play.google.com/store/apps/details?id=com.innatetelos.bantingbuddyv2&pcampaignid=web_share" class="cta-button">Get on Google Play Store</a>
+        </section>
+        
+        <section class="testimonials">
+            <div class="testimonial">
+                <p>"Banting Buddy has made following the LCHF lifestyle so much easier. The meal planner saves me hours every week!"</p>
+                <p class="testimonial-author">- Sarah K., Cape Town</p>
+            </div>
+            <div class="testimonial">
+                <p>"Finally, an app that understands the Banting lifestyle. The barcode scanner is a game-changer for grocery shopping."</p>
+                <p class="testimonial-author">- Mark J., Johannesburg</p>
+            </div>
+            <div class="testimonial">
+                <p>"I've lost 15kg in 3 months using Banting Buddy. The macro tracker keeps me accountable every day."</p>
+                <p class="testimonial-author">- Lisa P., Pretoria</p>
+            </div>
+        </section>
+    </div>
+    
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 Banting Buddy 2.0. All rights reserved.</p>
+            <p>Disclaimer: This app is for educational purposes only. Consult with a healthcare professional before starting any diet.</p>
+        </div>
+    </footer>
+</body>
+</html>
