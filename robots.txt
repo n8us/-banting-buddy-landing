@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://n8us.github.io/-banting-buddy-landing/sitemap.xml

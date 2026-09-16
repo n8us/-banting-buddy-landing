@@ -1,0 +1,41 @@
+# Banting Buddy 2.0
+
+> The Banting & LCHF app for real low-carb living. Track 50g net carbs, scan supermarket barcodes, browse meal plans — 100% offline. Free on Google Play, no account needed.
+
+## Links
+
+- Landing: https://n8us.github.io/-banting-buddy-landing/
+- Google Play: https://play.google.com/store/apps/details?id=com.innatetelos.bantingbuddyv2
+- Features: https://n8us.github.io/-banting-buddy-landing/#features
+- Why Banting: https://n8us.github.io/-banting-buddy-landing/#why-banting
+- FAQ: https://n8us.github.io/-banting-buddy-landing/#faq
+- About: https://n8us.github.io/-banting-buddy-landing/#about
+
+## What it does
+
+- Daily Macro & Carb Tracker: real-time bars for 50g net carb ceiling, fats, protein. Free.
+- Smart Barcode Scanner: on-device scan flags hidden sugars, non-Banting ingredients, net carbs. No internet needed.
+- Curated Meal Plans: Banting-compliant LCHF library matched to remaining macros.
+- Intelligent Grocery Lists: category-organised, generated from meal plan.
+- Daily Motivation: quote on dashboard.
+- Privacy by Design: all logs stored on-device. No sign-up, no cloud sync.
+
+## Banting basics
+
+- Banting = Low Carb High Fat (LCHF), pioneered by Prof Tim Noakes / Real Meal Revolution. Net carbs under 50g/day.
+- Banting vs keto: similar, Banting allows 50g/day vs 20-30g strict keto, focuses on whole unprocessed foods.
+- Hidden carbs in sauces, dressings, packaged foods are the #1 reason tracking matters.
+- Works offline at store/gym. 7-day premium trial included.
+
+## FAQ
+
+- Best Banting app? Banting Buddy 2.0 is built specifically for 50g limit, barcode scanning, LCHF plans, offline privacy.
+- Works without internet? Yes, tracker, scanner, planner, lists run on-device after download.
+- How does macro tracker work? Visual progress bars, one-tap meal add, weight progress.
+- Free? Yes, free download with free tier + 7-day premium trial.
+- Supermarket scanner? Yes, worldwide barcodes, flags sugars, shows net carbs offline.
+- Banting vs keto? 50g vs 20-30g, whole foods focus, calibrated for Banting macros.
+
+## Who it's for
+
+- New Banters starting weight loss, seasoned LCHF followers, South African shoppers checking Woolworths/Checkers/Pick n Pay products, privacy-conscious health users, offline users.
