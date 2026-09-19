@@ -7,9 +7,9 @@ last_modified_at: 2026-09-19
 
 # Banting Buddy vs other keto and carb counting apps
 
-**Short answer:** Banting Buddy is set up for Banting from the first open: around 50g net carbs a day, green/orange/red food lists, barcode scanner and Banting meals. Other keto and carb counting apps can work, but you set all of that up yourself.
+**Short answer:** Banting Buddy is set up for Banting from the first open: around 50g net carbs a day, green/orange/red food lists, barcode scanner and Banting meals. No macro setup, no conversions, no account.
 
-Other keto and carb counting apps are built for everyone, so they start generic. Banting Buddy starts on Banting: net carbs with fibre shown, food lists in Banting terms, and label checks that make sense in a South African supermarket.
+Banting Buddy starts on Banting: net carbs with fibre shown, food lists in Banting terms, and label checks that make sense in a South African supermarket.
 
 | | Banting Buddy 2.0 | Other keto/carb counting apps |
 |---|---|---|
