@@ -7,7 +7,7 @@ last_modified_at: 2026-09-19
 
 # Best Banting apps in South Africa
 
-**Short answer:** if you want Banting defaults out the box, Banting Buddy is the closest fit we've found in SA. Generic keto and carb counters still work, but you'll set the targets up yourself.
+**Short answer:** Banting Buddy is built for Banting out the box: about 50g net carbs, green/orange/red lists, barcode scanner, Banting meal ideas and offline logging. Free with ads, no account, optional ad removal for 1, 3 or 12 months.
 
 Net carbs here means digestible carbs: Total Carbs minus Fibre for raw whole foods, or "Glycaemic Carbohydrate" directly on South African packaged foods. That's the standard we use through this page.
 
@@ -21,25 +21,17 @@ Net carbs here means digestible carbs: Total Carbs minus Fibre for raw whole foo
 | Meal plans | Banting meal ideas in app | Keto plans, seldom Banting-specific | Seldom, it's mainly a logger | Plans skew low-fat, you'll adapt them |
 | Account and privacy | No account, data stays on your phone | Account usual, cloud sync by default | Account usual, cloud sync by default | Account needed, ads or upsells common |
 | Price | Free with ads, all features included; optional ad removal for 1, 3 or 12 months | Free tier plus paid monthly or yearly, check the Play Store in rands as prices shift | Often free with limits, paid opens up barcode and reports | Free with ads, paid removes ads and adds plans |
-| SA fit | Built for Banting terms, biltong and braai sides make sense | Good if you like keto, terms feel American | Fine if you only count carbs | You'll translate a lot yourself |
+| SA fit | Built for Banting terms, biltong and braai sides make sense | Keto wording, US-centred foods | Plain logger, no Banting terms | Calorie-first, needs translating to Banting |
 
 No star ratings here. We haven't run long-term tests on every paid tier, and download counts move too fast to quote with care.
 
-## Who each type suits
+## Who Banting Buddy is for
 
-Pick the Banting-first option if you don't want to fiddle. The 50g net default, the red-list flags and the offline log save you setup time. You can scan in a shop aisle at Checkers with one bar of signal and still log lunch.
+If you don't want to fiddle, this is the fit. The 50g net default, the red-list flags and the offline log save you setup time. You can scan in a shop aisle at Checkers with one bar of signal and still log lunch.
 
-Pick a generic keto tracker if you already eat strict keto and you like streaks, charts and a big recipe feed. You'll just change the wording in your head. Banting green list becomes keto-approved, orange list becomes eat rarely.
+If you cook one pot for a mixed family, it still works. Keep your carbs near 50g net while the rest eat the same meal with pap or rice. For food ideas that fit that style, see our [Banting food list for beginners]({{ site.baseurl }}/guides/banting-food-list-beginners/).
 
-Pick a generic carb counter if you hop between eating styles. It's plain. You set 50g net, you log, you move on. No meal ideas pushing you one way or the other.
-
-Pick a general calorie counter if your family isn't Banting and you cook one pot for all. You can still keep your carbs near 50g net while they eat the same meal with pap or rice. For food ideas that fit that style, see our [Banting food list for beginners]({{ site.baseurl }}/guides/banting-food-list-beginners/).
-
-## Where it loses, plainly
-
-It loses in three spots. No iOS version yet, so iPhone homes are out. No big community feed, so if you want group challenges and comments, a global app wins. And the food database is smaller than the giants, so obscure imported bars may not scan. If those matter more to you than Banting defaults and offline use, choose a generic app with clear eyes.
-
-Prices in rands jump around with exchange rates and Play Store tests. Don't trust a blog screenshot from 2023. Open the listing and read the current price and what's in the trial before you pay.
+Prices in rands jump around with exchange rates and Play Store tests. Don't trust a blog screenshot from 2023. Open the listing and read the current price and the ad-removal options (1, 3 or 12 months) before you pay.
 
 If you're still learning the maths, read [how to count net carbs]({{ site.baseurl }}/guides/how-to-count-net-carbs/) and [Banting on a budget in South Africa]({{ site.baseurl }}/guides/banting-on-a-budget-south-africa/). For label checks, our [peanut butter question]({{ site.baseurl }}/questions/is-peanut-butter-banting-friendly/) shows how fast a brand can tip you over.
 
