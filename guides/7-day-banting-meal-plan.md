@@ -23,7 +23,7 @@ Drink water, rooibos, herbal tea, or black coffee (or with a splash of cream). S
 | Sat | Bacon 60g + 2 eggs, tomato 50g | Biltong 40g, cheddar 30g, macadamias 20g | Braai: steak 180g, braaied mushrooms and green salad | 28g |
 | Sun | Yoghurt 150g, pecans 20g | Roast chicken 150g, roasted courgettes and peppers | Egg and bacon bake, side spinach | 36g |
 
-Totals are estimates from USDA FoodData Central, accessed Sep 2026, plus SA labels where noted. Your brands will shift them by a few grams.
+Totals are estimates from USDA FoodData Central, plus SA labels where noted. Your brands will shift them by a few grams.
 
 ## What a day looks like in numbers
 
@@ -38,7 +38,7 @@ Tuesday shows how the maths works:
 | Hake + broccoli + butter | 150g + 100g + 15g | 7.3g | 2.6g | 4.7g |
 | Other bits, coffee with cream | - | ~7g | ~0g | ~7g |
 
-Sources: USDA FoodData Central Sep 2026; yoghurt label checked at Checkers Sep 2026, 4.7g glycaemic carbs per 100g.
+Sources: USDA FoodData Central; yoghurt label, 4.7g glycaemic carbs per 100g.
 
 You do not need to weigh forever. Weigh for three days, then eyeball. Most people overeat nuts and undercount milk in coffee. Those two fixes solve half the stalls I hear about.
 
@@ -46,7 +46,7 @@ You do not need to weigh forever. Weigh for three days, then eyeball. Most peopl
 
 Meat and fish: eggs 18, beef mince 500g, hake 300g, chicken thighs 600g, clean boerewors 400g (check ingredients for zero cereal or rusk), tinned pilchards and tuna in brine/oil, snoek 300g, bacon 200g (no sugar cure), biltong 100g. Dairy: real butter, fresh cream 250ml, cheddar 200g, plain full-cream yoghurt 1kg. Veg and fruit: spinach, cabbage, cauliflower, broccoli, salad leaves, cucumber, peppers, onions, mushrooms, tomatoes, avo x3, lemons, frozen berries. Pantry: extra virgin olive oil, coconut cream, almond flour, chia, salt, pepper, curry powder, and avocado-oil mayo (or make your own with egg yolks and olive oil to skip industrial sunflower seed oils).
 
-That trolley cost me about R950 at Pick n Pay in Sep 2026, Kensington Cape Town. Prices move by store, but it gives you a base. Woolies ran about R200 more for the same list when I priced it for fun.
+Prices move by store and week, so use this as a quantities list and compare shelf prices as you shop.
 
 {% include cta.html %}
 

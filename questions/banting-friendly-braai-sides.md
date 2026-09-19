@@ -5,26 +5,26 @@ date: 2026-09-19
 last_modified_at: 2026-09-19
 ---
 
-**Short answer:** Yes, braai is easy to Bant. These 8 sides run 2–7g net carbs per portion (all Green list whole foods). Skip pap and sheba, braaibroodjies, potato salad, sweet bastings, and beer.
+**Short answer:** Yes, braai is easy to Bant. These 8 sides run 2–7g net carbs per portion (all low-carb whole foods). Skip pap and sheba, braaibroodjies, potato salad, sweet bastings, and beer.
 
 Meat was never the problem at a South African braai. The carbs sneak in through pap, bread, sweet bastings, and beer. Master the low-carb sides and you can feast without feeling deprived.
 
 ## Side table — portions and net carbs
 
-Figures from USDA FoodData Central, Sep 2026. Your chopping and cheese amounts will shift these a gram or two.
+Figures from USDA FoodData Central. Your chopping and cheese amounts will shift these a gram or two.
 
-| Side | Portion | Net carbs | Banting List |
+| Side | Portion | Net carbs | Carb band |
 |------|---------|-----------|--------------|
-| Cauliflower mash with butter | 150g (¾ cup) | 4.5g | Green (Freely) |
-| Grilled halloumi | 60g (2 thick slices) | 2.0g | Green (Freely) |
-| Green salad with extra virgin olive oil | 100g leaves + 1 tbsp oil | 2.0g | Green (Freely) |
-| Coleslaw (olive-oil mayo or lemon dressing) | 100g (½ cup) | 3.5g | Green (Freely) |
-| Roasted veg (peppers, courgette, brinjal) | 150g | 6.0g | Green (Freely) |
-| Braai mushrooms with cheddar/butter | 100g mushrooms + 20g cheese | 2.5g | Green (Freely) |
-| Avo salad | ½ avo + tomato + red onion | 3.0g | Green (Freely) |
-| Creamed spinach with real cream | 100g cooked | 4.0g | Green (Freely) |
+| Cauliflower mash with butter | 150g (¾ cup) | 4.5g | Low-carb |
+| Grilled halloumi | 60g (2 thick slices) | 2.0g | Low-carb |
+| Green salad with extra virgin olive oil | 100g leaves + 1 tbsp oil | 2.0g | Low-carb |
+| Coleslaw (olive-oil mayo or lemon dressing) | 100g (½ cup) | 3.5g | Low-carb |
+| Roasted veg (peppers, courgette, brinjal) | 150g | 6.0g | Low-carb |
+| Braai mushrooms with cheddar/butter | 100g mushrooms + 20g cheese | 2.5g | Low-carb |
+| Avo salad | ½ avo + tomato + red onion | 3.0g | Low-carb |
+| Creamed spinach with real cream | 100g cooked | 4.0g | Low-carb |
 
-*Checked Sep 2026. Sauces and marinades change recipes often, so read the bottle.*
+*Sauces and marinades change recipes often, so read the bottle.*
 
 ## What works on the fire
 
@@ -40,11 +40,11 @@ Figures from USDA FoodData Central, Sep 2026. Your chopping and cheese amounts w
 
 **Avo salad** keeps summer braais fresh. Half an avo with lime juice, sea salt, and a garnish of diced tomato and onion lands under 3g net carbs.
 
-## What to skip (The Red List Braai Traps)
+## What to skip (high-carb braai traps)
 
 - **Pap and sheba / tomato gravy:** Mieliepap (maize meal) is pure starch (~28g net carbs per small cup cooked), and store-bought sheba or chakalaka usually adds sugar. Swap pap for cauliflower mash or creamed spinach to soak up your meat juices.
 - **Braaibroodjies:** Two slices of white or brown bread plus Mrs Ball's chutney and onion pack 35–45g net carbs before cheese. Grill a giant mushroom cap loaded with cheese and tomato slices instead.
-- **Sweetcorn (mealies) & potato salad:** Both are high-glycaemic starches strictly on the Red list.
+- **Sweetcorn (mealies) & potato salad:** Both are high-glycaemic starches in the high-carb group.
 - **Sweet marinades and bastings:** Pre-basted spare ribs and sweet BBQ chicken marinades often carry 10–20g sugar per 100g. Baste with melted garlic butter, lemon juice, rosemary, and olive oil instead.
 - **Beer and cider:** A standard 340ml beer carries 11–14g carbs, and cider has over 20g. Dry red wine, dry white wine, or unflavoured spirits with soda water and lemon keep carbs near zero.
 
@@ -59,4 +59,4 @@ You can scan store marinades and sausages in Banting Buddy to verify ingredients
 
 *General information only, not medical advice. If you take medication for diabetes or blood pressure, talk to your doctor before changing how you eat, because low-carb eating can change medication needs.*
 
-*Sources: USDA FoodData Central (accessed Sep 2026); SA store labels checked Sep 2026. Last updated 2026-09-19. For ingredient data see [USDA FoodData Central](https://fdc.nal.usda.gov/).*
+*Sources: USDA FoodData Central; SA store labels. Last updated 2026-09-19. For ingredient data see [USDA FoodData Central](https://fdc.nal.usda.gov/).*

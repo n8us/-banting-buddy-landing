@@ -5,39 +5,39 @@ date: 2026-09-19
 last_modified_at: 2026-09-19
 ---
 
-**Short answer:** Yes, you've got plenty of choice across both Green and Orange lists. Most of these snacks have 0–4g net carbs per serve. (Remember: on South African packaged food, the "Glycaemic Carbohydrate" line already equals net carbs).
+**Short answer:** Yes, you've got plenty of choice across low-carb and medium-carb foods. Most of these snacks have 0–4g net carbs per serve. (Remember: on South African packaged food, the "Glycaemic Carbohydrate" line already equals net carbs).
 
 Sticking to snacks that need no cooking makes Banting far easier to keep up. These are all easy to find at Woolworths, Checkers, or Pick n Pay, and none need a recipe.
 
 ## Snack table — net carbs per serve
 
-Figures from USDA FoodData Central, Sep 2026. Brands differ, so check your label. Serves are realistic snack sizes, not 100g lab portions.
+Figures from USDA FoodData Central. Brands differ, so check your label. Serves are realistic snack sizes, not 100g lab portions.
 
-| Snack | Serve | Total carbs | Fibre | Net carbs | Banting List |
+| Snack | Serve | Total carbs | Fibre | Net carbs | Carb band |
 |-------|-------|-------------|-------|-----------|--------------|
-| Biltong, plain beef | 30g (small handful) | 1.8g | 0g | 1.8g | Green (Freely) |
-| Droëwors, clean (no rusk) | 30g | 1.2g | 0g | 1.2g | Green (Freely) |
-| Hard cheese (cheddar / gouda) | 30g (2 slices) | 1.1g | 0g | 1.1g | Green (Freely) |
-| Boiled eggs | 2 eggs (100g) | 1.2g | 0g | 1.2g | Green (Freely) |
-| Macadamias, dry roasted | 30g (small handful) | 4.1g | 2.6g | 1.5g | Orange (Measure) |
-| Pork crackling, plain salted | 25g (small packet) | 0g | 0g | 0g | Green (Freely) |
-| Avocado | ½ avo (75g) | 6.4g | 5.0g | 1.4g | Green (Freely) |
-| Natural peanut butter (no sugar) | 2 tbsp (32g) | 6.0g | 2.6g | 3.4g | Orange (Measure) |
-| Olives in brine, green / black | 40g (about 8) | 2.5g | 1.0g | 1.5g | Green (Freely) |
-| Full-cream plain yoghurt | 175g tub | 8.2g | 0g | 8.2g | Orange (Measure) |
-| Cucumber + cream cheese | 100g cucumber + 30g cheese | 4.5g | 0.7g | 3.8g | Green / Orange |
+| Biltong, plain beef | 30g (small handful) | 1.8g | 0g | 1.8g | Low-carb |
+| Droëwors, clean (no rusk) | 30g | 1.2g | 0g | 1.2g | Low-carb |
+| Hard cheese (cheddar / gouda) | 30g (2 slices) | 1.1g | 0g | 1.1g | Low-carb |
+| Boiled eggs | 2 eggs (100g) | 1.2g | 0g | 1.2g | Low-carb |
+| Macadamias, dry roasted | 30g (small handful) | 4.1g | 2.6g | 1.5g | Medium-carb |
+| Pork crackling, plain salted | 25g (small packet) | 0g | 0g | 0g | Low-carb |
+| Avocado | ½ avo (75g) | 6.4g | 5.0g | 1.4g | Low-carb |
+| Natural peanut butter (no sugar) | 2 tbsp (32g) | 6.0g | 2.6g | 3.4g | Medium-carb |
+| Olives in brine, green / black | 40g (about 8) | 2.5g | 1.0g | 1.5g | Low-carb |
+| Full-cream plain yoghurt | 175g tub | 8.2g | 0g | 8.2g | Medium-carb |
+| Cucumber + cream cheese | 100g cucumber + 30g cheese | 4.5g | 0.7g | 3.8g | Low-carb / Medium-carb |
 
-*Checked Sep 2026. Labels change often in SA, so scan the packet before you buy.*
+*Labels change often in SA, so scan the packet before you buy.*
 
 ## What I'd actually buy
 
-Biltong is still the easiest Banting snack in SA. A 30–50g packet from Checkers or Pick n Pay usually costs R35–R60, Woolworths a bit more. Go for plain beef or game. Sweet chilli, BBQ and honey-glazed versions can add 6–10g sugar per 30g without tasting much sweeter.
+Biltong is still the easiest Banting snack in SA. A 30–50g packet from Checkers or Pick n Pay is easy to find. Go for plain beef or game. Sweet chilli, BBQ and honey-glazed versions can add 6–10g sugar per 30g without tasting much sweeter.
 
 Droëwors is much the same story. Traditional beef droëwors is fine. Some cheaper sticks use sugar, dextrose or rusk as filler to stretch the meat. If the ingredients list sugar in the first few lines, leave it. My rule: meat, salt, vinegar, spices and maybe preserving salt. Nothing else.
 
-Cheese and boiled eggs are your budget backups. A dozen eggs is still under R50 at most stores, and two boiled eggs keep you full for hours. I keep a few in the fridge for petrol-station moments. Hard cheeses like white cheddar, gouda and pecorino are safer than processed slices, which often contain starch.
+Cheese and boiled eggs are your budget backups. A dozen eggs is a budget-friendly option, and two boiled eggs keep you full for hours. I keep a few in the fridge for petrol-station moments. Hard cheeses like white cheddar, gouda and pecorino are safer than processed slices, which often contain starch.
 
-Macadamias are my favourite emergency stash for the handbag or cubbyhole. They're grown locally, they're rich, and a small handful is enough. Don't eat from the 500g bag. Decant 30g or you'll finish R120 of nuts while driving to Durban.
+Macadamias are my favourite emergency stash for the handbag or cubbyhole. They're grown locally, they're rich, and a small handful is enough. Don't eat from the 500g bag. Decant 30g or you'll finish the bag without noticing while driving to Durban.
 
 ## Three traps to watch
 
@@ -59,4 +59,4 @@ You can scan the barcode in Banting Buddy to check net carbs and flagged ingredi
 
 *General information only, not medical advice. If you take medication for diabetes or blood pressure, talk to your doctor before changing how you eat, because low-carb eating can change medication needs.*
 
-*Sources: USDA FoodData Central (accessed Sep 2026); SA store labels checked Sep 2026. Last updated 2026-09-19. For packaged-food methods see [USDA FoodData Central](https://fdc.nal.usda.gov/).*
+*Sources: USDA FoodData Central; SA store labels. Last updated 2026-09-19. For packaged-food methods see [USDA FoodData Central](https://fdc.nal.usda.gov/).*

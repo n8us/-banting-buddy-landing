@@ -1,13 +1,13 @@
 ---
-title: "Best Banting Apps in South Africa (2026)"
-description: "Compare Banting-first and generic keto carb-counter apps for SA: net carbs, offline use, barcode, meal plans, privacy and price in rands."
+title: "Banting Buddy vs generic keto trackers"
+description: "What's different in Banting Buddy vs generic keto trackers: 50g default, SA foods, offline log, scanner, privacy."
 date: 2026-09-19
 last_modified_at: 2026-09-19
 ---
 
-# Best Banting apps in South Africa
+# Banting Buddy vs generic keto trackers: what's different
 
-**Short answer:** Banting Buddy is built for Banting out the box: about 50g net carbs, green/orange/red lists, barcode scanner, Banting meal ideas and offline logging. Free with ads, no account, optional ad removal for 1, 3 or 12 months.
+**Short answer:** Banting Buddy is built for Banting out the box: about 50g net carbs, low-carb/medium-carb/high-carb bands, barcode scanner, Banting meal ideas and offline logging. Free with ads, no account, optional ad removal for 1, 3 or 12 months.
 
 Net carbs here means digestible carbs: Total Carbs minus Fibre for raw whole foods, or "Glycaemic Carbohydrate" directly on South African packaged foods. That's the standard we use through this page.
 
@@ -27,7 +27,7 @@ No star ratings here. We haven't run long-term tests on every paid tier, and dow
 
 ## Who Banting Buddy is for
 
-If you don't want to fiddle, this is the fit. The 50g net default, the red-list flags and the offline log save you setup time. You can scan in a shop aisle at Checkers with one bar of signal and still log lunch.
+If you don't want to fiddle, this is the fit. The 50g net default, the carb-band flags and the offline log save you setup time. You can scan in a shop aisle at Checkers with one bar of signal and still log lunch.
 
 If you cook one pot for a mixed family, it still works. Keep your carbs near 50g net while the rest eat the same meal with pap or rice. For food ideas that fit that style, see our [Banting food list for beginners]({{ site.baseurl }}/guides/banting-food-list-beginners/).
 
@@ -35,7 +35,7 @@ Prices in rands jump around with exchange rates and Play Store tests. Don't trus
 
 If you're still learning the maths, read [how to count net carbs]({{ site.baseurl }}/guides/how-to-count-net-carbs/) and [Banting on a budget in South Africa]({{ site.baseurl }}/guides/banting-on-a-budget-south-africa/). For label checks, our [peanut butter question]({{ site.baseurl }}/questions/is-peanut-butter-banting-friendly/) shows how fast a brand can tip you over.
 
-Sources: [USDA FoodData Central](https://fdc.nal.usda.gov/) for generic nutrition values, checked Sep 2026; app details from current Play Store listings, checked Sep 2026.
+Sources: [USDA FoodData Central](https://fdc.nal.usda.gov/) for generic nutrition values. Banting Buddy details from its Play Store listing.
 
 {% include cta.html %}
 

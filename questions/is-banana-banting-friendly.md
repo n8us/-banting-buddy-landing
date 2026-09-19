@@ -5,15 +5,15 @@ date: 2026-09-19
 last_modified_at: 2026-09-19
 ---
 
-**Short answer:** No. In Banting (*The Real Meal Revolution*), bananas are strictly on the **Red list** (foods to avoid). A single medium banana (118 g) carries about 24 g net carbs — almost the entirety of a strict 25–50 g daily Banting carb budget.
+**Short answer:** No. Bananas are a high-carb food to avoid. A single medium banana (118 g) carries about 24 g net carbs — almost the entirety of a strict 25–50 g daily Banting carb budget.
 
-| Per 100 g | Total carbs | Fibre | Net carbs | Fat | Protein | Banting List |
+| Per 100 g | Total carbs | Fibre | Net carbs | Fat | Protein | Carb band |
 |-----------|-------------|-------|-----------|-----|---------|--------------|
-| Banana, raw | 23 g | 2.6 g | 20.4 g | 0.3 g | 1.1 g | Red (Strictly Avoid) |
+| Banana, raw | 23 g | 2.6 g | 20.4 g | 0.3 g | 1.1 g | High-carb |
 
 A medium banana (118 g) has about 27 g total carbs, 3 g fibre and **24 g net carbs**.
 
-Source: USDA FoodData Central, Sep 2026.
+Source: USDA FoodData Central.
 
 ## What to watch for
 
@@ -25,12 +25,12 @@ If you are at goal weight, metabolically healthy, or doing heavy endurance athle
 
 ## What to eat instead
 
-Berries are the only fruit recommended on Banting (placed on the Orange list):
+Berries are the only fruit recommended on Banting (medium-carb):
 - **Strawberries:** ~5.8 g net carbs per 100 g
 - **Raspberries:** ~5.4 g net carbs per 100 g
 - **Blackberries:** ~5.0 g net carbs per 100 g
 
-A generous 100 g bowl of fresh strawberries topped with double-thick fresh cream has a fraction of the carbs of a banana while delivering sustained fullness. Avocado (technically a fruit, on the Green list) blended with unsweetened cacao, fresh cream, and erythritol creates a creamy chocolate pudding with under 3 g net carbs.
+A generous 100 g bowl of fresh strawberries topped with double-thick fresh cream has a fraction of the carbs of a banana while delivering sustained fullness. Avocado (technically a fruit, low-carb) blended with unsweetened cacao, fresh cream, and erythritol creates a creamy chocolate pudding with under 3 g net carbs.
 
 ## Related questions
 
@@ -40,5 +40,3 @@ A generous 100 g bowl of fresh strawberries topped with double-thick fresh cream
 - [Banting food list for beginners]({{ site.baseurl }}/guides/banting-food-list-beginners/)
 
 {% include cta.html %}
-
-*General info only, not medical advice — chat to your doctor if you're on meds.*

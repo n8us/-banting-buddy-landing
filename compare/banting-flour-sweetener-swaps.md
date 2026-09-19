@@ -7,22 +7,22 @@ last_modified_at: 2026-09-19
 
 # Banting flour and sweetener swaps
 
-**Short answer:** swap cake flour for almond or coconut flour, and sugar or honey for xylitol, erythritol or pure stevia. In Banting (*The Real Meal Revolution*), these alternative flours and sweeteners sit on the **Light Red list** — meaning they are approved for occasional low-carb bakes and treats, but shouldn't replace real whole foods at daily meals.
+**Short answer:** swap cake flour for almond or coconut flour, and sugar or honey for xylitol, erythritol or pure stevia. These alternative flours and sweeteners are for occasional low-carb bakes and treats — they shouldn't replace real whole foods at daily meals.
 
-Net carbs means total carbs minus fibre (or "Glycaemic Carbohydrate" on South African packaging). All raw food numbers below use per-100g values from [USDA FoodData Central](https://fdc.nal.usda.gov/), checked Sep 2026.
+Net carbs means total carbs minus fibre (or "Glycaemic Carbohydrate" on South African packaging). All raw food numbers below use per-100g values from [USDA FoodData Central](https://fdc.nal.usda.gov/).
 
 ## Flour swaps: net carbs per 100g
 
-| Flour, per 100g (approx) | Total carbs | Fibre | Net carbs | Banting List |
+| Flour, per 100g (approx) | Total carbs | Fibre | Net carbs | Carb band |
 |---|---|---|---|---|
-| Cake flour, white wheat | 76g | 3g | 73g | Red (Avoid) |
-| Whole wheat flour | 72g | 11g | 61g | Red (Avoid) |
-| Almond flour | 22g | 11g | 11g | Light Red (Occasional) |
-| Coconut flour | 61g | 39g | 22g | Light Red (Occasional) |
+| Cake flour, white wheat | 76g | 3g | 73g | High-carb |
+| Whole wheat flour | 72g | 11g | 61g | High-carb |
+| Almond flour | 22g | 11g | 11g | Occasional use |
+| Coconut flour | 61g | 39g | 22g | Occasional use |
 
 The gap tells the story. A cup of cake flour blows your 50g net day in one bowl. A cup of almond flour spreads about 25g net across a whole tray of rusks. Coconut flour sits in the middle on paper, but you use far less of it, so the per-slice carbs stay low. Remember that in Banting, baking should remain an occasional treat so your tastebuds reset from sweet cravings.
 
-Shelf check, early Sep 2026: I saw almond flour and coconut flour at Woolworths, Checkers and Pick n Pay. House brands at Checkers and Pick n Pay were the cheapest on the shelf that week. Stock moves, so read the bag. Some "almond" packs mix in rice flour to cut cost, and that pushes net carbs straight back up.
+Shelf check: almond flour and coconut flour at Woolworths, Checkers and Pick n Pay. House brands at Checkers and Pick n Pay were the cheapest on the shelf that week. Stock moves, so read the bag. Some "almond" packs mix in rice flour to cut cost, and that pushes net carbs straight back up.
 
 ## Sweetener swaps: net carbs per 100g
 
@@ -54,7 +54,7 @@ I check new bags with the scanner in Banting Buddy when the label looks vague. A
 
 For the maths behind portions, see [how to count net carbs]({{ site.baseurl }}/guides/how-to-count-net-carbs/). If the budget bites, [Banting on a budget in South Africa]({{ site.baseurl }}/guides/banting-on-a-budget-south-africa/) shows where to save, and our [oats question]({{ site.baseurl }}/questions/is-oats-banting-friendly/) explains why oat flour isn't the loophole it looks like.
 
-Sources: [USDA FoodData Central](https://fdc.nal.usda.gov/), checked Sep 2026; shelf observations at Woolworths, Checkers and Pick n Pay, early Sep 2026.
+Sources: [USDA FoodData Central](https://fdc.nal.usda.gov/); shelf observations at Woolworths, Checkers and Pick n Pay.
 
 {% include cta.html %}
 

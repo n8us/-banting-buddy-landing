@@ -30,7 +30,7 @@ Watch these four traps:
 - **Polyols (sugar alcohols):** Erythritol passes through unchanged and counts as 0g net carbs. For xylitol, count roughly half the polyol grams towards your daily carb limit.
 - **Hidden starches:** Maltodextrin, modified maize starch, and dextrose have a higher glycaemic index than table sugar. A product claiming "no added sugar" can still pack 15g of refined starch per 100g.
 
-I checked a "high protein" peanut butter at Pick n Pay, Sep 2026. Per 100g it listed 18g glycaemic carbs, with maltodextrin in the ingredients. The plain peanut-and-salt jar next to it listed 8g glycaemic carbs per 100g. Same shelf, more than double the net carbs for the fancy "protein" jar.
+"High protein" peanut butters are worth a second look. Some list notably more glycaemic carbs per 100 g than a plain peanut-and-salt jar because of maltodextrin in the ingredients. Compare the carbohydrate line per 100 g on the two jars before you pay for the fancy label.
 
 ## Numbers you will reuse
 
@@ -43,7 +43,7 @@ I checked a "high protein" peanut butter at Pick n Pay, Sep 2026. Per 100g it li
 | Full-cream milk | 4.9g / 0g / 4.9g | 250ml glass, 12.3g |
 | Honey | 82.1g / 0.2g / 81.9g | 7g tsp, 5.7g |
 
-Source: USDA FoodData Central, accessed Sep 2026. Milk and peanut butter cross-checked against Open Food Facts entries and SA shelf labels Sep 2026.
+Source: USDA FoodData Central. Milk and peanut butter cross-checked against Open Food Facts entries and SA shelf labels.
 
 Milk surprises people. One big glass is 12g net, a quarter of a Banting day. Cream at 3g per 100ml is kinder in coffee.
 
@@ -55,7 +55,7 @@ You do not need a spreadsheet. Pick a target, many Banting followers aim for aro
 
 My paper method: write the four meals, jot net carbs next to each, add at night. After a week you know your repeats by heart. Eggs 0 to 1g, meat 0 to 2g, green veg 2 to 4g, cheese 1g, nuts 2 to 4g per handful. Eating out? Choose grilled meat plus salad and count 8g to be safe.
 
-When you want food ideas that fit the maths, use the [Banting food list for beginners]({{ site.baseurl }}/guides/banting-food-list-beginners/) and the [7-day Banting meal plan]({{ site.baseurl }}/guides/7-day-banting-meal-plan/). For brand swaps see [banting flour and sweetener swaps]({{ site.baseurl }}/compare/banting-flour-sweetener-swaps/). You can also scan a barcode in Banting Buddy to get net carbs without the sums. Tracking and lists are free.
+When you want food ideas that fit the maths, use the [Banting food list for beginners]({{ site.baseurl }}/guides/banting-food-list-beginners/) and the [7-day Banting meal plan]({{ site.baseurl }}/guides/7-day-banting-meal-plan/). For brand swaps see [banting flour and sweetener swaps]({{ site.baseurl }}/compare/banting-flour-sweetener-swaps/). You can also scan a barcode in Banting Buddy to get net carbs without the sums. Tracking and lists are free with ads.
 
 Check numbers yourself in [USDA FoodData Central](https://fdc.nal.usda.gov/) and browse packaged values with attribution on [Open Food Facts](https://world.openfoodfacts.org/).
 

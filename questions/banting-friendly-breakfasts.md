@@ -11,19 +11,19 @@ You don't need special grain-based "breakfast food" to Bant. Quality protein plu
 
 ## Breakfast table — net carbs and prep time
 
-Figures from USDA FoodData Central, Sep 2026. Home cooking varies, so treat these as close estimates.
+Figures from USDA FoodData Central. Home cooking varies, so treat these as close estimates.
 
-| Breakfast | Serve | Net carbs | Prep time | Banting List |
+| Breakfast | Serve | Net carbs | Prep time | Carb band |
 |-----------|-------|-----------|-----------|--------------|
-| Bacon + 2 eggs in butter | 2 rashers + 2 eggs | 1.2g | 10 min | Green (Freely) |
-| Cheese + mushroom omelette | 3-egg omelette, 30g cheese | 2.5g | 10 min | Green (Freely) |
-| Full-cream Greek yoghurt + berries | 175g yoghurt + 50g strawberries | 9.5g | 3 min | Orange (Measure) |
-| Chia pudding with coconut milk | 30g chia + 120ml coconut milk | 3.0g | 5 min + overnight | Orange (Measure) |
-| Smoked mackerel + ½ avo | 100g mackerel + ½ avo | 1.8g | 5 min | Green (Freely) |
-| Leftovers (clean boerewors + cabbage) | 100g boerewors + 100g cabbage | 4.0g | 8 min reheat | Green (Freely) |
-| Bulletproof coffee (butter + coconut oil) | 1 mug | 0g | 5 min | Green (Natural Fats) |
+| Bacon + 2 eggs in butter | 2 rashers + 2 eggs | 1.2g | 10 min | Low-carb |
+| Cheese + mushroom omelette | 3-egg omelette, 30g cheese | 2.5g | 10 min | Low-carb |
+| Full-cream Greek yoghurt + berries | 175g yoghurt + 50g strawberries | 9.5g | 3 min | Medium-carb |
+| Chia pudding with coconut milk | 30g chia + 120ml coconut milk | 3.0g | 5 min + overnight | Medium-carb |
+| Smoked mackerel + ½ avo | 100g mackerel + ½ avo | 1.8g | 5 min | Low-carb |
+| Leftovers (clean boerewors + cabbage) | 100g boerewors + 100g cabbage | 4.0g | 8 min reheat | Low-carb |
+| Bulletproof coffee (butter + coconut oil) | 1 mug | 0g | 5 min | Low-carb |
 
-*Checked Sep 2026. Labels change, so check your bacon, yoghurt and coconut milk.*
+*Labels change, so check your bacon, yoghurt and coconut milk.*
 
 ## Why these keep you going
 
@@ -52,4 +52,4 @@ Leftovers deserve more love. Cold roast chicken, Bobotie filling without the ric
 
 *General information only, not medical advice. If you take medication for diabetes or blood pressure, talk to your doctor before changing how you eat, because low-carb eating can change medication needs.*
 
-*Sources: USDA FoodData Central (accessed Sep 2026). Last updated 2026-09-19. For background on carbs and fibre see [USDA FoodData Central](https://fdc.nal.usda.gov/).*
+*Sources: USDA FoodData Central. Last updated 2026-09-19. For background on carbs and fibre see [USDA FoodData Central](https://fdc.nal.usda.gov/).*
