@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  {% seo %}
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/site.css">
+  <style>
+    .page-wrap { max-width: 760px; margin: 0 auto; padding: 3rem 1.5rem 4rem; }
+    .page-wrap h1 { font-family: 'Playfair Display', serif; font-size: 2rem; line-height: 1.2; margin-bottom: 1rem; }
+    .page-wrap p, .page-wrap li { color: var(--text); font-size: 0.95rem; line-height: 1.75; }
+    .page-wrap h2 { font-size: 1.4rem; margin: 2rem 0 0.75rem; }
+    .page-wrap table { width: 100%; border-collapse: collapse; margin: 1.2rem 0; font-size: 0.88rem; }
+    .page-wrap th, .page-wrap td { border: 1px solid var(--border); padding: 8px 10px; text-align: left; }
+    .page-wrap th { background: var(--green-light); }
+    .answer-box { background: var(--green-light); border: 1px solid var(--border); border-radius: 12px; padding: 1.2rem 1.4rem; margin: 1.5rem 0; }
+    .topnav { position: sticky; top: 0; z-index: 100; background: rgba(255,255,255,0.95); backdrop-filter: blur(8px); border-bottom: 1px solid var(--border); padding: 0 1.5rem; display: flex; align-items: center; justify-content: space-between; height: 60px; }
+    .topnav a.brand { font-family: 'Playfair Display', serif; font-weight: 700; color: var(--green); text-decoration: none; }
+    .topnav nav.links { display: flex; gap: 1rem; align-items: center; }
+    .topnav nav.links a { font-size: 0.85rem; color: var(--text); text-decoration: none; }
+    .site-footer { background: #0d1611; color: rgba(255,255,255,0.4); padding: 2rem 1.5rem; text-align: center; font-size: 0.82rem; line-height: 2; }
+    .site-footer a { color: rgba(255,255,255,0.55); text-decoration: none; }
+  </style>
+</head>
+<body>
+  <div class="topnav">
+    <a class="brand" href="{{ site.baseurl }}/">Banting Buddy 2.0</a>
+    <nav class="links">
+      <a href="{{ site.baseurl }}/guides/">Guides</a>
+      <a href="{{ site.baseurl }}/questions/">Questions</a>
+      <a href="{{ site.baseurl }}/compare/">Compare</a>
+      <a href="https://play.google.com/store/apps/details?id=com.innatetelos.bantingbuddyv2&referrer=utm_source%3Dbanting-site%26utm_medium%3Dseo%26utm_campaign%3Dsite-nav" style="background:var(--green); color:white; padding:8px 18px; border-radius:100px;">Free Download</a>
+    </nav>
+  </div>
+  <main class="page-wrap">
+    {{ content }}
+  </main>
+  <footer class="site-footer">
+    <p><strong style="color:rgba(255,255,255,0.6)">Banting Buddy 2.0</strong> — Banting & LCHF guides by InnateTelos</p>
+    <p><a href="{{ site.baseurl }}/">Home</a> · <a href="{{ site.baseurl }}/guides/">Guides</a> · <a href="{{ site.baseurl }}/questions/">Questions</a> · <a href="{{ site.baseurl }}/compare/">Compare</a> · <a href="{{ site.baseurl }}/privacy/">Privacy</a></p>
+    <p style="font-size:0.75rem;">General information only, not medical advice. If you take medication for diabetes or blood pressure, talk to your doctor before changing how you eat.</p>
+  </footer>
+</body>
+</html>

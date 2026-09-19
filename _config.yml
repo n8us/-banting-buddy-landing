@@ -1,0 +1,23 @@
+title: Banting Buddy
+description: Banting and LCHF guides, food questions and the Banting Buddy app
+url: "https://n8us.github.io"
+baseurl: "/-banting-buddy-landing"
+permalink: pretty
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: "questions"
+    values:
+      layout: "question"
+  - scope:
+      path: "guides"
+    values:
+      layout: "default"
+  - scope:
+      path: "compare"
+    values:
+      layout: "default"

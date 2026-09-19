@@ -1,6 +1,6 @@
 # Banting Buddy 2.0
 
-> The Banting & LCHF app for real low-carb living. Track 50g net carbs, scan supermarket barcodes, browse meal plans — 100% offline. Free on Google Play, no account needed.
+> The Banting & LCHF app for real low-carb living. Track 50g net carbs, scan supermarket barcodes, browse meal plans — 100% offline. Free with ads on Google Play, optional ad removal for 1, 3 or 12 months, no account needed.
 
 ## Links
 
@@ -25,14 +25,14 @@
 - Banting = Low Carb High Fat (LCHF), pioneered by Prof Tim Noakes / Real Meal Revolution. Net carbs under 50g/day.
 - Banting vs keto: similar, Banting allows 50g/day vs 20-30g strict keto, focuses on whole unprocessed foods.
 - Hidden carbs in sauces, dressings, packaged foods are the #1 reason tracking matters.
-- Works offline at store/gym. 7-day premium trial included.
+- Works offline at store/gym. Free with ads; ad removal for 1, 3 or 12 months.
 
 ## FAQ
 
 - Best Banting app? Banting Buddy 2.0 is built specifically for 50g limit, barcode scanning, LCHF plans, offline privacy.
 - Works without internet? Yes, tracker, scanner, planner, lists run on-device after download.
 - How does macro tracker work? Visual progress bars, one-tap meal add, weight progress.
-- Free? Yes, free download with free tier + 7-day premium trial.
+- Free? Yes, free download with ads, all features included. Optional ad removal for 1, 3 or 12 months.
 - Supermarket scanner? Yes, worldwide barcodes, flags sugars, shows net carbs offline.
 - Banting vs keto? 50g vs 20-30g, whole foods focus, calibrated for Banting macros.
 
