@@ -13,7 +13,7 @@ analytics:
   # Sign up at goatcounter.com, then put the code here — e.g. if your
   # dashboard is bantingbuddy.goatcounter.com, use "bantingbuddy".
   # Leave empty to disable the script.
-  goatcounter: ""
+  goatcounter: "n8es"
 
 defaults:
   - scope:
