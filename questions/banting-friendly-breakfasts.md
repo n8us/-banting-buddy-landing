@@ -45,6 +45,7 @@ Leftovers deserve more love. Cold roast chicken, Bobotie filling without the ric
 
 ## Related questions
 
+- [Banting breakfast recipes]({{ site.baseurl }}/recipes/breakfast/) — full recipes, not just ideas
 - [Is milk banting friendly?]({{ site.baseurl }}/questions/is-milk-banting-friendly/)
 - [Banting food list for beginners]({{ site.baseurl }}/guides/banting-food-list-beginners/)
 
@@ -52,4 +53,4 @@ Leftovers deserve more love. Cold roast chicken, Bobotie filling without the ric
 
 *General information only, not medical advice. If you take medication for diabetes or blood pressure, talk to your doctor before changing how you eat, because low-carb eating can change medication needs.*
 
-*Sources: USDA FoodData Central. Last updated 2026-09-19. For background on carbs and fibre see [USDA FoodData Central](https://fdc.nal.usda.gov/).*
+*Sources: USDA FoodData Central. Last updated 2026-09-19.*

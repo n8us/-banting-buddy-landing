@@ -57,7 +57,7 @@ My paper method: write the four meals, jot net carbs next to each, add at night.
 
 When you want food ideas that fit the maths, use the [Banting food list for beginners]({{ site.baseurl }}/guides/banting-food-list-beginners/) and the [7-day Banting meal plan]({{ site.baseurl }}/guides/7-day-banting-meal-plan/). For brand swaps see [banting flour and sweetener swaps]({{ site.baseurl }}/compare/banting-flour-sweetener-swaps/). You can also scan a barcode in Banting Buddy to get net carbs without the sums. Tracking and lists are free with ads.
 
-Check numbers yourself in [USDA FoodData Central](https://fdc.nal.usda.gov/) and browse packaged values with attribution on [Open Food Facts](https://world.openfoodfacts.org/).
+If the label maths is the part that slows you down, scan the barcode in Banting Buddy and it works out the net carbs for you.
 
 *General information only, not medical advice. If you take medication for diabetes or blood pressure, talk to your doctor before changing how you eat.*
 

@@ -29,13 +29,13 @@ No star ratings here. We haven't run long-term tests on every paid tier, and dow
 
 If you don't want to fiddle, this is the fit. The 50g net default, the carb-band flags and the offline log save you setup time. You can scan in a shop aisle at Checkers with one bar of signal and still log lunch.
 
-If you cook one pot for a mixed family, it still works. Keep your carbs near 50g net while the rest eat the same meal with pap or rice. For food ideas that fit that style, see our [Banting food list for beginners]({{ site.baseurl }}/guides/banting-food-list-beginners/).
+If you cook one pot for a mixed family, it still works. Keep your carbs near 50g net while the rest eat the same meal with pap or rice. For food ideas that fit that style, see our [Banting food list for beginners]({{ site.baseurl }}/guides/banting-food-list-beginners/), the [Banting recipes hub]({{ site.baseurl }}/recipes/) and the [free 7-day meal plan]({{ site.baseurl }}/guides/7-day-banting-meal-plan/).
 
 Prices in rands jump around with exchange rates and Play Store tests. Don't trust a blog screenshot from 2023. Open the listing and read the current price and the ad-removal options (1, 3 or 12 months) before you pay.
 
 If you're still learning the maths, read [how to count net carbs]({{ site.baseurl }}/guides/how-to-count-net-carbs/) and [Banting on a budget in South Africa]({{ site.baseurl }}/guides/banting-on-a-budget-south-africa/). For label checks, our [peanut butter question]({{ site.baseurl }}/questions/is-peanut-butter-banting-friendly/) shows how fast a brand can tip you over.
 
-Sources: [USDA FoodData Central](https://fdc.nal.usda.gov/) for generic nutrition values. Banting Buddy details from its Play Store listing.
+Sources: USDA FoodData Central for generic nutrition values. Banting Buddy details from its Play Store listing.
 
 {% include cta.html %}
 

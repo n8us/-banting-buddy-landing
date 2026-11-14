@@ -9,7 +9,7 @@ last_modified_at: 2026-09-19
 
 **Short answer:** swap cake flour for almond or coconut flour, and sugar or honey for xylitol, erythritol or pure stevia. These alternative flours and sweeteners are for occasional low-carb bakes and treats — they shouldn't replace real whole foods at daily meals.
 
-Net carbs means total carbs minus fibre (or "Glycaemic Carbohydrate" on South African packaging). All raw food numbers below use per-100g values from [USDA FoodData Central](https://fdc.nal.usda.gov/).
+Net carbs means total carbs minus fibre (or "Glycaemic Carbohydrate" on South African packaging). All raw food numbers below use per-100g values from USDA FoodData Central.
 
 ## Flour swaps: net carbs per 100g
 
@@ -54,7 +54,9 @@ I check new bags with the scanner in Banting Buddy when the label looks vague. A
 
 For the maths behind portions, see [how to count net carbs]({{ site.baseurl }}/guides/how-to-count-net-carbs/). If the budget bites, [Banting on a budget in South Africa]({{ site.baseurl }}/guides/banting-on-a-budget-south-africa/) shows where to save, and our [oats question]({{ site.baseurl }}/questions/is-oats-banting-friendly/) explains why oat flour isn't the loophole it looks like.
 
-Sources: [USDA FoodData Central](https://fdc.nal.usda.gov/); shelf observations at Woolworths, Checkers and Pick n Pay.
+For recipes that use these swaps, see the [Banting bread recipes]({{ site.baseurl }}/recipes/bread/) and the [Banting recipes hub]({{ site.baseurl }}/recipes/).
+
+Sources: USDA FoodData Central; shelf observations at Woolworths, Checkers and Pick n Pay.
 
 {% include cta.html %}
 

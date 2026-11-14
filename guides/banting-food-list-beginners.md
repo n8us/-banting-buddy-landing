@@ -78,9 +78,7 @@ Start with the outside perimeter at Woolworths, Checkers, or Pick n Pay. Meat, f
 
 A practical rule: if a vegetable or whole food has under 5g carbs per 100g, treat it as low-carb. If it has between 6g and 25g, treat it as medium-carb and measure your portion. On South African packaged foods, check the "Glycaemic Carbohydrate" line — that is already your net carbs (check separately for sugar alcohols)!
 
-For label tips see [how to count net carbs]({{ site.baseurl }}/guides/how-to-count-net-carbs/) and when you are ready to cook, use the [7-day Banting meal plan]({{ site.baseurl }}/guides/7-day-banting-meal-plan/). You can scan barcodes in Banting Buddy to check whether a specific brand has hidden sugars, cereal fillers, or seed oils. All features are free with ads; an optional ad-removal purchase for 1, 3 or 12 months turns the ads off.
-
-For background on where Banting comes from, the [Real Meal Revolution](https://realmealrevolution.com/) explains the original lists, and you can verify generic foods in [USDA FoodData Central](https://fdc.nal.usda.gov/).
+For label tips see [how to count net carbs]({{ site.baseurl }}/guides/how-to-count-net-carbs/) and when you are ready to cook, use the [7-day Banting meal plan]({{ site.baseurl }}/guides/7-day-banting-meal-plan/) or browse the [Banting recipes]({{ site.baseurl }}/recipes/). You can scan barcodes in Banting Buddy to check whether a specific brand has hidden sugars, cereal fillers, or seed oils. All features are free with ads; an optional ad-removal purchase for 1, 3 or 12 months turns the ads off.
 
 *General information only, not medical advice. If you take medication for diabetes or blood pressure, talk to your doctor before changing how you eat.*
 

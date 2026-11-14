@@ -8,26 +8,26 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <!-- SEO Meta Tags -->
-  <title>Banting Buddy: LCHF Tracker – Banting App for Macros, Meal Plans & Barcode Scanning</title>
+  <title>Banting Buddy: LCHF Tracker – Banting App, Recipes & Meal Plans</title>
   <meta name="description"
-    content="The best low carb high fat Banting app. Track macros, scan barcodes, generate LCHF meal plans — all offline. Free download on Google Play. Works without internet.">
+    content="Banting app with 200+ LCHF recipes, a free 7-day meal plan, macro tracking and barcode scanning. Free on Google Play. No account needed.">
   <meta name="author" content="Banting Buddy">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://n8us.github.io/-banting-buddy-landing/">
 
   <!-- Open Graph -->
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Banting Buddy 2.0 – Banting App for low carb high fat living">
+  <meta property="og:title" content="Banting Buddy 2.0 – Banting App, Recipes & Meal Plans">
   <meta property="og:description"
-    content="Track macros, scan barcodes, generate meal plans — all offline. The most private, powerful Banting app on Google Play.">
+    content="200+ Banting recipes, a free 7-day meal plan, macro tracking and barcode scanning. The most private Banting app on Google Play.">
   <meta property="og:url" content="https://n8us.github.io/-banting-buddy-landing/">
   <meta property="og:image" content="https://n8us.github.io/-banting-buddy-landing/og-image.jpg">
   <meta property="og:locale" content="en">
 
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Banting Buddy 2.0 – Banting App for LCHF lifestyle">
-  <meta name="twitter:description" content="Track macros, scan barcodes, meal plans — offline. Free on Google Play.">
+  <meta name="twitter:title" content="Banting Buddy 2.0 – Banting App, Recipes & Meal Plans">
+  <meta name="twitter:description" content="200+ Banting recipes, free 7-day meal plan, macro tracking and barcode scanning. Free on Google Play.">
 
   <!-- Schema.org Structured Data -->
   <script type="application/ld+json">
@@ -35,7 +35,7 @@
     "@context": "https://schema.org",
     "@type": "MobileApplication",
     "name": "Banting Buddy: LCHF Tracker",
-    "description": "The definitive Banting and LCHF lifestyle app. Track macros, scan barcodes, generate meal plans — all offline with complete privacy.",
+    "description": "The definitive Banting and LCHF lifestyle app. Track macros, scan barcodes, generate meal plans — with complete privacy and no cloud sync.",
     "operatingSystem": "Android",
     "applicationCategory": "HealthApplication",
     "offers": {
@@ -62,15 +62,15 @@
         "name": "What is the best Banting app?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Banting Buddy 2.0 is designed specifically for the Banting lifestyle. It helps you stay around 50g net carbs a day, scans product barcodes, generates LCHF meal plans, and works completely offline so your data stays private."
+          "text": "Banting Buddy 2.0 is designed specifically for the Banting lifestyle. It helps you stay around 50g net carbs a day, scans product barcodes, generates LCHF meal plans, and keeps your data private on your device."
         }
       },
       {
         "@type": "Question",
-        "name": "Does Banting Buddy work without internet?",
+        "name": "Where is my health data stored?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Yes. Banting Buddy 2.0 is built privacy-first and runs almost entirely offline. The meal planner, barcode scanner, macro tracker, and grocery lists all work without an internet connection."
+          "text": "On your device. Banting Buddy 2.0 is built privacy-first: your macro logs, weight history and grocery lists have no cloud sync and no account. The app is ad-supported, so Google/AdMob uses a standard device identifier to serve ads."
         }
       },
       {
@@ -850,6 +850,17 @@
       .proof-bar {
         gap: 1.5rem;
       }
+
+      nav>div {
+        gap: 0.7rem !important;
+        overflow-x: auto;
+        white-space: nowrap;
+        scrollbar-width: none;
+      }
+
+      nav>div>a:not(.nav-cta) {
+        font-size: 0.78rem !important;
+      }
     }
   </style>
 </head>
@@ -861,6 +872,8 @@
     <a class="nav-brand" href="./">Banting Buddy 2.0</a>
     <div style="display:flex; gap:1.2rem; align-items:center;">
       <a href="{{ site.baseurl }}/" style="font-size:0.85rem; color:var(--text); text-decoration:none;">Home</a>
+      <a href="{{ site.baseurl }}/recipes/" style="font-size:0.85rem; color:var(--text); text-decoration:none;">Recipes</a>
+      <a href="{{ site.baseurl }}/meal-plans/" style="font-size:0.85rem; color:var(--text); text-decoration:none;">Meal plans</a>
       <a href="{{ site.baseurl }}/guides/" style="font-size:0.85rem; color:var(--text); text-decoration:none;">Guides</a>
       <a href="{{ site.baseurl }}/questions/" style="font-size:0.85rem; color:var(--text); text-decoration:none;">Questions</a>
       <a href="{{ site.baseurl }}/compare/" style="font-size:0.85rem; color:var(--text); text-decoration:none;">Compare</a>
@@ -873,12 +886,11 @@
   <header class="hero" role="banner">
     <div class="hero-grid">
       <div>
-        <span class="hero-eyebrow">Built specifically for Banting · Works offline, no account</span>
+        <span class="hero-eyebrow">Built specifically for Banting · No account needed</span>
         <h1>The <em>Banting app</em> built for real low-carb living</h1>
-        <p class="hero-sub">Track macros, scan supermarket barcodes, browse LCHF meal plans — all <strong
-            style="color:rgba(255,255,255,0.9)">100% offline</strong>. Your health data never leaves your phone.</p>
+        <p class="hero-sub">Track macros, scan supermarket barcodes, browse LCHF meal plans. Your health data stays on your phone.</p>
         <div class="hero-badges">
-          <span class="badge"><span class="badge-dot"></span> Works offline</span>
+          <span class="badge"><span class="badge-dot"></span> Data stays on device</span>
           <span class="badge"><span class="badge-dot"></span> No account needed</span>
           <span class="badge"><span class="badge-dot"></span> Free with ads</span>
           <span class="badge"><span class="badge-dot"></span> Ad-free 1/3/12 months</span>
@@ -936,7 +948,7 @@
   <!-- PROOF BAR -->
   <div class="proof-bar" role="region" aria-label="App statistics">
     <div class="proof-item"><span class="proof-num">50g</span> daily carb guideline</div>
-    <div class="proof-item"><span class="proof-num">100%</span> offline — your health data stays on your phone</div>
+    <div class="proof-item"><span class="proof-num">0</span> cloud sync — your health data stays on your phone</div>
     <div class="proof-item"><span class="proof-num">Free</span> with ads, no account</div>
     <div class="proof-item"><span class="proof-num">1/3/12-mo</span> ad-removal option</div>
   </div>
@@ -960,14 +972,14 @@
           <div class="feature-icon">📸</div>
           <h3>Smart Barcode Scanner</h3>
           <p>Point your camera at any supermarket product. The on-device scanner instantly flags hidden sugars,
-            non-Banting ingredients, and net carb content — no internet needed.</p>
+            non-Banting ingredients, and net carb content.</p>
           <span class="feature-tag">Free</span>
         </article>
         <article class="feature-card">
           <div class="feature-icon">🍽️</div>
           <h3>Curated Meal Plans</h3>
           <p>Browse a database of Banting-compliant LCHF meals and recipes tailored to fit your macros. Never
-            wonder "what's for dinner?" again — all stored on your device, no internet required.</p>
+            wonder "what's for dinner?" again — all stored on your device.</p>
           <span class="feature-tag">Free</span>
         </article>
         <article class="feature-card">
@@ -991,9 +1003,32 @@
             cloud sync — your health data never leaves your phone. The app is ad-supported: Google/AdMob uses a
             standard device identifier to serve ads; that's the only data that ever leaves your device, and an
             optional purchase removes the ads entirely.</p>
-          <span class="feature-tag">Full offline · Always free</span>
+          <span class="feature-tag">No cloud sync · Always free</span>
         </article>
       </div>
+    </div>
+  </section>
+
+  <!-- RECIPES & MEAL PLANS -->
+  <section id="recipes" style="padding:3rem 2rem; border-top:1px solid var(--border);">
+    <div class="container" style="max-width:700px;">
+      <span class="section-tag">Banting recipes & meal plans</span>
+      <h2 style="font-size:1.6rem;">200+ Banting recipes, and a plan to use them</h2>
+      <p style="color:var(--muted); font-size:0.92rem; line-height:1.8; margin-top:0.8rem;">
+        Banting Buddy includes more than 200 low-carb, high-fat recipes, each with net carbs per serving. On the site
+        you can browse the same categories, cook a full meal and follow a free meal plan with a shopping list.
+      </p>
+      <ul style="list-style:none; margin-top:1rem; display:flex; flex-direction:column; gap:0.6rem; font-size:0.92rem;">
+        <li><a href="{{ site.baseurl }}/recipes/" style="color:var(--green);">Banting recipes</a> — the full index, with net carbs</li>
+        <li><a href="{{ site.baseurl }}/recipes/breakfast/" style="color:var(--green);">Banting breakfast recipes</a> — eggs, pancakes, chia and grain-free granola</li>
+        <li><a href="{{ site.baseurl }}/recipes/dinner/" style="color:var(--green);">Banting dinner recipes</a> — bobotie, curry, hake and boerewors</li>
+        <li><a href="{{ site.baseurl }}/recipes/snacks/" style="color:var(--green);">Banting snacks</a> — biltong, cheese, seed crackers</li>
+        <li><a href="{{ site.baseurl }}/recipes/desserts/" style="color:var(--green);">Banting desserts</a> — mousse, cheesecake and milk tart</li>
+        <li><a href="{{ site.baseurl }}/recipes/bread/" style="color:var(--green);">Banting bread</a> — loaves, rusks and pizza base</li>
+        <li><a href="{{ site.baseurl }}/recipes/braai/" style="color:var(--green);">Banting braai recipes</a> — wors, chops, sosaties and snoek</li>
+        <li><a href="{{ site.baseurl }}/meal-plans/" style="color:var(--green);">Banting meal plans</a> — a free 7-day plan and a builder for your own</li>
+        <li><a href="{{ site.baseurl }}/guides/7-day-banting-meal-plan/" style="color:var(--green);">Free 7-day Banting meal plan</a> — shopping list included</li>
+      </ul>
     </div>
   </section>
 
@@ -1045,8 +1080,8 @@
           <div class="stat-big" style="font-size:2.5rem">LCHF</div>
           <div class="stat-label">Low Carb High Fat — the Banting foundation</div>
           <div class="stat-divider"></div>
-          <div class="stat-big" style="font-size:2rem">100%</div>
-          <div class="stat-label">Offline — works at the gym, at the store, anywhere</div>
+          <div class="stat-big" style="font-size:2rem">0</div>
+          <div class="stat-label">Cloud uploads — your data stays on your device</div>
         </div>
       </div>
     </div>
@@ -1068,18 +1103,18 @@
           </button>
           <div class="faq-a">Banting Buddy 2.0 is designed specifically for the Banting lifestyle. It
             tracks your 50g net carb limit, scans supermarket product barcodes, includes a curated library of LCHF meal
-            plans, and works completely offline so your personal health data stays private on your phone.</div>
+            plans, and keeps your personal health data stored on your phone.</div>
         </div>
 
         <div class="faq-item" role="listitem">
           <button class="faq-q" aria-expanded="false" onclick="toggleFaq(this)">
-            Does Banting Buddy work without internet?
+            Where is my health data stored?
             <span class="faq-icon" aria-hidden="true">+</span>
           </button>
-          <div class="faq-a">Yes — completely. Banting Buddy 2.0 is built privacy-first and runs almost entirely
-            offline. The meal planner, barcode scanner, macro tracker, and grocery lists all run on your device. All
-            your macro logs, weight history, and grocery lists are stored only on your device. No Wi-Fi or data required
-            after the initial download.</div>
+          <div class="faq-a">On your device. Banting Buddy 2.0 is built privacy-first: your macro logs, weight
+            history, and grocery lists are stored only on your device, with no account and no cloud sync. The app is
+            ad-supported, so Google/AdMob uses a standard device identifier to serve ads — an optional purchase
+            removes the ads entirely.</div>
         </div>
 
         <div class="faq-item" role="listitem">
@@ -1109,8 +1144,20 @@
           </button>
           <div class="faq-a">Yes. The Smart Food Scanner works with products worldwide. Point your
             camera at the barcode of any packaged food and it will instantly tell you whether the item is
-            Banting-compliant, flag hidden sugars, non-compliant ingredients, and show the net carb content. No internet
-            connection required for scanning.</div>
+            Banting-compliant, flag hidden sugars, non-compliant ingredients, and show the net carb content.</div>
+        </div>
+
+        <div class="faq-item" role="listitem">
+          <button class="faq-q" aria-expanded="false" onclick="toggleFaq(this)">
+            Does Banting Buddy include Banting recipes and meal plans?
+            <span class="faq-icon" aria-hidden="true">+</span>
+          </button>
+          <div class="faq-a">Yes. The app includes more than 200 Banting-compliant recipes, each with net carbs per
+            serving and a grocery list builder. You can browse <a href="{{ site.baseurl }}/recipes/"
+              style="color:var(--green);">Banting recipes on the site</a>, follow the <a
+              href="{{ site.baseurl }}/guides/7-day-banting-meal-plan/" style="color:var(--green);">free 7-day
+              meal plan</a>, or build your own week with the <a href="{{ site.baseurl }}/meal-plans/"
+              style="color:var(--green);">meal plan framework</a>.</div>
         </div>
 
         <div class="faq-item" role="listitem">
@@ -1137,7 +1184,7 @@
           <h3>Why we built Banting Buddy 2.0</h3>
           <p>Most diet and macro tracking apps are generic calorie counters. They don't understand
             the Banting approach, they require constant internet connectivity, and they store your health data on remote servers. Banting Buddy 2.0 was built from scratch for the Banting community —
-            with broad product support, offline-first architecture, and a privacy-first approach that keeps your weight
+            with broad product support, a privacy-first architecture, and an approach that keeps your weight
             and health data exactly where it belongs: on your own device.</p>
         </div>
         <div class="seo-block">
@@ -1152,7 +1199,7 @@
         <div class="seo-block">
           <h3>What makes a good Banting app?</h3>
           <p>A good Banting app needs accurate net carb tracking (not just total carbs), a comprehensive product
-            database for barcode scanning, offline functionality for privacy and reliability, and practical meal
+            database for barcode scanning, on-device data storage for privacy and reliability, and practical meal
             planning tools. Banting Buddy 2.0 was built to cover all of these in a single app — free to download, with no
             mandatory account creation, and no personal data ever leaving your device.</p>
         </div>
@@ -1184,7 +1231,7 @@
     <div class="container" style="max-width:700px;">
       <span class="section-tag">Who built this</span>
       <h2 style="font-size:1.6rem;">Built by InnateTelos for Banting followers</h2>
-      <p style="color:var(--muted); font-size:0.92rem; line-height:1.8; margin-top:1rem;">Banting Buddy 2.0 is built and maintained by InnateTelos. I started it because generic calorie counters don't understand Banting — they don't default to net carbs, they need constant internet, and they upload your health data. I wanted a simple offline tracker with a barcode scanner that works in a South African supermarket aisle, with no account and no data leaving your phone. All features are free with ads; an optional ad-removal purchase (1, 3 or 12 months) turns the ads off.</p>
+      <p style="color:var(--muted); font-size:0.92rem; line-height:1.8; margin-top:1rem;">Banting Buddy 2.0 is built and maintained by InnateTelos. I started it because generic calorie counters don't understand Banting — they don't default to net carbs, they need constant internet, and they upload your health data. I wanted a simple tracker with a barcode scanner that works in a South African supermarket aisle, with no account and no data leaving your phone. All features are free with ads; an optional ad-removal purchase (1, 3 or 12 months) turns the ads off.</p>
       <p style="color:var(--muted); font-size:0.85rem; margin-top:1rem;">Questions or label corrections? Contact via the Play Store listing. General information only, not medical advice. If you take medication for diabetes or blood pressure, talk to your doctor before changing how you eat.</p>
     </div>
   </section>
@@ -1216,7 +1263,8 @@
       <a href="{{ site.baseurl }}/">Home</a> ·
       <a href="#faq">FAQ</a> ·
       <a href="#features">Features</a> ·
-      <a href="#about">About</a> ·
+      <a href="{{ site.baseurl }}/recipes/">Recipes</a> ·
+      <a href="{{ site.baseurl }}/meal-plans/">Meal plans</a> ·
       <a href="{{ site.baseurl }}/guides/">Guides</a> ·
       <a href="{{ site.baseurl }}/questions/">Questions</a> ·
       <a href="{{ site.baseurl }}/privacy/">Privacy</a>

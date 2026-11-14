@@ -46,7 +46,9 @@ Woolworths is great for quality but brutal for budget Banting. I buy butter, cre
 
 Skip Banting-branded bars, breads and crackers till your budget allows. One loaf with 3g net per slice is fine as a treat, but eggs fill you more. For swaps that are worth it, see [banting flour and sweetener swaps]({{ site.baseurl }}/compare/banting-flour-sweetener-swaps/) and keep portions small. If labels confuse you, [how to count net carbs]({{ site.baseurl }}/guides/how-to-count-net-carbs/) shows the 20-second check, and the [Banting food list for beginners]({{ site.baseurl }}/guides/banting-food-list-beginners/) marks what to buy. Scan barcodes in Banting Buddy when you are unsure in the aisle. Tracking and lists are free.
 
-Compare prices and products on [Open Food Facts](https://world.openfoodfacts.org/) with attribution, and verify generic nutrition in [USDA FoodData Central](https://fdc.nal.usda.gov/).
+For cheap meals that still fit the plan, see the [Banting recipes hub]({{ site.baseurl }}/recipes/) and the [free 7-day meal plan]({{ site.baseurl }}/guides/7-day-banting-meal-plan/).
+
+Scan the barcode in Banting Buddy before you buy and it flags hidden sugar, starch and fillers, so a cheap product does not cost you a stall.
 
 *General information only, not medical advice. If you take medication for diabetes or blood pressure, talk to your doctor before changing how you eat.*
 

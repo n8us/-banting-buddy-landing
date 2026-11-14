@@ -51,6 +51,7 @@ You can scan the barcode in Banting Buddy to check net carbs and flagged ingredi
 
 ## Related questions
 
+- [Banting snack recipes]({{ site.baseurl }}/recipes/snacks/) — 12 ideas with net carbs
 - [Is biltong banting friendly?]({{ site.baseurl }}/questions/is-biltong-banting-friendly/)
 - [Is peanut butter banting friendly?]({{ site.baseurl }}/questions/is-peanut-butter-banting-friendly/)
 - [How many carbs in avocado?]({{ site.baseurl }}/questions/how-many-carbs-in-avocado/)
@@ -59,4 +60,4 @@ You can scan the barcode in Banting Buddy to check net carbs and flagged ingredi
 
 *General information only, not medical advice. If you take medication for diabetes or blood pressure, talk to your doctor before changing how you eat, because low-carb eating can change medication needs.*
 
-*Sources: USDA FoodData Central; SA store labels. Last updated 2026-09-19. For packaged-food methods see [USDA FoodData Central](https://fdc.nal.usda.gov/).*
+*Sources: USDA FoodData Central; SA store labels. Last updated 2026-09-19.*

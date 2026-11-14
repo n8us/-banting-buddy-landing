@@ -52,6 +52,7 @@ You can scan store marinades and sausages in Banting Buddy to verify ingredients
 
 ## Related questions
 
+- [Banting braai recipes]({{ site.baseurl }}/recipes/braai/) — wors, chops, sosaties and sides
 - [Is boerewors banting friendly?]({{ site.baseurl }}/questions/is-boerewors-banting-friendly/)
 - [Banting food list for beginners]({{ site.baseurl }}/guides/banting-food-list-beginners/)
 
@@ -59,4 +60,4 @@ You can scan store marinades and sausages in Banting Buddy to verify ingredients
 
 *General information only, not medical advice. If you take medication for diabetes or blood pressure, talk to your doctor before changing how you eat, because low-carb eating can change medication needs.*
 
-*Sources: USDA FoodData Central; SA store labels. Last updated 2026-09-19. For ingredient data see [USDA FoodData Central](https://fdc.nal.usda.gov/).*
+*Sources: USDA FoodData Central; SA store labels. Last updated 2026-09-19.*

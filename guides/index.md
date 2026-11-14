@@ -13,4 +13,6 @@ Start here if you're new. These are the hub pages — each one links out to deta
 - [How to count net carbs]({{ site.baseurl }}/guides/how-to-count-net-carbs/)
 - [Banting on a budget in South Africa]({{ site.baseurl }}/guides/banting-on-a-budget-south-africa/)
 
+Looking for food? Browse the [Banting recipes]({{ site.baseurl }}/recipes/) or all [Banting meal plans]({{ site.baseurl }}/meal-plans/).
+
 {% include cta.html %}

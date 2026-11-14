@@ -53,8 +53,6 @@ Banting is often cheapest here because it uses mince, chicken thighs, cabbage an
 
 Want help choosing meals after you decide? The [7-day Banting meal plan]({{ site.baseurl }}/guides/7-day-banting-meal-plan/) fits Banting and lazy keto, and [Banting on a budget in South Africa]({{ site.baseurl }}/guides/banting-on-a-budget-south-africa/) shows how to keep costs down. The food lists live in Banting Buddy free with ads, with optional ad removal for 1, 3 or 12 months.
 
-Read the original approach at [Real Meal Revolution](https://realmealrevolution.com/) and verify numbers in [USDA FoodData Central](https://fdc.nal.usda.gov/).
-
 *General information only, not medical advice. If you take medication for diabetes or blood pressure, talk to your doctor before changing how you eat.*
 
 *Last updated: 19 September 2026.*

@@ -22,6 +22,8 @@ Short answers first, numbers included. Every page lists carbs, fibre and net car
 
 ## Collections
 
+- [Banting recipes]({{ site.baseurl }}/recipes/) — breakfast, dinner, snacks, desserts, bread and braai
+- [Banting meal plans]({{ site.baseurl }}/meal-plans/) — a free 7-day plan and a framework for your own
 - [Banting-friendly snacks in South Africa]({{ site.baseurl }}/questions/banting-friendly-snacks-south-africa/)
 - [Banting-friendly breakfasts]({{ site.baseurl }}/questions/banting-friendly-breakfasts/)
 - [Banting-friendly braai sides]({{ site.baseurl }}/questions/banting-friendly-braai-sides/)
