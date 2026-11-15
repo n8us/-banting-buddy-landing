@@ -2,7 +2,7 @@
 title: "Banting Dessert Recipes: 8 Low-Carb, No-Sugar Puddings"
 description: "8 Banting dessert recipes with net carbs — chocolate mousse, lemon cheesecake, brownies, milk tart and malva pudding, made without sugar or wheat flour."
 date: 2026-11-14
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-15
 ---
 
 # Banting dessert recipes
@@ -10,6 +10,21 @@ last_modified_at: 2026-11-14
 **Short answer:** A Banting dessert uses cream, eggs, 85% dark chocolate, nuts, berries and a sugar-free sweetener instead of sugar and wheat flour. The eight recipes below land between 2g and 7g net carbs a serving — dessert-sized, not free-for-all.
 
 A word on sweeteners: erythritol and xylitol do not raise blood sugar like sugar, but they are not calorie-free and xylitol causes stomach upset in large amounts. Use the smallest amount that makes the dessert taste right, and skip dessert on weekdays if you are trying to lose weight. Sweet food keeps the craving alive.
+
+## Full step-by-step recipes
+
+<div class="recipe-grid">
+  <a class="recipe-card" href="{{ site.baseurl }}/recipes/banting-chocolate-mousse/">
+    <img src="{{ site.baseurl }}/assets/img/recipes/banting-chocolate-mousse.png" alt="Banting chocolate mousse in a glass topped with whipped cream" width="1200" height="900" loading="lazy">
+    <span class="recipe-card-title">Chocolate mousse</span>
+    <span class="recipe-card-meta">~3g net carbs a serving</span>
+  </a>
+  <a class="recipe-card" href="{{ site.baseurl }}/recipes/banting-rusks/">
+    <img src="{{ site.baseurl }}/assets/img/recipes/banting-rusks.png" alt="Banting rusks on a plate next to a cup of coffee" width="1200" height="900" loading="lazy">
+    <span class="recipe-card-title">Banting rusks</span>
+    <span class="recipe-card-meta">~2g net carbs a rusk</span>
+  </a>
+</div>
 
 ## 1. Chocolate mousse
 

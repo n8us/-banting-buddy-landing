@@ -2,7 +2,7 @@
 title: "Banting Breakfast Recipes: 8 Low-Carb Ideas"
 description: "8 Banting breakfast recipes with net carbs, ingredients and quick methods — bacon and eggs, pancakes, chia pudding, grain-free granola and no-cook options for South Africa."
 date: 2026-11-14
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-15
 ---
 
 # Banting breakfast recipes
@@ -10,6 +10,16 @@ last_modified_at: 2026-11-14
 **Short answer:** A Banting breakfast is built around eggs, full-fat dairy, fish or last night's leftovers, with no cereal, toast or fruit juice. The eight recipes below take 3–30 minutes and land between 1g and 10g net carbs a serving.
 
 If you are new to this, read the [Banting food list for beginners]({{ site.baseurl }}/guides/banting-food-list-beginners/) first, then come back. Every recipe uses ingredients from a normal South African supermarket.
+
+## Full step-by-step recipes
+
+<div class="recipe-grid single">
+  <a class="recipe-card" href="{{ site.baseurl }}/recipes/banting-pancakes/">
+    <img src="{{ site.baseurl }}/assets/img/recipes/banting-pancakes.png" alt="Stack of flourless Banting pancakes with butter and syrup" width="1200" height="900" loading="lazy">
+    <span class="recipe-card-title">Banting pancakes</span>
+    <span class="recipe-card-meta">~2g net carbs</span>
+  </a>
+</div>
 
 ## 1. Bacon, eggs and avocado {#bacon-eggs-and-avocado}
 

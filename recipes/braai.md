@@ -2,7 +2,7 @@
 title: "Banting Braai Recipes: 8 Low-Carb Ideas for a South African Braai"
 description: "Banting braai recipes with net carbs — boerewors, lamb chops, espetada, snoek, sosaties, steak and braaied vegetables. Low-carb braai sides and sugar-free marinades."
 date: 2026-11-14
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-15
 ---
 
 # Banting braai recipes
@@ -10,6 +10,16 @@ last_modified_at: 2026-11-14
 **Short answer:** A braai is one of the easiest Banting meals — meat, fish and vegetables over coals, with no pap, rolls or sugary marinade. Stick to plain wors, chops, chicken, snoek and steak, add braaied veg and salad, and a normal braai lands at 3–8g net carbs.
 
 The danger is not the meat. It is the marinade, the basting sauce, the wors filler and the pile of sides. Fix those four and you can eat at every braai this summer.
+
+## Full step-by-step recipes
+
+<div class="recipe-grid single">
+  <a class="recipe-card" href="{{ site.baseurl }}/recipes/banting-chocolate-mousse/">
+    <img src="{{ site.baseurl }}/assets/img/recipes/banting-chocolate-mousse.png" alt="Banting chocolate mousse in a glass topped with whipped cream" width="1200" height="900" loading="lazy">
+    <span class="recipe-card-title">Chocolate mousse</span>
+    <span class="recipe-card-meta">~3g net carbs a serving</span>
+  </a>
+</div>
 
 ## 1. Boerewors — check the filler
 

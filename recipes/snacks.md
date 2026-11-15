@@ -2,7 +2,7 @@
 title: "Banting Snacks: 12 Low-Carb Snack Ideas for South Africa"
 description: "12 Banting snacks with net carbs — biltong, cheese, boiled eggs, macadamias, seed crackers and portable low-carb ideas from South African shops."
 date: 2026-11-14
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-15
 ---
 
 # Banting snacks
@@ -10,6 +10,26 @@ last_modified_at: 2026-11-14
 **Short answer:** The best Banting snacks are whole foods that need no preparation: biltong, cheese, boiled eggs, nuts, olives, cucumber and avocado. Most of the ideas below are under 2g net carbs, and none need a blender or a "low-carb" packet mix.
 
 Snacking is not compulsory on Banting. If three meals keep you full, skip it. But a planned snack beats a garage pie at 4pm, especially in the first two weeks while your appetite adjusts.
+
+## Full step-by-step recipes
+
+<div class="recipe-grid">
+  <a class="recipe-card" href="{{ site.baseurl }}/recipes/banting-seed-crackers/">
+    <img src="{{ site.baseurl }}/assets/img/recipes/banting-seed-crackers.png" alt="Banting seed crackers made with sunflower, pumpkin, flax and chia seeds" width="1200" height="900" loading="lazy">
+    <span class="recipe-card-title">Banting seed crackers</span>
+    <span class="recipe-card-meta">~0.5g net carbs a cracker</span>
+  </a>
+  <a class="recipe-card" href="{{ site.baseurl }}/recipes/banting-rusks/">
+    <img src="{{ site.baseurl }}/assets/img/recipes/banting-rusks.png" alt="Banting rusks on a plate next to a cup of coffee" width="1200" height="900" loading="lazy">
+    <span class="recipe-card-title">Banting rusks</span>
+    <span class="recipe-card-meta">~2g net carbs a rusk</span>
+  </a>
+  <a class="recipe-card" href="{{ site.baseurl }}/recipes/banting-chocolate-mousse/">
+    <img src="{{ site.baseurl }}/assets/img/recipes/banting-chocolate-mousse.png" alt="Banting chocolate mousse in a glass topped with whipped cream" width="1200" height="900" loading="lazy">
+    <span class="recipe-card-title">Chocolate mousse</span>
+    <span class="recipe-card-meta">~3g net carbs a serving</span>
+  </a>
+</div>
 
 ## 1. Plain biltong
 

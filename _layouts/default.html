@@ -18,6 +18,7 @@
     .recipe-photo { margin: 1.5rem 0; }
     .recipe-photo img { display: block; width: 100%; height: auto; border-radius: 14px; border: 1px solid var(--border); }
     .recipe-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.1rem; margin: 1.5rem 0 2rem; }
+    .recipe-grid.single { grid-template-columns: minmax(0, 280px); }
     .recipe-card { display: block; text-decoration: none; border: 1px solid var(--border); border-radius: 14px; overflow: hidden; background: #fff; transition: transform .18s ease, box-shadow .18s ease; }
     .recipe-card:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(17,26,20,.1); }
     .recipe-card img { display: block; width: 100%; height: auto; aspect-ratio: 4 / 3; object-fit: cover; }

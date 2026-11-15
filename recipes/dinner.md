@@ -2,7 +2,7 @@
 title: "Banting Dinner Recipes: 10 Low-Carb Meals for South Africa"
 description: "10 Banting dinner recipes with net carbs — bobotie, chicken curry, hake, boerewors, lamb chops and more. Easy low-carb suppers using SA supermarket ingredients."
 date: 2026-11-14
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-15
 ---
 
 # Banting dinner recipes
@@ -10,6 +10,16 @@ last_modified_at: 2026-11-14
 **Short answer:** A Banting dinner is a palm-sized portion of protein, a thumb of fat and as much above-ground vegetables as you want. The ten recipes below are normal South African suppers with the starch removed — most land between 4g and 9g net carbs a serving.
 
 Cook one of these and keep a portion for lunch. Leftovers are the difference between staying on plan and reaching for bread at 3pm.
+
+## Full step-by-step recipes
+
+<div class="recipe-grid single">
+  <a class="recipe-card" href="{{ site.baseurl }}/recipes/banting-pizza-base/">
+    <img src="{{ site.baseurl }}/assets/img/recipes/banting-pizza-base.png" alt="Banting pizza base topped with tomato, mozzarella, cherry tomatoes and basil" width="1200" height="900" loading="lazy">
+    <span class="recipe-card-title">Banting pizza base</span>
+    <span class="recipe-card-meta">~2g net carbs a slice</span>
+  </a>
+</div>
 
 ## 1. Banting bobotie {#banting-bobotie}
 

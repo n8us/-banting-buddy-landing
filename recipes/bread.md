@@ -2,7 +2,7 @@
 title: "Banting Bread Recipes: 6 Low-Carb Loaves and Bakes"
 description: "Banting bread recipes with net carbs — almond flour sandwich bread, coconut flour loaf, seed loaf, rusks and pizza base. How to bake low-carb bread that holds together."
 date: 2026-11-14
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-15
 ---
 
 # Banting bread recipes
@@ -10,6 +10,31 @@ last_modified_at: 2026-11-14
 **Short answer:** Banting bread replaces wheat flour with almond flour, coconut flour, psyllium husk, eggs and cheese. It does not rise like yeast bread and it does not taste like white bread — but it toasts, holds a sandwich and lands around 1–2g net carbs a slice.
 
 The trick to low-carb bread is structure, not flavour. Almond flour alone is crumbly; psyllium husk gives it elasticity; eggs hold it together; a little acid (vinegar or lemon) stops it tasting eggy. Follow the ratios the first time, then adjust.
+
+## Full step-by-step recipes
+
+<div class="recipe-grid">
+  <a class="recipe-card" href="{{ site.baseurl }}/recipes/banting-bread/">
+    <img src="{{ site.baseurl }}/assets/img/recipes/banting-bread.png" alt="Sliced loaf of Banting almond flour bread with a seed topping" width="1200" height="900" loading="lazy">
+    <span class="recipe-card-title">Banting bread</span>
+    <span class="recipe-card-meta">~2g net carbs a slice</span>
+  </a>
+  <a class="recipe-card" href="{{ site.baseurl }}/recipes/banting-pizza-base/">
+    <img src="{{ site.baseurl }}/assets/img/recipes/banting-pizza-base.png" alt="Banting pizza base topped with tomato, mozzarella, cherry tomatoes and basil" width="1200" height="900" loading="lazy">
+    <span class="recipe-card-title">Banting pizza base</span>
+    <span class="recipe-card-meta">~2g net carbs a slice</span>
+  </a>
+  <a class="recipe-card" href="{{ site.baseurl }}/recipes/banting-rusks/">
+    <img src="{{ site.baseurl }}/assets/img/recipes/banting-rusks.png" alt="Banting rusks on a plate next to a cup of coffee" width="1200" height="900" loading="lazy">
+    <span class="recipe-card-title">Banting rusks</span>
+    <span class="recipe-card-meta">~2g net carbs a rusk</span>
+  </a>
+  <a class="recipe-card" href="{{ site.baseurl }}/recipes/banting-seed-crackers/">
+    <img src="{{ site.baseurl }}/assets/img/recipes/banting-seed-crackers.png" alt="Banting seed crackers made with sunflower, pumpkin, flax and chia seeds" width="1200" height="900" loading="lazy">
+    <span class="recipe-card-title">Banting seed crackers</span>
+    <span class="recipe-card-meta">~0.5g net carbs a cracker</span>
+  </a>
+</div>
 
 ## Banting bread vs wheat bread
 
