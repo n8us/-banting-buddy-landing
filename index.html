@@ -744,6 +744,58 @@
       border-top: 1px solid var(--border);
     }
 
+    /* RECIPE THUMBNAILS */
+    .recipe-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 0.9rem;
+      margin-top: 1.5rem;
+    }
+
+    .recipe-card {
+      display: block;
+      text-decoration: none;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      overflow: hidden;
+      background: white;
+      transition: transform .18s ease, box-shadow .18s ease;
+    }
+
+    .recipe-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 24px rgba(17, 26, 20, 0.1);
+    }
+
+    .recipe-card img {
+      display: block;
+      width: 100%;
+      height: auto;
+      aspect-ratio: 4 / 3;
+      object-fit: cover;
+    }
+
+    .recipe-card-title {
+      display: block;
+      color: var(--text);
+      font-weight: 600;
+      font-size: 0.85rem;
+      padding: 0.6rem 0.7rem 0;
+    }
+
+    .recipe-card-meta {
+      display: block;
+      color: var(--muted);
+      font-size: 0.76rem;
+      padding: 0.1rem 0.7rem 0.65rem;
+    }
+
+    @media (max-width: 560px) {
+      .recipe-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+
     .seo-grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -1018,6 +1070,23 @@
         Banting Buddy includes more than 200 low-carb, high-fat recipes, each with net carbs per serving. On the site
         you can browse the same categories, cook a full meal and follow a free meal plan with a shopping list.
       </p>
+      <div class="recipe-grid">
+        <a class="recipe-card" href="{{ site.baseurl }}/recipes/banting-pancakes/">
+          <img src="{{ site.baseurl }}/assets/img/recipes/banting-pancakes.png" alt="Stack of flourless Banting pancakes with butter and syrup" width="1200" height="900" loading="lazy">
+          <span class="recipe-card-title">Banting pancakes</span>
+          <span class="recipe-card-meta">~2g net carbs</span>
+        </a>
+        <a class="recipe-card" href="{{ site.baseurl }}/recipes/banting-seed-crackers/">
+          <img src="{{ site.baseurl }}/assets/img/recipes/banting-seed-crackers.png" alt="Banting seed crackers made with sunflower, pumpkin, flax and chia seeds" width="1200" height="900" loading="lazy">
+          <span class="recipe-card-title">Seed crackers</span>
+          <span class="recipe-card-meta">~0.5g each</span>
+        </a>
+        <a class="recipe-card" href="{{ site.baseurl }}/recipes/banting-bread/">
+          <img src="{{ site.baseurl }}/assets/img/recipes/banting-bread.png" alt="Sliced loaf of Banting almond flour bread with a seed topping" width="1200" height="900" loading="lazy">
+          <span class="recipe-card-title">Banting bread</span>
+          <span class="recipe-card-meta">~2g a slice</span>
+        </a>
+      </div>
       <ul style="list-style:none; margin-top:1rem; display:flex; flex-direction:column; gap:0.6rem; font-size:0.92rem;">
         <li><a href="{{ site.baseurl }}/recipes/" style="color:var(--green);">Banting recipes</a> — the full index, with net carbs</li>
         <li><a href="{{ site.baseurl }}/recipes/breakfast/" style="color:var(--green);">Banting breakfast recipes</a> — eggs, pancakes, chia and grain-free granola</li>

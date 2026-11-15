@@ -42,6 +42,41 @@ A recipe does not need special "Banting flour" to qualify. A braaied lamb chop w
 
 These bands match the tracker in Banting Buddy, so a recipe you find here logs the same way in the app.
 
+## Full recipes on this site
+
+<div class="recipe-grid">
+  <a class="recipe-card" href="{{ site.baseurl }}/recipes/banting-pancakes/">
+    <img src="{{ site.baseurl }}/assets/img/recipes/banting-pancakes.png" alt="Stack of flourless Banting pancakes with butter and syrup" width="1200" height="900" loading="lazy">
+    <span class="recipe-card-title">Banting pancakes</span>
+    <span class="recipe-card-meta">Breakfast · ~2g net carbs</span>
+  </a>
+  <a class="recipe-card" href="{{ site.baseurl }}/recipes/banting-seed-crackers/">
+    <img src="{{ site.baseurl }}/assets/img/recipes/banting-seed-crackers.png" alt="Banting seed crackers made with sunflower, pumpkin, flax and chia seeds" width="1200" height="900" loading="lazy">
+    <span class="recipe-card-title">Banting seed crackers</span>
+    <span class="recipe-card-meta">Snack · ~0.5g net carbs a cracker</span>
+  </a>
+  <a class="recipe-card" href="{{ site.baseurl }}/recipes/banting-bread/">
+    <img src="{{ site.baseurl }}/assets/img/recipes/banting-bread.png" alt="Sliced loaf of Banting almond flour bread with a seed topping" width="1200" height="900" loading="lazy">
+    <span class="recipe-card-title">Banting bread</span>
+    <span class="recipe-card-meta">Bread · ~2g net carbs a slice</span>
+  </a>
+  <a class="recipe-card" href="{{ site.baseurl }}/recipes/banting-rusks/">
+    <img src="{{ site.baseurl }}/assets/img/recipes/banting-rusks.png" alt="Banting rusks on a plate next to a cup of coffee" width="1200" height="900" loading="lazy">
+    <span class="recipe-card-title">Banting rusks</span>
+    <span class="recipe-card-meta">Snack · ~2g net carbs a rusk</span>
+  </a>
+  <a class="recipe-card" href="{{ site.baseurl }}/recipes/banting-chocolate-mousse/">
+    <img src="{{ site.baseurl }}/assets/img/recipes/banting-chocolate-mousse.png" alt="Banting chocolate mousse in a glass topped with whipped cream" width="1200" height="900" loading="lazy">
+    <span class="recipe-card-title">Chocolate mousse</span>
+    <span class="recipe-card-meta">Dessert · ~3g net carbs a serving</span>
+  </a>
+  <a class="recipe-card" href="{{ site.baseurl }}/recipes/banting-pizza-base/">
+    <img src="{{ site.baseurl }}/assets/img/recipes/banting-pizza-base.png" alt="Banting pizza base topped with tomato, mozzarella, cherry tomatoes and basil" width="1200" height="900" loading="lazy">
+    <span class="recipe-card-title">Banting pizza base</span>
+    <span class="recipe-card-meta">Bread · ~2g net carbs a slice</span>
+  </a>
+</div>
+
 ## 10 Banting recipes to start with
 
 | Recipe | Category | Net carbs | Time |
