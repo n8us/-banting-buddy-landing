@@ -15,7 +15,10 @@
     .page-wrap th, .page-wrap td { border: 1px solid var(--border); padding: 8px 10px; text-align: left; }
     .page-wrap th { background: var(--green-light); }
     .answer-box { background: var(--green-light); border: 1px solid var(--border); border-radius: 12px; padding: 1.2rem 1.4rem; margin: 1.5rem 0; }
+    .skip-link { position: absolute; left: -9999px; top: 0; z-index: 1000; background: var(--green); color: #fff; padding: .7rem 1rem; border-radius: 0 0 8px 0; font-size: .85rem; text-decoration: none; }
+    .skip-link:focus { left: 0; }
     .recipe-photo { margin: 1.5rem 0; }
+    .recipe-photo picture { display: block; }
     .recipe-photo img { display: block; width: 100%; height: auto; border-radius: 14px; border: 1px solid var(--border); }
     .recipe-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.1rem; margin: 1.5rem 0 2rem; }
     .recipe-grid.single { grid-template-columns: minmax(0, 280px); }
@@ -39,6 +42,7 @@
   </style>
 </head>
 <body>
+  <a class="skip-link" href="#main">Skip to content</a>
   <div class="topnav">
     <a class="brand" href="{{ site.baseurl }}/">Banting Buddy 2.0</a>
     <nav class="links">
@@ -51,7 +55,7 @@
       <a class="nav-download" href="https://play.google.com/store/apps/details?id=com.innatetelos.bantingbuddyv2&referrer=utm_source%3Dbanting-site%26utm_medium%3Dseo%26utm_campaign%3Dsite-nav" style="background:var(--green); color:white; padding:8px 18px; border-radius:100px;">Free Download</a>
     </nav>
   </div>
-  <main class="page-wrap">
+  <main class="page-wrap" id="main">
     {{ content }}
   </main>
   <footer class="site-footer">

@@ -13,7 +13,11 @@ image: /assets/img/recipes/banting-seed-crackers.png
 They are the single most useful thing to have in the cupboard on Banting. Shop-bought "seed crackers" are often mostly wheat flour; these are not. The method is a two-stage bake: hot to set, low to dry.
 
 <figure class="recipe-photo">
-  <img src="{{ site.baseurl }}/assets/img/recipes/banting-seed-crackers.png" alt="Banting seed crackers made with sunflower, pumpkin, flax and chia seeds" width="1200" height="900" loading="lazy">
+  <picture>
+    <source type="image/avif" srcset="{{ site.baseurl }}/assets/img/recipes/banting-seed-crackers-600.avif 600w, {{ site.baseurl }}/assets/img/recipes/banting-seed-crackers-1200.avif 1200w" sizes="(max-width: 760px) calc(100vw - 3rem), 712px">
+    <source type="image/webp" srcset="{{ site.baseurl }}/assets/img/recipes/banting-seed-crackers-600.webp 600w, {{ site.baseurl }}/assets/img/recipes/banting-seed-crackers-1200.webp 1200w" sizes="(max-width: 760px) calc(100vw - 3rem), 712px">
+    <img src="{{ site.baseurl }}/assets/img/recipes/banting-seed-crackers.png" srcset="{{ site.baseurl }}/assets/img/recipes/banting-seed-crackers-600.png 600w, {{ site.baseurl }}/assets/img/recipes/banting-seed-crackers.png 1200w" sizes="(max-width: 760px) calc(100vw - 3rem), 712px" alt="Banting seed crackers made with sunflower, pumpkin, flax and chia seeds" width="1200" height="900" fetchpriority="high" decoding="async">
+  </picture>
 </figure>
 
 ## At a glance

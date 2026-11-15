@@ -15,7 +15,11 @@ Cook one of these and keep a portion for lunch. Leftovers are the difference bet
 
 <div class="recipe-grid single">
   <a class="recipe-card" href="{{ site.baseurl }}/recipes/banting-pizza-base/">
-    <img src="{{ site.baseurl }}/assets/img/recipes/banting-pizza-base.png" alt="Banting pizza base topped with tomato, mozzarella, cherry tomatoes and basil" width="1200" height="900" loading="lazy">
+    <picture>
+      <source type="image/avif" srcset="{{ site.baseurl }}/assets/img/recipes/banting-pizza-base-600.avif 600w, {{ site.baseurl }}/assets/img/recipes/banting-pizza-base-1200.avif 1200w" sizes="(max-width: 760px) 50vw, 225px">
+      <source type="image/webp" srcset="{{ site.baseurl }}/assets/img/recipes/banting-pizza-base-600.webp 600w, {{ site.baseurl }}/assets/img/recipes/banting-pizza-base-1200.webp 1200w" sizes="(max-width: 760px) 50vw, 225px">
+      <img src="{{ site.baseurl }}/assets/img/recipes/banting-pizza-base-600.png" srcset="{{ site.baseurl }}/assets/img/recipes/banting-pizza-base-600.png 600w, {{ site.baseurl }}/assets/img/recipes/banting-pizza-base.png 1200w" sizes="(max-width: 760px) 50vw, 225px" alt="Banting pizza base topped with tomato, mozzarella, cherry tomatoes and basil" width="1200" height="900" loading="lazy" decoding="async">
+    </picture>
     <span class="recipe-card-title">Banting pizza base</span>
     <span class="recipe-card-meta">~2g net carbs a slice</span>
   </a>

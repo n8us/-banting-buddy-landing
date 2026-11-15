@@ -15,17 +15,29 @@ Snacking is not compulsory on Banting. If three meals keep you full, skip it. Bu
 
 <div class="recipe-grid">
   <a class="recipe-card" href="{{ site.baseurl }}/recipes/banting-seed-crackers/">
-    <img src="{{ site.baseurl }}/assets/img/recipes/banting-seed-crackers.png" alt="Banting seed crackers made with sunflower, pumpkin, flax and chia seeds" width="1200" height="900" loading="lazy">
+    <picture>
+      <source type="image/avif" srcset="{{ site.baseurl }}/assets/img/recipes/banting-seed-crackers-600.avif 600w, {{ site.baseurl }}/assets/img/recipes/banting-seed-crackers-1200.avif 1200w" sizes="(max-width: 760px) 50vw, 225px">
+      <source type="image/webp" srcset="{{ site.baseurl }}/assets/img/recipes/banting-seed-crackers-600.webp 600w, {{ site.baseurl }}/assets/img/recipes/banting-seed-crackers-1200.webp 1200w" sizes="(max-width: 760px) 50vw, 225px">
+      <img src="{{ site.baseurl }}/assets/img/recipes/banting-seed-crackers-600.png" srcset="{{ site.baseurl }}/assets/img/recipes/banting-seed-crackers-600.png 600w, {{ site.baseurl }}/assets/img/recipes/banting-seed-crackers.png 1200w" sizes="(max-width: 760px) 50vw, 225px" alt="Banting seed crackers made with sunflower, pumpkin, flax and chia seeds" width="1200" height="900" loading="lazy" decoding="async">
+    </picture>
     <span class="recipe-card-title">Banting seed crackers</span>
     <span class="recipe-card-meta">~0.5g net carbs a cracker</span>
   </a>
   <a class="recipe-card" href="{{ site.baseurl }}/recipes/banting-rusks/">
-    <img src="{{ site.baseurl }}/assets/img/recipes/banting-rusks.png" alt="Banting rusks on a plate next to a cup of coffee" width="1200" height="900" loading="lazy">
+    <picture>
+      <source type="image/avif" srcset="{{ site.baseurl }}/assets/img/recipes/banting-rusks-600.avif 600w, {{ site.baseurl }}/assets/img/recipes/banting-rusks-1200.avif 1200w" sizes="(max-width: 760px) 50vw, 225px">
+      <source type="image/webp" srcset="{{ site.baseurl }}/assets/img/recipes/banting-rusks-600.webp 600w, {{ site.baseurl }}/assets/img/recipes/banting-rusks-1200.webp 1200w" sizes="(max-width: 760px) 50vw, 225px">
+      <img src="{{ site.baseurl }}/assets/img/recipes/banting-rusks-600.png" srcset="{{ site.baseurl }}/assets/img/recipes/banting-rusks-600.png 600w, {{ site.baseurl }}/assets/img/recipes/banting-rusks.png 1200w" sizes="(max-width: 760px) 50vw, 225px" alt="Banting rusks on a plate next to a cup of coffee" width="1200" height="900" loading="lazy" decoding="async">
+    </picture>
     <span class="recipe-card-title">Banting rusks</span>
     <span class="recipe-card-meta">~2g net carbs a rusk</span>
   </a>
   <a class="recipe-card" href="{{ site.baseurl }}/recipes/banting-chocolate-mousse/">
-    <img src="{{ site.baseurl }}/assets/img/recipes/banting-chocolate-mousse.png" alt="Banting chocolate mousse in a glass topped with whipped cream" width="1200" height="900" loading="lazy">
+    <picture>
+      <source type="image/avif" srcset="{{ site.baseurl }}/assets/img/recipes/banting-chocolate-mousse-600.avif 600w, {{ site.baseurl }}/assets/img/recipes/banting-chocolate-mousse-1200.avif 1200w" sizes="(max-width: 760px) 50vw, 225px">
+      <source type="image/webp" srcset="{{ site.baseurl }}/assets/img/recipes/banting-chocolate-mousse-600.webp 600w, {{ site.baseurl }}/assets/img/recipes/banting-chocolate-mousse-1200.webp 1200w" sizes="(max-width: 760px) 50vw, 225px">
+      <img src="{{ site.baseurl }}/assets/img/recipes/banting-chocolate-mousse-600.png" srcset="{{ site.baseurl }}/assets/img/recipes/banting-chocolate-mousse-600.png 600w, {{ site.baseurl }}/assets/img/recipes/banting-chocolate-mousse.png 1200w" sizes="(max-width: 760px) 50vw, 225px" alt="Banting chocolate mousse in a glass topped with whipped cream" width="1200" height="900" loading="lazy" decoding="async">
+    </picture>
     <span class="recipe-card-title">Chocolate mousse</span>
     <span class="recipe-card-meta">~3g net carbs a serving</span>
   </a>

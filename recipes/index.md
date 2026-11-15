@@ -46,32 +46,56 @@ These bands match the tracker in Banting Buddy, so a recipe you find here logs t
 
 <div class="recipe-grid">
   <a class="recipe-card" href="{{ site.baseurl }}/recipes/banting-pancakes/">
-    <img src="{{ site.baseurl }}/assets/img/recipes/banting-pancakes.png" alt="Stack of flourless Banting pancakes with butter and syrup" width="1200" height="900" loading="lazy">
+    <picture>
+      <source type="image/avif" srcset="{{ site.baseurl }}/assets/img/recipes/banting-pancakes-600.avif 600w, {{ site.baseurl }}/assets/img/recipes/banting-pancakes-1200.avif 1200w" sizes="(max-width: 760px) 50vw, 225px">
+      <source type="image/webp" srcset="{{ site.baseurl }}/assets/img/recipes/banting-pancakes-600.webp 600w, {{ site.baseurl }}/assets/img/recipes/banting-pancakes-1200.webp 1200w" sizes="(max-width: 760px) 50vw, 225px">
+      <img src="{{ site.baseurl }}/assets/img/recipes/banting-pancakes-600.png" srcset="{{ site.baseurl }}/assets/img/recipes/banting-pancakes-600.png 600w, {{ site.baseurl }}/assets/img/recipes/banting-pancakes.png 1200w" sizes="(max-width: 760px) 50vw, 225px" alt="Stack of flourless Banting pancakes with butter and syrup" width="1200" height="900" loading="lazy" decoding="async">
+    </picture>
     <span class="recipe-card-title">Banting pancakes</span>
     <span class="recipe-card-meta">Breakfast · ~2g net carbs</span>
   </a>
   <a class="recipe-card" href="{{ site.baseurl }}/recipes/banting-seed-crackers/">
-    <img src="{{ site.baseurl }}/assets/img/recipes/banting-seed-crackers.png" alt="Banting seed crackers made with sunflower, pumpkin, flax and chia seeds" width="1200" height="900" loading="lazy">
+    <picture>
+      <source type="image/avif" srcset="{{ site.baseurl }}/assets/img/recipes/banting-seed-crackers-600.avif 600w, {{ site.baseurl }}/assets/img/recipes/banting-seed-crackers-1200.avif 1200w" sizes="(max-width: 760px) 50vw, 225px">
+      <source type="image/webp" srcset="{{ site.baseurl }}/assets/img/recipes/banting-seed-crackers-600.webp 600w, {{ site.baseurl }}/assets/img/recipes/banting-seed-crackers-1200.webp 1200w" sizes="(max-width: 760px) 50vw, 225px">
+      <img src="{{ site.baseurl }}/assets/img/recipes/banting-seed-crackers-600.png" srcset="{{ site.baseurl }}/assets/img/recipes/banting-seed-crackers-600.png 600w, {{ site.baseurl }}/assets/img/recipes/banting-seed-crackers.png 1200w" sizes="(max-width: 760px) 50vw, 225px" alt="Banting seed crackers made with sunflower, pumpkin, flax and chia seeds" width="1200" height="900" loading="lazy" decoding="async">
+    </picture>
     <span class="recipe-card-title">Banting seed crackers</span>
     <span class="recipe-card-meta">Snack · ~0.5g net carbs a cracker</span>
   </a>
   <a class="recipe-card" href="{{ site.baseurl }}/recipes/banting-bread/">
-    <img src="{{ site.baseurl }}/assets/img/recipes/banting-bread.png" alt="Sliced loaf of Banting almond flour bread with a seed topping" width="1200" height="900" loading="lazy">
+    <picture>
+      <source type="image/avif" srcset="{{ site.baseurl }}/assets/img/recipes/banting-bread-600.avif 600w, {{ site.baseurl }}/assets/img/recipes/banting-bread-1200.avif 1200w" sizes="(max-width: 760px) 50vw, 225px">
+      <source type="image/webp" srcset="{{ site.baseurl }}/assets/img/recipes/banting-bread-600.webp 600w, {{ site.baseurl }}/assets/img/recipes/banting-bread-1200.webp 1200w" sizes="(max-width: 760px) 50vw, 225px">
+      <img src="{{ site.baseurl }}/assets/img/recipes/banting-bread-600.png" srcset="{{ site.baseurl }}/assets/img/recipes/banting-bread-600.png 600w, {{ site.baseurl }}/assets/img/recipes/banting-bread.png 1200w" sizes="(max-width: 760px) 50vw, 225px" alt="Sliced loaf of Banting almond flour bread with a seed topping" width="1200" height="900" loading="lazy" decoding="async">
+    </picture>
     <span class="recipe-card-title">Banting bread</span>
     <span class="recipe-card-meta">Bread · ~2g net carbs a slice</span>
   </a>
   <a class="recipe-card" href="{{ site.baseurl }}/recipes/banting-rusks/">
-    <img src="{{ site.baseurl }}/assets/img/recipes/banting-rusks.png" alt="Banting rusks on a plate next to a cup of coffee" width="1200" height="900" loading="lazy">
+    <picture>
+      <source type="image/avif" srcset="{{ site.baseurl }}/assets/img/recipes/banting-rusks-600.avif 600w, {{ site.baseurl }}/assets/img/recipes/banting-rusks-1200.avif 1200w" sizes="(max-width: 760px) 50vw, 225px">
+      <source type="image/webp" srcset="{{ site.baseurl }}/assets/img/recipes/banting-rusks-600.webp 600w, {{ site.baseurl }}/assets/img/recipes/banting-rusks-1200.webp 1200w" sizes="(max-width: 760px) 50vw, 225px">
+      <img src="{{ site.baseurl }}/assets/img/recipes/banting-rusks-600.png" srcset="{{ site.baseurl }}/assets/img/recipes/banting-rusks-600.png 600w, {{ site.baseurl }}/assets/img/recipes/banting-rusks.png 1200w" sizes="(max-width: 760px) 50vw, 225px" alt="Banting rusks on a plate next to a cup of coffee" width="1200" height="900" loading="lazy" decoding="async">
+    </picture>
     <span class="recipe-card-title">Banting rusks</span>
     <span class="recipe-card-meta">Snack · ~2g net carbs a rusk</span>
   </a>
   <a class="recipe-card" href="{{ site.baseurl }}/recipes/banting-chocolate-mousse/">
-    <img src="{{ site.baseurl }}/assets/img/recipes/banting-chocolate-mousse.png" alt="Banting chocolate mousse in a glass topped with whipped cream" width="1200" height="900" loading="lazy">
+    <picture>
+      <source type="image/avif" srcset="{{ site.baseurl }}/assets/img/recipes/banting-chocolate-mousse-600.avif 600w, {{ site.baseurl }}/assets/img/recipes/banting-chocolate-mousse-1200.avif 1200w" sizes="(max-width: 760px) 50vw, 225px">
+      <source type="image/webp" srcset="{{ site.baseurl }}/assets/img/recipes/banting-chocolate-mousse-600.webp 600w, {{ site.baseurl }}/assets/img/recipes/banting-chocolate-mousse-1200.webp 1200w" sizes="(max-width: 760px) 50vw, 225px">
+      <img src="{{ site.baseurl }}/assets/img/recipes/banting-chocolate-mousse-600.png" srcset="{{ site.baseurl }}/assets/img/recipes/banting-chocolate-mousse-600.png 600w, {{ site.baseurl }}/assets/img/recipes/banting-chocolate-mousse.png 1200w" sizes="(max-width: 760px) 50vw, 225px" alt="Banting chocolate mousse in a glass topped with whipped cream" width="1200" height="900" loading="lazy" decoding="async">
+    </picture>
     <span class="recipe-card-title">Chocolate mousse</span>
     <span class="recipe-card-meta">Dessert · ~3g net carbs a serving</span>
   </a>
   <a class="recipe-card" href="{{ site.baseurl }}/recipes/banting-pizza-base/">
-    <img src="{{ site.baseurl }}/assets/img/recipes/banting-pizza-base.png" alt="Banting pizza base topped with tomato, mozzarella, cherry tomatoes and basil" width="1200" height="900" loading="lazy">
+    <picture>
+      <source type="image/avif" srcset="{{ site.baseurl }}/assets/img/recipes/banting-pizza-base-600.avif 600w, {{ site.baseurl }}/assets/img/recipes/banting-pizza-base-1200.avif 1200w" sizes="(max-width: 760px) 50vw, 225px">
+      <source type="image/webp" srcset="{{ site.baseurl }}/assets/img/recipes/banting-pizza-base-600.webp 600w, {{ site.baseurl }}/assets/img/recipes/banting-pizza-base-1200.webp 1200w" sizes="(max-width: 760px) 50vw, 225px">
+      <img src="{{ site.baseurl }}/assets/img/recipes/banting-pizza-base-600.png" srcset="{{ site.baseurl }}/assets/img/recipes/banting-pizza-base-600.png 600w, {{ site.baseurl }}/assets/img/recipes/banting-pizza-base.png 1200w" sizes="(max-width: 760px) 50vw, 225px" alt="Banting pizza base topped with tomato, mozzarella, cherry tomatoes and basil" width="1200" height="900" loading="lazy" decoding="async">
+    </picture>
     <span class="recipe-card-title">Banting pizza base</span>
     <span class="recipe-card-meta">Bread · ~2g net carbs a slice</span>
   </a>

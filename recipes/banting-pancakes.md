@@ -13,7 +13,11 @@ image: /assets/img/recipes/banting-pancakes.png
 This is the recipe to make on a Sunday morning when the family is having real pancakes. The texture is closer to a thin crumpet than a fluffy American pancake, but it does the job.
 
 <figure class="recipe-photo">
-  <img src="{{ site.baseurl }}/assets/img/recipes/banting-pancakes.png" alt="Stack of flourless Banting pancakes with butter and syrup" width="1200" height="900" loading="lazy">
+  <picture>
+    <source type="image/avif" srcset="{{ site.baseurl }}/assets/img/recipes/banting-pancakes-600.avif 600w, {{ site.baseurl }}/assets/img/recipes/banting-pancakes-1200.avif 1200w" sizes="(max-width: 760px) calc(100vw - 3rem), 712px">
+    <source type="image/webp" srcset="{{ site.baseurl }}/assets/img/recipes/banting-pancakes-600.webp 600w, {{ site.baseurl }}/assets/img/recipes/banting-pancakes-1200.webp 1200w" sizes="(max-width: 760px) calc(100vw - 3rem), 712px">
+    <img src="{{ site.baseurl }}/assets/img/recipes/banting-pancakes.png" srcset="{{ site.baseurl }}/assets/img/recipes/banting-pancakes-600.png 600w, {{ site.baseurl }}/assets/img/recipes/banting-pancakes.png 1200w" sizes="(max-width: 760px) calc(100vw - 3rem), 712px" alt="Stack of flourless Banting pancakes with butter and syrup" width="1200" height="900" fetchpriority="high" decoding="async">
+  </picture>
 </figure>
 
 ## At a glance

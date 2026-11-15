@@ -15,7 +15,11 @@ The danger is not the meat. It is the marinade, the basting sauce, the wors fill
 
 <div class="recipe-grid single">
   <a class="recipe-card" href="{{ site.baseurl }}/recipes/banting-chocolate-mousse/">
-    <img src="{{ site.baseurl }}/assets/img/recipes/banting-chocolate-mousse.png" alt="Banting chocolate mousse in a glass topped with whipped cream" width="1200" height="900" loading="lazy">
+    <picture>
+      <source type="image/avif" srcset="{{ site.baseurl }}/assets/img/recipes/banting-chocolate-mousse-600.avif 600w, {{ site.baseurl }}/assets/img/recipes/banting-chocolate-mousse-1200.avif 1200w" sizes="(max-width: 760px) 50vw, 225px">
+      <source type="image/webp" srcset="{{ site.baseurl }}/assets/img/recipes/banting-chocolate-mousse-600.webp 600w, {{ site.baseurl }}/assets/img/recipes/banting-chocolate-mousse-1200.webp 1200w" sizes="(max-width: 760px) 50vw, 225px">
+      <img src="{{ site.baseurl }}/assets/img/recipes/banting-chocolate-mousse-600.png" srcset="{{ site.baseurl }}/assets/img/recipes/banting-chocolate-mousse-600.png 600w, {{ site.baseurl }}/assets/img/recipes/banting-chocolate-mousse.png 1200w" sizes="(max-width: 760px) 50vw, 225px" alt="Banting chocolate mousse in a glass topped with whipped cream" width="1200" height="900" loading="lazy" decoding="async">
+    </picture>
     <span class="recipe-card-title">Chocolate mousse</span>
     <span class="recipe-card-meta">~3g net carbs a serving</span>
   </a>

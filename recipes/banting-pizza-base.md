@@ -13,7 +13,11 @@ image: /assets/img/recipes/banting-pizza-base.png
 The toppings decide whether the meal stays Banting. Tomato paste, cheese, mushrooms, peppers, olives and salami are fine. Sweet chilli sauce, pineapple and a thick BBQ base are not.
 
 <figure class="recipe-photo">
-  <img src="{{ site.baseurl }}/assets/img/recipes/banting-pizza-base.png" alt="Banting pizza base topped with tomato, mozzarella, cherry tomatoes and basil" width="1200" height="900" loading="lazy">
+  <picture>
+    <source type="image/avif" srcset="{{ site.baseurl }}/assets/img/recipes/banting-pizza-base-600.avif 600w, {{ site.baseurl }}/assets/img/recipes/banting-pizza-base-1200.avif 1200w" sizes="(max-width: 760px) calc(100vw - 3rem), 712px">
+    <source type="image/webp" srcset="{{ site.baseurl }}/assets/img/recipes/banting-pizza-base-600.webp 600w, {{ site.baseurl }}/assets/img/recipes/banting-pizza-base-1200.webp 1200w" sizes="(max-width: 760px) calc(100vw - 3rem), 712px">
+    <img src="{{ site.baseurl }}/assets/img/recipes/banting-pizza-base.png" srcset="{{ site.baseurl }}/assets/img/recipes/banting-pizza-base-600.png 600w, {{ site.baseurl }}/assets/img/recipes/banting-pizza-base.png 1200w" sizes="(max-width: 760px) calc(100vw - 3rem), 712px" alt="Banting pizza base topped with tomato, mozzarella, cherry tomatoes and basil" width="1200" height="900" fetchpriority="high" decoding="async">
+  </picture>
 </figure>
 
 ## At a glance

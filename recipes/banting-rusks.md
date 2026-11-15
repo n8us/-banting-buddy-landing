@@ -13,7 +13,11 @@ image: /assets/img/recipes/banting-rusks.png
 Rusks are a South African institution, and giving them up is one of the hardest parts of starting Banting. This version keeps the coffee-dipping ritual without the 15g of carbs.
 
 <figure class="recipe-photo">
-  <img src="{{ site.baseurl }}/assets/img/recipes/banting-rusks.png" alt="Banting rusks on a plate next to a cup of coffee" width="1200" height="900" loading="lazy">
+  <picture>
+    <source type="image/avif" srcset="{{ site.baseurl }}/assets/img/recipes/banting-rusks-600.avif 600w, {{ site.baseurl }}/assets/img/recipes/banting-rusks-1200.avif 1200w" sizes="(max-width: 760px) calc(100vw - 3rem), 712px">
+    <source type="image/webp" srcset="{{ site.baseurl }}/assets/img/recipes/banting-rusks-600.webp 600w, {{ site.baseurl }}/assets/img/recipes/banting-rusks-1200.webp 1200w" sizes="(max-width: 760px) calc(100vw - 3rem), 712px">
+    <img src="{{ site.baseurl }}/assets/img/recipes/banting-rusks.png" srcset="{{ site.baseurl }}/assets/img/recipes/banting-rusks-600.png 600w, {{ site.baseurl }}/assets/img/recipes/banting-rusks.png 1200w" sizes="(max-width: 760px) calc(100vw - 3rem), 712px" alt="Banting rusks on a plate next to a cup of coffee" width="1200" height="900" fetchpriority="high" decoding="async">
+  </picture>
 </figure>
 
 ## At a glance

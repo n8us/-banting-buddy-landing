@@ -744,6 +744,9 @@
       border-top: 1px solid var(--border);
     }
 
+    .skip-link { position: absolute; left: -9999px; top: 0; z-index: 1000; background: var(--green); color: #fff; padding: .7rem 1rem; border-radius: 0 0 8px 0; font-size: .85rem; text-decoration: none; }
+    .skip-link:focus { left: 0; }
+
     /* RECIPE THUMBNAILS */
     .recipe-grid {
       display: grid;
@@ -773,6 +776,10 @@
       height: auto;
       aspect-ratio: 4 / 3;
       object-fit: cover;
+    }
+
+    .recipe-card picture {
+      display: block;
     }
 
     .recipe-card-title {
@@ -918,6 +925,7 @@
 </head>
 
 <body>
+  <a class="skip-link" href="#main">Skip to content</a>
 
   <!-- NAV -->
   <nav>
@@ -934,8 +942,9 @@
     </div>
   </nav>
 
+  <main id="main">
   <!-- HERO -->
-  <header class="hero" role="banner">
+  <header class="hero">
     <div class="hero-grid">
       <div>
         <span class="hero-eyebrow">Built specifically for Banting · No account needed</span>
@@ -1072,17 +1081,29 @@
       </p>
       <div class="recipe-grid">
         <a class="recipe-card" href="{{ site.baseurl }}/recipes/banting-pancakes/">
-          <img src="{{ site.baseurl }}/assets/img/recipes/banting-pancakes.png" alt="Stack of flourless Banting pancakes with butter and syrup" width="1200" height="900" loading="lazy">
+          <picture>
+            <source type="image/avif" srcset="{{ site.baseurl }}/assets/img/recipes/banting-pancakes-600.avif 600w, {{ site.baseurl }}/assets/img/recipes/banting-pancakes-1200.avif 1200w" sizes="(max-width: 560px) 45vw, 220px">
+            <source type="image/webp" srcset="{{ site.baseurl }}/assets/img/recipes/banting-pancakes-600.webp 600w, {{ site.baseurl }}/assets/img/recipes/banting-pancakes-1200.webp 1200w" sizes="(max-width: 560px) 45vw, 220px">
+            <img src="{{ site.baseurl }}/assets/img/recipes/banting-pancakes-600.png" srcset="{{ site.baseurl }}/assets/img/recipes/banting-pancakes-600.png 600w, {{ site.baseurl }}/assets/img/recipes/banting-pancakes.png 1200w" sizes="(max-width: 560px) 45vw, 220px" alt="Stack of flourless Banting pancakes with butter and syrup" width="1200" height="900" loading="lazy" decoding="async">
+          </picture>
           <span class="recipe-card-title">Banting pancakes</span>
           <span class="recipe-card-meta">~2g net carbs</span>
         </a>
         <a class="recipe-card" href="{{ site.baseurl }}/recipes/banting-seed-crackers/">
-          <img src="{{ site.baseurl }}/assets/img/recipes/banting-seed-crackers.png" alt="Banting seed crackers made with sunflower, pumpkin, flax and chia seeds" width="1200" height="900" loading="lazy">
+          <picture>
+            <source type="image/avif" srcset="{{ site.baseurl }}/assets/img/recipes/banting-seed-crackers-600.avif 600w, {{ site.baseurl }}/assets/img/recipes/banting-seed-crackers-1200.avif 1200w" sizes="(max-width: 560px) 45vw, 220px">
+            <source type="image/webp" srcset="{{ site.baseurl }}/assets/img/recipes/banting-seed-crackers-600.webp 600w, {{ site.baseurl }}/assets/img/recipes/banting-seed-crackers-1200.webp 1200w" sizes="(max-width: 560px) 45vw, 220px">
+            <img src="{{ site.baseurl }}/assets/img/recipes/banting-seed-crackers-600.png" srcset="{{ site.baseurl }}/assets/img/recipes/banting-seed-crackers-600.png 600w, {{ site.baseurl }}/assets/img/recipes/banting-seed-crackers.png 1200w" sizes="(max-width: 560px) 45vw, 220px" alt="Banting seed crackers made with sunflower, pumpkin, flax and chia seeds" width="1200" height="900" loading="lazy" decoding="async">
+          </picture>
           <span class="recipe-card-title">Seed crackers</span>
           <span class="recipe-card-meta">~0.5g each</span>
         </a>
         <a class="recipe-card" href="{{ site.baseurl }}/recipes/banting-bread/">
-          <img src="{{ site.baseurl }}/assets/img/recipes/banting-bread.png" alt="Sliced loaf of Banting almond flour bread with a seed topping" width="1200" height="900" loading="lazy">
+          <picture>
+            <source type="image/avif" srcset="{{ site.baseurl }}/assets/img/recipes/banting-bread-600.avif 600w, {{ site.baseurl }}/assets/img/recipes/banting-bread-1200.avif 1200w" sizes="(max-width: 560px) 45vw, 220px">
+            <source type="image/webp" srcset="{{ site.baseurl }}/assets/img/recipes/banting-bread-600.webp 600w, {{ site.baseurl }}/assets/img/recipes/banting-bread-1200.webp 1200w" sizes="(max-width: 560px) 45vw, 220px">
+            <img src="{{ site.baseurl }}/assets/img/recipes/banting-bread-600.png" srcset="{{ site.baseurl }}/assets/img/recipes/banting-bread-600.png 600w, {{ site.baseurl }}/assets/img/recipes/banting-bread.png 1200w" sizes="(max-width: 560px) 45vw, 220px" alt="Sliced loaf of Banting almond flour bread with a seed topping" width="1200" height="900" loading="lazy" decoding="async">
+          </picture>
           <span class="recipe-card-title">Banting bread</span>
           <span class="recipe-card-meta">~2g a slice</span>
         </a>
@@ -1321,6 +1342,7 @@
       </ul>
     </div>
   </section>
+  </main>
 
   <!-- FOOTER -->
   <footer>

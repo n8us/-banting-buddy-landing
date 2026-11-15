@@ -13,7 +13,11 @@ image: /assets/img/recipes/banting-bread.png
 Most low-carb bread fails because it has nothing to hold it together. Almond flour has no gluten, so psyllium husk does that job. Do not skip it, and do not substitute coconut flour 1:1 — it absorbs far more liquid.
 
 <figure class="recipe-photo">
-  <img src="{{ site.baseurl }}/assets/img/recipes/banting-bread.png" alt="Sliced loaf of Banting almond flour bread with a seed topping" width="1200" height="900" loading="lazy">
+  <picture>
+    <source type="image/avif" srcset="{{ site.baseurl }}/assets/img/recipes/banting-bread-600.avif 600w, {{ site.baseurl }}/assets/img/recipes/banting-bread-1200.avif 1200w" sizes="(max-width: 760px) calc(100vw - 3rem), 712px">
+    <source type="image/webp" srcset="{{ site.baseurl }}/assets/img/recipes/banting-bread-600.webp 600w, {{ site.baseurl }}/assets/img/recipes/banting-bread-1200.webp 1200w" sizes="(max-width: 760px) calc(100vw - 3rem), 712px">
+    <img src="{{ site.baseurl }}/assets/img/recipes/banting-bread.png" srcset="{{ site.baseurl }}/assets/img/recipes/banting-bread-600.png 600w, {{ site.baseurl }}/assets/img/recipes/banting-bread.png 1200w" sizes="(max-width: 760px) calc(100vw - 3rem), 712px" alt="Sliced loaf of Banting almond flour bread with a seed topping" width="1200" height="900" fetchpriority="high" decoding="async">
+  </picture>
 </figure>
 
 ## At a glance
