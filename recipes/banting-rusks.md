@@ -2,7 +2,8 @@
 title: "Banting Rusks Recipe: Buttermilk-Style Low-Carb Rusks (2g Carbs)"
 description: "Crunchy Banting rusks made with almond flour, coconut flour and psyllium, baked twice. 24 rusks at about 2g net carbs each — perfect with coffee or rooibos."
 date: 2026-11-14
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-15
+image: /assets/img/recipes/banting-rusks.png
 ---
 
 # Banting rusks recipe
@@ -10,6 +11,10 @@ last_modified_at: 2026-11-14
 **Short answer:** These Banting rusks use almond flour, coconut flour, psyllium and butter, are baked as a loaf, sliced, then dried low and slow. One batch makes **24 rusks at about 2g net carbs each**. They crunch like a rusk, not like a cake.
 
 Rusks are a South African institution, and giving them up is one of the hardest parts of starting Banting. This version keeps the coffee-dipping ritual without the 15g of carbs.
+
+<figure class="recipe-photo">
+  <img src="{{ site.baseurl }}/assets/img/recipes/banting-rusks.png" alt="Banting rusks on a plate next to a cup of coffee" width="1200" height="900" loading="lazy">
+</figure>
 
 ## At a glance
 
@@ -113,7 +118,10 @@ For more baking, see the [Banting bread recipes]({{ site.baseurl }}/recipes/brea
   "@type": "Recipe",
   "name": "Banting Rusks",
   "description": "Crunchy low-carb Banting rusks made with almond flour, coconut flour and psyllium, baked twice. About 2g net carbs each.",
-  "author": { "@type": "Organization", "name": "Banting Buddy" },
+  "author": {
+    "@type": "Organization",
+    "name": "Banting Buddy"
+  },
   "datePublished": "2026-11-14",
   "recipeCategory": "Snack",
   "recipeCuisine": "South African",
@@ -135,13 +143,55 @@ For more baking, see the [Banting bread recipes]({{ site.baseurl }}/recipes/brea
     "30g erythritol (optional)"
   ],
   "recipeInstructions": [
-    { "@type": "HowToStep", "text": "Heat the oven to 180C and line a 20cm x 10cm loaf tin." },
-    { "@type": "HowToStep", "text": "Mix the almond flour, coconut flour, psyllium, baking powder and salt." },
-    { "@type": "HowToStep", "text": "Beat the butter and sweetener, then add the eggs, cream and vanilla." },
-    { "@type": "HowToStep", "text": "Combine the wet and dry mixtures and rest for 10 minutes." },
-    { "@type": "HowToStep", "text": "Press into the tin and bake at 180C for 40 minutes." },
-    { "@type": "HowToStep", "text": "Cool completely, then slice into 24 fingers." },
-    { "@type": "HowToStep", "text": "Dry the slices at 100C for 2.5 to 3 hours, turning once, until hard and light." }
+    {
+      "@type": "HowToStep",
+      "text": "Heat the oven to 180C and line a 20cm x 10cm loaf tin.",
+      "name": "Heat the oven",
+      "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-rusks/",
+      "image": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-rusks.png"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mix the almond flour, coconut flour, psyllium, baking powder and salt.",
+      "name": "Mix the dry ingredients",
+      "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-rusks/",
+      "image": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-rusks.png"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Beat the butter and sweetener, then add the eggs, cream and vanilla.",
+      "name": "Beat the wet ingredients",
+      "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-rusks/",
+      "image": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-rusks.png"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Combine the wet and dry mixtures and rest for 10 minutes.",
+      "name": "Combine and rest",
+      "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-rusks/",
+      "image": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-rusks.png"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Press into the tin and bake at 180C for 40 minutes.",
+      "name": "Bake the loaf",
+      "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-rusks/",
+      "image": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-rusks.png"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cool completely, then slice into 24 fingers.",
+      "name": "Slice into fingers",
+      "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-rusks/",
+      "image": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-rusks.png"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Dry the slices at 100C for 2.5 to 3 hours, turning once, until hard and light.",
+      "name": "Dry the rusks",
+      "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-rusks/",
+      "image": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-rusks.png"
+    }
   ],
   "nutrition": {
     "@type": "NutritionInformation",
@@ -151,7 +201,17 @@ For more baking, see the [Banting bread recipes]({{ site.baseurl }}/recipes/brea
     "fiberContent": "3 g",
     "proteinContent": "3 g",
     "fatContent": "10 g"
-  }
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-rusks.png",
+      "width": 1200,
+      "height": 900
+    }
+  ],
+  "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-rusks/",
+  "mainEntityOfPage": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-rusks/"
 }
 </script>
 

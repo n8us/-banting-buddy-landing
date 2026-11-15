@@ -2,7 +2,8 @@
 title: "Banting Chocolate Mousse Recipe (4g Net Carbs, No Sugar)"
 description: "Rich Banting chocolate mousse made with 85% dark chocolate and cream. No sugar, no eggs, 4g net carbs a serving, ready in 20 minutes plus chilling."
 date: 2026-11-14
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-15
+image: /assets/img/recipes/banting-chocolate-mousse.png
 ---
 
 # Banting chocolate mousse recipe
@@ -10,6 +11,10 @@ last_modified_at: 2026-11-14
 **Short answer:** This Banting chocolate mousse is 85% dark chocolate folded through whipped cream, with cocoa and a pinch of salt. It serves four at about **4g net carbs a serving**, takes 20 minutes, and needs no eggs, gelatine or cooking.
 
 It is the dessert that convinces people low-carb eating is not a punishment. The key is choosing real dark chocolate and not over-sweetening it.
+
+<figure class="recipe-photo">
+  <img src="{{ site.baseurl }}/assets/img/recipes/banting-chocolate-mousse.png" alt="Banting chocolate mousse in a glass topped with whipped cream" width="1200" height="900" loading="lazy">
+</figure>
 
 ## At a glance
 
@@ -92,7 +97,10 @@ For more low-carb sweets, see the [Banting dessert recipes]({{ site.baseurl }}/r
   "@type": "Recipe",
   "name": "Banting Chocolate Mousse",
   "description": "Rich low-carb chocolate mousse with 85% dark chocolate and cream, about 4g net carbs a serving.",
-  "author": { "@type": "Organization", "name": "Banting Buddy" },
+  "author": {
+    "@type": "Organization",
+    "name": "Banting Buddy"
+  },
   "datePublished": "2026-11-14",
   "recipeCategory": "Dessert",
   "recipeCuisine": "South African",
@@ -110,11 +118,41 @@ For more low-carb sweets, see the [Banting dessert recipes]({{ site.baseurl }}/r
     "1 tbsp erythritol (optional)"
   ],
   "recipeInstructions": [
-    { "@type": "HowToStep", "text": "Melt the chocolate over a low heat and cool for 2 minutes." },
-    { "@type": "HowToStep", "text": "Whip the cream to soft peaks." },
-    { "@type": "HowToStep", "text": "Stir the cocoa, vanilla, salt and sweetener into the chocolate." },
-    { "@type": "HowToStep", "text": "Fold one-third of the cream into the chocolate, then fold in the rest gently." },
-    { "@type": "HowToStep", "text": "Divide into four glasses and chill for at least 2 hours." }
+    {
+      "@type": "HowToStep",
+      "text": "Melt the chocolate over a low heat and cool for 2 minutes.",
+      "name": "Melt the chocolate",
+      "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-chocolate-mousse/",
+      "image": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-chocolate-mousse.png"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Whip the cream to soft peaks.",
+      "name": "Whip the cream",
+      "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-chocolate-mousse/",
+      "image": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-chocolate-mousse.png"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir the cocoa, vanilla, salt and sweetener into the chocolate.",
+      "name": "Flavour the chocolate",
+      "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-chocolate-mousse/",
+      "image": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-chocolate-mousse.png"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Fold one-third of the cream into the chocolate, then fold in the rest gently.",
+      "name": "Fold in the cream",
+      "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-chocolate-mousse/",
+      "image": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-chocolate-mousse.png"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Divide into four glasses and chill for at least 2 hours.",
+      "name": "Chill and serve",
+      "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-chocolate-mousse/",
+      "image": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-chocolate-mousse.png"
+    }
   ],
   "nutrition": {
     "@type": "NutritionInformation",
@@ -123,7 +161,17 @@ For more low-carb sweets, see the [Banting dessert recipes]({{ site.baseurl }}/r
     "carbohydrateContent": "4 g",
     "proteinContent": "3 g",
     "fatContent": "24 g"
-  }
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-chocolate-mousse.png",
+      "width": 1200,
+      "height": 900
+    }
+  ],
+  "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-chocolate-mousse/",
+  "mainEntityOfPage": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-chocolate-mousse/"
 }
 </script>
 

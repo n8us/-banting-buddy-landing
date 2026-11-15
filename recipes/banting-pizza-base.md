@@ -2,7 +2,8 @@
 title: "Banting Pizza Base Recipe: Fathead Dough (2g Net Carbs a Slice)"
 description: "Banting pizza base made with mozzarella, cream cheese, egg and almond flour. Crispy fathead crust, 8 slices at about 2g net carbs each, ready in 30 minutes."
 date: 2026-11-14
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-15
+image: /assets/img/recipes/banting-pizza-base.png
 ---
 
 # Banting pizza base recipe
@@ -10,6 +11,10 @@ last_modified_at: 2026-11-14
 **Short answer:** This Banting pizza base is a fathead dough: melted mozzarella, cream cheese, egg and almond flour. It makes one large base, **8 slices at about 2g net carbs each**, and takes 30 minutes including the bake. It rolls, stretches and crisps like a proper pizza.
 
 The toppings decide whether the meal stays Banting. Tomato paste, cheese, mushrooms, peppers, olives and salami are fine. Sweet chilli sauce, pineapple and a thick BBQ base are not.
+
+<figure class="recipe-photo">
+  <img src="{{ site.baseurl }}/assets/img/recipes/banting-pizza-base.png" alt="Banting pizza base topped with tomato, mozzarella, cherry tomatoes and basil" width="1200" height="900" loading="lazy">
+</figure>
 
 ## At a glance
 
@@ -114,7 +119,10 @@ For more low-carb baking, see the [Banting bread recipes]({{ site.baseurl }}/rec
   "@type": "Recipe",
   "name": "Banting Pizza Base (Fathead Dough)",
   "description": "Crispy low-carb pizza base made with mozzarella, cream cheese, egg and almond flour. About 2g net carbs a slice.",
-  "author": { "@type": "Organization", "name": "Banting Buddy" },
+  "author": {
+    "@type": "Organization",
+    "name": "Banting Buddy"
+  },
   "datePublished": "2026-11-14",
   "recipeCategory": "Main course",
   "recipeCuisine": "South African",
@@ -136,12 +144,48 @@ For more low-carb baking, see the [Banting bread recipes]({{ site.baseurl }}/rec
     "50g cheddar, grated"
   ],
   "recipeInstructions": [
-    { "@type": "HowToStep", "text": "Heat the oven to 200C and line a baking tray with baking paper." },
-    { "@type": "HowToStep", "text": "Melt the mozzarella and cream cheese in the microwave in 30-second bursts." },
-    { "@type": "HowToStep", "text": "Stir in the egg, then the almond flour, baking powder, salt and oregano." },
-    { "@type": "HowToStep", "text": "Roll the dough between two sheets of baking paper to 5mm thick." },
-    { "@type": "HowToStep", "text": "Bake the base for 12 to 15 minutes until golden and firm." },
-    { "@type": "HowToStep", "text": "Add tomato paste, cheese and toppings, then bake for 5 to 8 minutes more." }
+    {
+      "@type": "HowToStep",
+      "text": "Heat the oven to 200C and line a baking tray with baking paper.",
+      "name": "Heat the oven",
+      "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-pizza-base/",
+      "image": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-pizza-base.png"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Melt the mozzarella and cream cheese in the microwave in 30-second bursts.",
+      "name": "Melt the cheeses",
+      "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-pizza-base/",
+      "image": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-pizza-base.png"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in the egg, then the almond flour, baking powder, salt and oregano.",
+      "name": "Make the dough",
+      "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-pizza-base/",
+      "image": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-pizza-base.png"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Roll the dough between two sheets of baking paper to 5mm thick.",
+      "name": "Roll out the base",
+      "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-pizza-base/",
+      "image": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-pizza-base.png"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake the base for 12 to 15 minutes until golden and firm.",
+      "name": "Bake the base",
+      "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-pizza-base/",
+      "image": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-pizza-base.png"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add tomato paste, cheese and toppings, then bake for 5 to 8 minutes more.",
+      "name": "Add toppings and finish",
+      "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-pizza-base/",
+      "image": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-pizza-base.png"
+    }
   ],
   "nutrition": {
     "@type": "NutritionInformation",
@@ -150,7 +194,17 @@ For more low-carb baking, see the [Banting bread recipes]({{ site.baseurl }}/rec
     "carbohydrateContent": "2 g",
     "proteinContent": "9 g",
     "fatContent": "14 g"
-  }
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-pizza-base.png",
+      "width": 1200,
+      "height": 900
+    }
+  ],
+  "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-pizza-base/",
+  "mainEntityOfPage": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-pizza-base/"
 }
 </script>
 

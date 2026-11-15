@@ -2,7 +2,8 @@
 title: "Banting Pancakes Recipe: 2-Ingredient Cream Cheese Pancakes"
 description: "Fluffy Banting pancakes made with eggs and cream cheese — no flour, no sugar, ~2g net carbs a serving. Easy 15-minute recipe with toppings and troubleshooting."
 date: 2026-11-14
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-15
+image: /assets/img/recipes/banting-pancakes.png
 ---
 
 # Banting pancakes recipe
@@ -10,6 +11,10 @@ last_modified_at: 2026-11-14
 **Short answer:** Banting pancakes are made from eggs and cream cheese, with a little psyllium for structure. They take 15 minutes, need no flour, and land at about **2g net carbs a serving**. They are softer and tangier than wheat pancakes, and they hold butter and berries well.
 
 This is the recipe to make on a Sunday morning when the family is having real pancakes. The texture is closer to a thin crumpet than a fluffy American pancake, but it does the job.
+
+<figure class="recipe-photo">
+  <img src="{{ site.baseurl }}/assets/img/recipes/banting-pancakes.png" alt="Stack of flourless Banting pancakes with butter and syrup" width="1200" height="900" loading="lazy">
+</figure>
 
 ## At a glance
 
@@ -102,7 +107,10 @@ For more breakfast ideas, see the [Banting breakfast recipes]({{ site.baseurl }}
   "@type": "Recipe",
   "name": "Banting Pancakes (Cream Cheese and Egg)",
   "description": "Flourless Banting pancakes made with eggs and cream cheese, about 2g net carbs a serving.",
-  "author": { "@type": "Organization", "name": "Banting Buddy" },
+  "author": {
+    "@type": "Organization",
+    "name": "Banting Buddy"
+  },
   "datePublished": "2026-11-14",
   "recipeCategory": "Breakfast",
   "recipeCuisine": "South African",
@@ -121,11 +129,41 @@ For more breakfast ideas, see the [Banting breakfast recipes]({{ site.baseurl }}
     "Butter for frying"
   ],
   "recipeInstructions": [
-    { "@type": "HowToStep", "text": "Blend the eggs, cream cheese, psyllium, cinnamon, sweetener and salt until smooth." },
-    { "@type": "HowToStep", "text": "Rest the batter for 5 minutes." },
-    { "@type": "HowToStep", "text": "Heat a non-stick pan over medium-low heat with a knob of butter." },
-    { "@type": "HowToStep", "text": "Pour 2 tbsp of batter per pancake and cook for 2 minutes until the edges set." },
-    { "@type": "HowToStep", "text": "Flip gently and cook for 1 minute more, then keep warm." }
+    {
+      "@type": "HowToStep",
+      "text": "Blend the eggs, cream cheese, psyllium, cinnamon, sweetener and salt until smooth.",
+      "name": "Blend the batter",
+      "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-pancakes/",
+      "image": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-pancakes.png"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Rest the batter for 5 minutes.",
+      "name": "Rest the batter",
+      "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-pancakes/",
+      "image": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-pancakes.png"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat a non-stick pan over medium-low heat with a knob of butter.",
+      "name": "Heat the pan",
+      "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-pancakes/",
+      "image": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-pancakes.png"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour 2 tbsp of batter per pancake and cook for 2 minutes until the edges set.",
+      "name": "Cook the pancakes",
+      "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-pancakes/",
+      "image": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-pancakes.png"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Flip gently and cook for 1 minute more, then keep warm.",
+      "name": "Flip and keep warm",
+      "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-pancakes/",
+      "image": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-pancakes.png"
+    }
   ],
   "nutrition": {
     "@type": "NutritionInformation",
@@ -134,7 +172,17 @@ For more breakfast ideas, see the [Banting breakfast recipes]({{ site.baseurl }}
     "carbohydrateContent": "2 g",
     "proteinContent": "14 g",
     "fatContent": "27 g"
-  }
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-pancakes.png",
+      "width": 1200,
+      "height": 900
+    }
+  ],
+  "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-pancakes/",
+  "mainEntityOfPage": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-pancakes/"
 }
 </script>
 

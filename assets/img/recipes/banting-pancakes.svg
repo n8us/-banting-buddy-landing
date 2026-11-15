@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+<defs>
+  <radialGradient id="bg" cx="50%" cy="34%" r="82%">
+    <stop offset="0%" stop-color="#f3f6ef"/>
+    <stop offset="62%" stop-color="#e6ece2"/>
+    <stop offset="100%" stop-color="#d2ddd1"/>
+  </radialGradient>
+  <linearGradient id="plate" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#ffffff"/>
+    <stop offset="100%" stop-color="#f3ece0"/>
+  </linearGradient>
+  <linearGradient id="dark" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#4a2c1c"/>
+    <stop offset="100%" stop-color="#2b1710"/>
+  </linearGradient>
+  <linearGradient id="crust" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#e8bd82"/>
+    <stop offset="100%" stop-color="#d2a061"/>
+  </linearGradient>
+  <linearGradient id="cake" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#e2ad68"/>
+    <stop offset="100%" stop-color="#c68a44"/>
+  </linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+    <stop offset="18%" stop-color="#ffffff" stop-opacity="0.06"/>
+    <stop offset="82%" stop-color="#ffffff" stop-opacity="0.06"/>
+    <stop offset="100%" stop-color="#ffffff" stop-opacity="0.5"/>
+  </linearGradient>
+  <filter id="blur" x="-40%" y="-40%" width="180%" height="180%">
+    <feGaussianBlur stdDeviation="22"/>
+  </filter>
+  <filter id="blur-s" x="-40%" y="-40%" width="180%" height="180%">
+    <feGaussianBlur stdDeviation="9"/>
+  </filter>
+</defs>
+<rect width="1200" height="900" fill="url(#bg)"/>
+<ellipse cx="600" cy="530" rx="400" ry="325" fill="#7d8c78" opacity="0.30" filter="url(#blur)"/>
+<ellipse cx="600" cy="480" rx="360" ry="335" fill="#77866f" opacity="0.18" filter="url(#blur-s)"/>
+<ellipse cx="600" cy="470" rx="355" ry="335" fill="url(#plate)"/>
+<ellipse cx="600" cy="470" rx="355" ry="335" fill="none" stroke="#d9d3c3" stroke-width="3"/>
+<ellipse cx="600" cy="470" rx="300" ry="282" fill="none" stroke="#e5dcc8" stroke-width="2"/>
+
+<g>
+  <ellipse cx="600" cy="650" rx="250" ry="52" fill="#5c6658" opacity="0.32" filter="url(#blur-s)"/>
+
+  <ellipse cx="600" cy="608" rx="236" ry="58" fill="#c1853f"/>
+  <ellipse cx="600" cy="596" rx="236" ry="54" fill="#dda65e"/>
+  <ellipse cx="600" cy="588" rx="210" ry="38" fill="#e8b978" opacity="0.6"/>
+
+  <ellipse cx="600" cy="554" rx="233" ry="58" fill="#c1853f"/>
+  <ellipse cx="600" cy="542" rx="233" ry="54" fill="#dda65e"/>
+  <ellipse cx="600" cy="534" rx="207" ry="38" fill="#e8b978" opacity="0.6"/>
+
+  <ellipse cx="600" cy="500" rx="230" ry="58" fill="#c1853f"/>
+  <ellipse cx="600" cy="488" rx="230" ry="54" fill="#dda65e"/>
+  <ellipse cx="600" cy="480" rx="204" ry="38" fill="#e8b978" opacity="0.6"/>
+
+  <ellipse cx="600" cy="446" rx="227" ry="58" fill="#c1853f"/>
+  <ellipse cx="600" cy="434" rx="227" ry="54" fill="#dda65e"/>
+  <ellipse cx="600" cy="426" rx="201" ry="38" fill="#e8b978" opacity="0.6"/>
+
+  <ellipse cx="600" cy="392" rx="224" ry="58" fill="#c1853f"/>
+  <ellipse cx="600" cy="380" rx="224" ry="54" fill="#dda65e"/>
+  <ellipse cx="600" cy="372" rx="198" ry="38" fill="#e8b978" opacity="0.6"/>
+
+  <!-- butter -->
+  <g transform="translate(600 352) rotate(-9)">
+    <rect x="-54" y="-36" width="108" height="60" rx="10" fill="#f6dd9a"/>
+    <rect x="-54" y="-36" width="108" height="20" rx="10" fill="#fdf0c6"/>
+    <path d="M-30 10 L30 10" stroke="#e6c97e" stroke-width="4" stroke-linecap="round" opacity="0.7"/>
+  </g>
+  <!-- syrup pool + drips -->
+  <path d="M462 402 C 500 356, 548 424, 600 390 C 652 356, 690 420, 738 388
+           L 738 402 C 700 438, 646 380, 600 412 C 552 446, 506 384, 462 418 Z"
+        fill="#b5762c" opacity="0.9"/>
+  <path d="M478 412 q14 26 2 44 q-14 -18 -2 -44" fill="#b5762c" opacity="0.85"/>
+  <path d="M716 406 q16 30 2 52 q-18 -22 -2 -52" fill="#b5762c" opacity="0.8"/>
+  <path d="M604 420 q10 22 0 34 q-12 -16 0 -34" fill="#b5762c" opacity="0.75"/>
+</g>
+{herb(300, 380, 0.9, 200)}
+{seeds(880, 640, 90, 8, 5)}
+</svg>

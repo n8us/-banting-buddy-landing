@@ -2,7 +2,8 @@
 title: "Banting Bread Recipe: Almond Flour Loaf (2g Net Carbs a Slice)"
 description: "Easy Banting bread recipe with almond flour and psyllium husk. 12 slices, ~2g net carbs each, no yeast. Weights, method, troubleshooting and storage."
 date: 2026-11-14
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-15
+image: /assets/img/recipes/banting-bread.png
 ---
 
 # Banting bread recipe
@@ -10,6 +11,10 @@ last_modified_at: 2026-11-14
 **Short answer:** This almond flour Banting bread uses psyllium husk for structure and eggs for lift, with no yeast and no wheat. One loaf gives 12 slices at roughly **2g net carbs and 165 calories a slice**. It toasts, freezes and holds a sandwich.
 
 Most low-carb bread fails because it has nothing to hold it together. Almond flour has no gluten, so psyllium husk does that job. Do not skip it, and do not substitute coconut flour 1:1 — it absorbs far more liquid.
+
+<figure class="recipe-photo">
+  <img src="{{ site.baseurl }}/assets/img/recipes/banting-bread.png" alt="Sliced loaf of Banting almond flour bread with a seed topping" width="1200" height="900" loading="lazy">
+</figure>
 
 ## At a glance
 
@@ -112,7 +117,10 @@ Yes, at about 2g net carbs a slice it fits both Banting and keto. It is calorie-
   "@type": "Recipe",
   "name": "Banting Bread Recipe (Almond Flour Loaf)",
   "description": "Easy Banting bread with almond flour and psyllium husk, no yeast. 12 slices at about 2g net carbs each.",
-  "author": { "@type": "Organization", "name": "Banting Buddy" },
+  "author": {
+    "@type": "Organization",
+    "name": "Banting Buddy"
+  },
   "datePublished": "2026-11-14",
   "recipeCategory": "Bread",
   "recipeCuisine": "South African",
@@ -133,14 +141,62 @@ Yes, at about 2g net carbs a slice it fits both Banting and keto. It is calorie-
     "1 tbsp sesame seeds (optional)"
   ],
   "recipeInstructions": [
-    { "@type": "HowToStep", "text": "Heat the oven to 180C and line a 20cm x 10cm loaf tin with baking paper." },
-    { "@type": "HowToStep", "text": "Whisk the almond flour, psyllium husk, baking powder and salt in a large bowl." },
-    { "@type": "HowToStep", "text": "Whisk the eggs, melted butter, water and vinegar in a jug." },
-    { "@type": "HowToStep", "text": "Pour the wet ingredients into the dry and stir for 30 seconds until thick." },
-    { "@type": "HowToStep", "text": "Rest the dough for 10 minutes so the psyllium hydrates." },
-    { "@type": "HowToStep", "text": "Spoon into the tin, smooth the top and scatter over the seeds." },
-    { "@type": "HowToStep", "text": "Bake at 180C for 45 to 50 minutes until golden and a skewer comes out clean." },
-    { "@type": "HowToStep", "text": "Cool in the tin for 15 minutes, then turn out and cool completely before slicing." }
+    {
+      "@type": "HowToStep",
+      "text": "Heat the oven to 180C and line a 20cm x 10cm loaf tin with baking paper.",
+      "name": "Heat the oven",
+      "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-bread/",
+      "image": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-bread.png"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Whisk the almond flour, psyllium husk, baking powder and salt in a large bowl.",
+      "name": "Mix the dry ingredients",
+      "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-bread/",
+      "image": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-bread.png"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Whisk the eggs, melted butter, water and vinegar in a jug.",
+      "name": "Mix the wet ingredients",
+      "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-bread/",
+      "image": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-bread.png"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the wet ingredients into the dry and stir for 30 seconds until thick.",
+      "name": "Combine into a dough",
+      "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-bread/",
+      "image": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-bread.png"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Rest the dough for 10 minutes so the psyllium hydrates.",
+      "name": "Rest the dough",
+      "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-bread/",
+      "image": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-bread.png"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spoon into the tin, smooth the top and scatter over the seeds.",
+      "name": "Shape and top",
+      "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-bread/",
+      "image": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-bread.png"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake at 180C for 45 to 50 minutes until golden and a skewer comes out clean.",
+      "name": "Bake the loaf",
+      "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-bread/",
+      "image": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-bread.png"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cool in the tin for 15 minutes, then turn out and cool completely before slicing.",
+      "name": "Cool before slicing",
+      "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-bread/",
+      "image": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-bread.png"
+    }
   ],
   "nutrition": {
     "@type": "NutritionInformation",
@@ -150,7 +206,17 @@ Yes, at about 2g net carbs a slice it fits both Banting and keto. It is calorie-
     "fiberContent": "3 g",
     "proteinContent": "6 g",
     "fatContent": "14 g"
-  }
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-bread.png",
+      "width": 1200,
+      "height": 900
+    }
+  ],
+  "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-bread/",
+  "mainEntityOfPage": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-bread/"
 }
 </script>
 

@@ -2,7 +2,8 @@
 title: "Banting Seed Crackers Recipe (0.5g Net Carbs Each)"
 description: "Crunchy Banting seed crackers with sunflower, pumpkin, flax, chia and psyllium. 40 crackers at about 0.5g net carbs each. Step-by-step baking and storage tips."
 date: 2026-11-14
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-15
+image: /assets/img/recipes/banting-seed-crackers.png
 ---
 
 # Banting seed crackers recipe
@@ -10,6 +11,10 @@ last_modified_at: 2026-11-14
 **Short answer:** These Banting seed crackers are a mix of sunflower, pumpkin, flax and chia seeds held together with psyllium husk. One batch makes about **40 crackers at 0.5g net carbs each** — crunchy enough for cheese, pâté and avocado.
 
 They are the single most useful thing to have in the cupboard on Banting. Shop-bought "seed crackers" are often mostly wheat flour; these are not. The method is a two-stage bake: hot to set, low to dry.
+
+<figure class="recipe-photo">
+  <img src="{{ site.baseurl }}/assets/img/recipes/banting-seed-crackers.png" alt="Banting seed crackers made with sunflower, pumpkin, flax and chia seeds" width="1200" height="900" loading="lazy">
+</figure>
 
 ## At a glance
 
@@ -107,7 +112,10 @@ They will not hold together properly. Use ground flaxseed as a partial substitut
   "@type": "Recipe",
   "name": "Banting Seed Crackers",
   "description": "Crunchy low-carb seed crackers made with sunflower, pumpkin, flax, chia and psyllium. About 0.5g net carbs each.",
-  "author": { "@type": "Organization", "name": "Banting Buddy" },
+  "author": {
+    "@type": "Organization",
+    "name": "Banting Buddy"
+  },
   "datePublished": "2026-11-14",
   "recipeCategory": "Snack",
   "recipeCuisine": "South African",
@@ -127,13 +135,55 @@ They will not hold together properly. Use ground flaxseed as a partial substitut
     "2 tbsp olive oil"
   ],
   "recipeInstructions": [
-    { "@type": "HowToStep", "text": "Heat the oven to 160C and line a baking tray with baking paper." },
-    { "@type": "HowToStep", "text": "Mix the seeds, psyllium, salt and any spices in a bowl." },
-    { "@type": "HowToStep", "text": "Add the water and olive oil and stir until combined." },
-    { "@type": "HowToStep", "text": "Rest for 10 minutes until the mixture thickens." },
-    { "@type": "HowToStep", "text": "Spread to 3-4mm thick on the tray and score into squares." },
-    { "@type": "HowToStep", "text": "Bake at 160C for 45 minutes until dry and lifting at the edges." },
-    { "@type": "HowToStep", "text": "Dry at 120C for 30 to 45 minutes until crisp, then cool completely." }
+    {
+      "@type": "HowToStep",
+      "text": "Heat the oven to 160C and line a baking tray with baking paper.",
+      "name": "Heat the oven",
+      "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-seed-crackers/",
+      "image": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-seed-crackers.png"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mix the seeds, psyllium, salt and any spices in a bowl.",
+      "name": "Mix the dry ingredients",
+      "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-seed-crackers/",
+      "image": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-seed-crackers.png"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the water and olive oil and stir until combined.",
+      "name": "Add water and oil",
+      "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-seed-crackers/",
+      "image": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-seed-crackers.png"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Rest for 10 minutes until the mixture thickens.",
+      "name": "Rest the mixture",
+      "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-seed-crackers/",
+      "image": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-seed-crackers.png"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spread to 3-4mm thick on the tray and score into squares.",
+      "name": "Spread and score",
+      "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-seed-crackers/",
+      "image": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-seed-crackers.png"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake at 160C for 45 minutes until dry and lifting at the edges.",
+      "name": "Bake at 160C",
+      "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-seed-crackers/",
+      "image": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-seed-crackers.png"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Dry at 120C for 30 to 45 minutes until crisp, then cool completely.",
+      "name": "Dry at 120C",
+      "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-seed-crackers/",
+      "image": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-seed-crackers.png"
+    }
   ],
   "nutrition": {
     "@type": "NutritionInformation",
@@ -143,7 +193,17 @@ They will not hold together properly. Use ground flaxseed as a partial substitut
     "fiberContent": "4 g",
     "proteinContent": "4 g",
     "fatContent": "10 g"
-  }
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "https://n8us.github.io/-banting-buddy-landing/assets/img/recipes/banting-seed-crackers.png",
+      "width": 1200,
+      "height": 900
+    }
+  ],
+  "url": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-seed-crackers/",
+  "mainEntityOfPage": "https://n8us.github.io/-banting-buddy-landing/recipes/banting-seed-crackers/"
 }
 </script>
 
