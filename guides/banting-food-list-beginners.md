@@ -9,7 +9,7 @@ last_modified_at: 2026-11-16
 
 **Short answer:** eat freely from the green list — meat, fish, eggs, above-ground vegetables, full-fat dairy and natural fats. Keep the orange list to measured portions — nuts, berries, root vegetables, milk and legumes. Treat coral (gluten-free grains, flours, natural sugars) as hardly ever, decide grey (low-carb bakes, sweeteners, alcohol) for yourself, and skip the red list — refined sugar, gluten grains, industrial seed oils and anything ultra-processed.
 
-Every band is broken down by food type below.
+Every band is broken down by food type below. The Banting food list PDF puts all five lists on a single A4 landscape page.
 
 <div class="cta-row" style="margin:1.5rem 0;">
   <a class="btn-primary" href="{{ site.baseurl }}/assets/downloads/banting-food-list.pdf" download>Download the free food list PDF</a>
