@@ -6,6 +6,8 @@
 
 - Landing: https://n8us.github.io/-banting-buddy-landing/
 - Recipes: https://n8us.github.io/-banting-buddy-landing/recipes/
+- Food list (green/orange/red): https://n8us.github.io/-banting-buddy-landing/guides/banting-food-list-beginners/
+- Food list PDF: https://n8us.github.io/-banting-buddy-landing/assets/downloads/banting-food-list.pdf
 - Meal plans: https://n8us.github.io/-banting-buddy-landing/meal-plans/
 - 7-day meal plan: https://n8us.github.io/-banting-buddy-landing/guides/7-day-banting-meal-plan/
 - Google Play: https://play.google.com/store/apps/details?id=com.innatetelos.bantingbuddyv2
