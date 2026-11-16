@@ -8,14 +8,14 @@ sitemap: false
 <meta name="robots" content="noindex, follow">
 <title>Banting Food List — One Page</title>
 <style>
-  @page { size: A4 portrait; margin: 7mm; }
+  @page { size: A4 landscape; margin: 7mm; }
   * { box-sizing: border-box; margin: 0; padding: 0; }
-  html, body { width: 196mm; }
+  html, body { width: 283mm; }
   body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
     color: #1e293b;
-    font-size: 8.2pt;
-    line-height: 1.34;
+    font-size: 7.3pt;
+    line-height: 1.28;
     -webkit-print-color-adjust: exact;
     print-color-adjust: exact;
   }
@@ -29,7 +29,7 @@ sitemap: false
   }
   h1 { font-size: 19.5pt; letter-spacing: -0.4px; }
   h1 span { color: #15803d; }
-  .sub { font-size: 7.5pt; color: #475569; text-align: right; line-height: 1.4; }
+  .sub { font-size: 7.3pt; color: #475569; text-align: right; line-height: 1.4; }
   .grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 2.4mm; }
   .col { border: 1px solid; border-radius: 2mm; overflow: hidden; }
   .col h2 {
@@ -40,9 +40,9 @@ sitemap: false
   }
   .col h2 small { display: block; font-size: 6.6pt; font-weight: 500; opacity: 0.92; letter-spacing: 0; margin-top: 0.4mm; }
   .body { padding: 2mm 2mm 2.4mm; }
-  .cat { margin-bottom: 2mm; }
+  .cat { margin-bottom: 1.35mm; }
   .cat:last-child { margin-bottom: 0; }
-  .cat b { display: block; font-size: 8.2pt; color: #0f172a; margin-bottom: 0.4mm; }
+  .cat b { display: block; font-size: 7.3pt; color: #0f172a; margin-bottom: 0.4mm; }
   .cat span { color: #334155; }
   .cat i { font-style: normal; color: #b91c1c; font-weight: 700; }
 
@@ -56,13 +56,17 @@ sitemap: false
     display: flex;
     justify-content: space-between;
     align-items: center;
-    gap: 4mm;
-    margin-top: 2.6mm;
+    gap: 5mm;
+    margin-top: 2.4mm;
     padding-top: 2mm;
     border-top: 1.5px solid #0f172a;
     font-size: 8pt;
     color: #334155;
   }
+  .qrbox { display: flex; align-items: center; gap: 3mm; }
+  .qr { width: 20mm; height: 20mm; border: 0.4mm solid #0f172a; padding: 1mm; background: #fff; border-radius: 1.5mm; }
+  .qrlabel { font-size: 8.6pt; font-weight: 700; color: #0f172a; line-height: 1.25; text-align: left; }
+  .qrlabel small { display: block; font-weight: 500; font-size: 6.8pt; color: #475569; margin-top: 0.6mm; }
   footer strong { color: #0f172a; }
   .pill { background: #15803d; color: #fff; padding: 1.6mm 3.2mm; border-radius: 20mm; font-weight: 700; font-size: 8.4pt; white-space: nowrap; }
 </style>
@@ -144,9 +148,12 @@ sitemap: false
 </div>
 
 <footer>
-  <div><strong>Banting Buddy</strong> — 200+ recipes, barcode scanner and a 50g net-carb tracker.<br>
+  <div><strong>Banting Buddy</strong> — 200+ recipes, a barcode scanner and a 50g net-carb tracker.<br>
   Free on Google Play · no account · your logs stay on your device.</div>
-  <div class="pill">Search "Banting Buddy" on Google Play</div>
+  <div class="qrbox">
+    <div class="qr"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAnYAAAJ2AQMAAADoml26AAAABlBMVEUPFyr///9JwCnAAAADpUlEQVR42u2dUY7bMAxEifoAPpKvriPlAAbUxpElDkU7CbAtUODpJ1gnfj8LDIYjirL6o2s3ePDgwYMHDx68f8B72FjL+dxsq8eT/vHn4fr6tr/Qvut/1f2X/eyCBw/e/8t76ct26s2hL+X5/Cklp4Ys53ePl8y09/oLTXTQF3jw4GX6MqTkMT66arzMSVOUp/YU8y8cvgd9gQcP3nt9sdO/nGVSMzVLKK3W09SgL/DgwfvOvzSZKXZWRLv8BP8CDx68b/MXVxg18Ti+KTZER5WI/AUePHg3+jKW5C+ffLiFvsCDBy/qi65e7pjsVve/TPaW4n43/w948OCl+UvTkGJj46jlL6toTz1DGX0PfYEHD17mX0Lw0pfXl6Y2NSmMqI/gwYN3nb/ExhfXPKd7RK0+au9pbwz6Ag8evOhfinlhKU41uqkx062i7lgkxUFf4MGDN+Uvk43pq9dHrVry+YtZK5rIX+DBg3dZH6lcJM25upPdm3qD00Ff4MGDN9dHohpJ4tKNi/7EHyHAv8CDBy+tj/YRp/TNoVEYxUpqC9kv+Qs8ePDu/Is/Fd3WIvnLIv0vczaDvsCDBy/LX8Zwl7mVbmiP9r8k3gZ9gQcP3uRfQinkYt5hVarMnnKhL/0v8ODBu/cvvus/7hjFjelNunnxL/DgwbvUlySujd28U2Gk3XbMf4EHD15eH/l2/1XCW5OoxTsWKaiOhb7Agwcv0xfTDHeX37im3tKlJPoe8hd48OBl+lIkpy2uec4fZYwbRzH7RV/gwYM35y+xD9f6Gel5b8kLS63oCzx48L7xL3XurzNxM/GakjGmAX2BBw9e8C9+sNQ6Lh8ZwxcuZjfQ/wIPHrwP/YuFUQxhBqbpUYBhXDh/BA8evBt90TtgRwxjZnnTne5k0/8CDx68y/rILDkKEIZH1ZD96twY8hd48OBd6Eu82F73iJyUHGuLDTPUR/DgwXujL0FtXPNcyfMXk5uq0Rd48ODd+5fY3BLG2LlQZrgZ8hd48OBl+jLf3xguRdIZUjKGN1xTgr7Agwcv+Jex+o2wqzMuy6Q2ySQH8hd48ODl9ZE6lmnUi5/Nu+T+hfmY8ODBu8hfbBIPm9Peh9xon/ke/h/w4MG71xd/47Rv1V0l7dWH6As8ePDe60s8hqRj7MymwVL4F3jw4H2Uv/SDAVs4Y+SFZZOzj+Qv8ODBu9QX70PmwVKpY/HbSOwfwYMH70JffnDt8ODBgwcPHjx4f5v3GxkQ7z1Nx5PxAAAAAElFTkSuQmCC" alt="QR code: Banting Buddy on Google Play" style="width:100%;height:100%;display:block"></div>
+    <div class="qrlabel">Scan to install<small>Free on Google Play</small></div>
+  </div>
 </footer>
 
 </body>

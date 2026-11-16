@@ -13,7 +13,7 @@ Every band is broken down by food type below.
 
 <div class="cta-row" style="margin:1.5rem 0;">
   <a class="btn-primary" href="{{ site.baseurl }}/assets/downloads/banting-food-list.pdf" download>Download the free food list PDF</a>
-  <span style="font-size:0.85rem; color:var(--muted);">One A4 page · print it and put it on the fridge</span>
+  <span style="font-size:0.85rem; color:var(--muted);">One A4 landscape page · print it and put it on the fridge</span>
 </div>
 
 ## What the five bands mean
