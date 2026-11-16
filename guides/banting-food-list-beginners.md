@@ -68,7 +68,7 @@ Carb traps in this group: [is peanut butter Banting friendly?]({{ site.baseurl }
 
 Coral is the band between "a measured portion" and "no". These are whole, unrefined foods, but they carry enough carbohydrate to stall fat loss. They are excluded during active weight loss and used only as occasional transition foods at goal weight.
 
-- **Gluten-free grains and seeds:** brown, wild and jasmine rice, rice noodles, quinoa, buckwheat, millet, sorghum, teff, amaranth, arrowroot, tapioca, certified gluten-free oats, plain air-popped popcorn.
+- **Gluten-free grains and seeds:** brown, wild and jasmine rice, rice noodles, quinoa, buckwheat, millet, sorghum, teff, amaranth, arrowroot, tapioca, plain air-popped popcorn.
 - **Alternative flours:** almond flour, coconut flour, chickpea flour, pea flour, corn flour, polenta (maize meal).
 - **Natural sugars and dried fruit:** raw honey, pure maple syrup, dates, prunes, unsweetened dried fruit, dark chocolate at 85% cocoa or more.
 - **Whole-food drinks:** vegetable juice with no added fruit juice, plain yoghurt or berry smoothies with no ice cream or syrup.
@@ -84,10 +84,10 @@ Grey is not a carb band. It covers the modern low-carb products and lifestyle ch
 
 ## Red list: skip
 
-Red foods are refined, ultra-processed, or contain gluten. There is no portion that fits a low-carb day.
+Red foods are refined, ultra-processed, gluten grains or high-carb starch. There is no portion that fits a low-carb day.
 
 - **Refined sugar and syrups:** white, brown and icing sugar, golden syrup, agave, jam, sweets, chocolate spread, commercial ice cream, cordials.
-- **Gluten grains and cereal products:** wheat, bread, rolls, wraps, croissants, pasta, pizza crust, couscous, barley, rye, spelt, muesli, granola, corn flakes, instant porridge.
+- **Grains and cereal products:** wheat, bread, rolls, wraps, croissants, pasta, pizza crust, couscous, barley, rye, spelt, oats (including gluten-free oats), muesli, granola, corn flakes, instant porridge.
 - **Fried and starchy foods:** white potatoes, chips, crisps, mielie meal (pap), samp, corn.
 - **Industrial seed and vegetable oils:** sunflower, canola, corn, soybean, cottonseed, safflower, rice bran, margarine and shortening.
 - **Processed meat with filler:** polony, viennas, hot dogs, cheaper boerewors and braaiwors made with rusk or wheat flour.
@@ -120,7 +120,7 @@ Estimates from USDA FoodData Central SR Legacy. Brands differ — use these to s
 | Sweet potato | 20.1g | 3.0g | 17.1g | Orange |
 | Banana | 22.8g | 2.6g | 20.2g | Orange |
 | Cashews | 30.2g | 1.6g | 28.6g | Orange |
-| Oats (dry, gluten-free) | 66.3g | 10.1g | 56.2g | Coral |
+| Oats (dry) | 66.3g | 10.1g | 56.2g | Red |
 
 A single banana is about 20g net carbs — orange, but most of a day's budget in one piece of fruit. A 30g handful of cashews is about 9g. That is why the portion matters as much as the colour.
 
