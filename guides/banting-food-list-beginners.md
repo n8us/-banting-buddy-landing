@@ -28,6 +28,8 @@ Banting uses a traffic-light system because counting every gram is not realistic
 | Red | Refined, ultra-processed, or gluten | Never. Sugar, wheat, seed oils and packet food. |
 | Grey | Not a carb band | Your decision. Low-carb bakes, sweeteners, alcohol and protein powders. Maintenance, not daily. |
 
+Cashews are the one exception to the ranges: 28.6g per 100g, but still an orange food, because nuts are portioned by the closed handful rather than by weight.
+
 Most people aim for 25–50g net carbs a day. Cooked meals should land around 5–10g a serving, which is why the [Banting recipes]({{ site.baseurl }}/recipes/) on this site list net carbs per serving rather than per 100g.
 
 ## Green list: eat freely
@@ -55,7 +57,7 @@ Orange foods are 6–25g net carbs per 100g. They are real whole foods, not junk
 - **Full-fat dairy:** brie, camembert, feta, mozzarella, ricotta, blue cheese, cottage cheese, cream, cream cheese, sour cream, full-fat Greek yoghurt, a splash of full-cream milk, unsweetened almond or coconut milk.
 - **Root vegetables:** beetroot, butternut, pumpkin, carrots, celeriac, parsnip, sweet potato, garden peas, spaghetti squash.
 - **Fruit:** berries first — strawberries, raspberries, blackberries, blueberries, gooseberries. Higher sugar: apple, banana, pear, grapes, mango, pineapple, watermelon, granadilla.
-- **Nuts and nut butters:** almonds, macadamias, walnuts, pecans, hazelnuts, Brazil nuts, pistachios, peanuts, 100% nut butter with no added sugar. Cashews are the exception — they sit in coral.
+- **Nuts and nut butters:** almonds, macadamias, walnuts, pecans, hazelnuts, Brazil nuts, pistachios, peanuts, cashews, 100% nut butter with no added sugar. Cashews are the highest-carb nut at about 28.6g per 100g — still orange, but one closed handful only.
 - **Legumes:** chickpeas, lentils, kidney beans, cannellini beans, black-eyed beans, edamame. Maintenance only for most people.
 - **Caffeinated drinks:** coffee, black tea, green tea, oolong. Plain, no sugar.
 - **Kombucha and water kefir:** low-sugar only. Check the label for added sugar.
@@ -70,7 +72,6 @@ Coral is the band between "a measured portion" and "no". These are whole, unrefi
 - **Alternative flours:** almond flour, coconut flour, chickpea flour, pea flour, corn flour, polenta (maize meal).
 - **Natural sugars and dried fruit:** raw honey, pure maple syrup, dates, prunes, unsweetened dried fruit, dark chocolate at 85% cocoa or more.
 - **Whole-food drinks:** vegetable juice with no added fruit juice, plain yoghurt or berry smoothies with no ice cream or syrup.
-- **High-carb whole foods:** cashews — a 30g handful is about 9g net carbs, roughly double almonds — and plain boiled or roast white potato.
 
 ## Grey area: your decision
 
@@ -87,7 +88,7 @@ Red foods are refined, ultra-processed, or contain gluten. There is no portion t
 
 - **Refined sugar and syrups:** white, brown and icing sugar, golden syrup, agave, jam, sweets, chocolate spread, commercial ice cream, cordials.
 - **Gluten grains and cereal products:** wheat, bread, rolls, wraps, croissants, pasta, pizza crust, couscous, barley, rye, spelt, muesli, granola, corn flakes, instant porridge.
-- **Fried and starchy snacks:** chips, crisps, mielie meal (pap), samp, corn.
+- **Fried and starchy foods:** white potatoes, chips, crisps, mielie meal (pap), samp, corn.
 - **Industrial seed and vegetable oils:** sunflower, canola, corn, soybean, cottonseed, safflower, rice bran, margarine and shortening.
 - **Processed meat with filler:** polony, viennas, hot dogs, cheaper boerewors and braaiwors made with rusk or wheat flour.
 - **Sugary and diet drinks:** soft drinks, fruit juice, iced tea, energy drinks, flavoured milk, milkshakes.
@@ -118,7 +119,7 @@ Estimates from USDA FoodData Central SR Legacy. Brands differ — use these to s
 | Blueberries | 14.5g | 2.4g | 12.1g | Orange |
 | Sweet potato | 20.1g | 3.0g | 17.1g | Orange |
 | Banana | 22.8g | 2.6g | 20.2g | Orange |
-| Cashews | 30.2g | 1.6g | 28.6g | Coral |
+| Cashews | 30.2g | 1.6g | 28.6g | Orange |
 | Oats (dry, gluten-free) | 66.3g | 10.1g | 56.2g | Coral |
 
 A single banana is about 20g net carbs — orange, but most of a day's budget in one piece of fruit. A 30g handful of cashews is about 9g. That is why the portion matters as much as the colour.
