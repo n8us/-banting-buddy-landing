@@ -1,0 +1,153 @@
+---
+sitemap: false
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="robots" content="noindex, follow">
+<title>Banting Food List — One Page</title>
+<style>
+  @page { size: A4 portrait; margin: 7mm; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { width: 196mm; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    color: #1e293b;
+    font-size: 8.2pt;
+    line-height: 1.34;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+  header {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    border-bottom: 2.5px solid #0f172a;
+    padding-bottom: 2.2mm;
+    margin-bottom: 2.6mm;
+  }
+  h1 { font-size: 19.5pt; letter-spacing: -0.4px; }
+  h1 span { color: #15803d; }
+  .sub { font-size: 7.5pt; color: #475569; text-align: right; line-height: 1.4; }
+  .grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 2.4mm; }
+  .col { border: 1px solid; border-radius: 2mm; overflow: hidden; }
+  .col h2 {
+    font-size: 10.2pt;
+    padding: 1.8mm 2mm 1.5mm;
+    color: #fff;
+    letter-spacing: 0.2px;
+  }
+  .col h2 small { display: block; font-size: 6.6pt; font-weight: 500; opacity: 0.92; letter-spacing: 0; margin-top: 0.4mm; }
+  .body { padding: 2mm 2mm 2.4mm; }
+  .cat { margin-bottom: 2mm; }
+  .cat:last-child { margin-bottom: 0; }
+  .cat b { display: block; font-size: 8.2pt; color: #0f172a; margin-bottom: 0.4mm; }
+  .cat span { color: #334155; }
+  .cat i { font-style: normal; color: #b91c1c; font-weight: 700; }
+
+  .g { border-color: #86efac; } .g h2 { background: #15803d; } .g .body { background: #f0fdf4; }
+  .o { border-color: #fdba74; } .o h2 { background: #c2410c; } .o .body { background: #fff7ed; }
+  .c { border-color: #fca5a5; } .c h2 { background: #e11d48; } .c .body { background: #fff1f2; }
+  .y { border-color: #cbd5e1; } .y h2 { background: #475569; } .y .body { background: #f8fafc; }
+  .r { border-color: #fca5a5; } .r h2 { background: #b91c1c; } .r .body { background: #fef2f2; }
+
+  footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 4mm;
+    margin-top: 2.6mm;
+    padding-top: 2mm;
+    border-top: 1.5px solid #0f172a;
+    font-size: 8pt;
+    color: #334155;
+  }
+  footer strong { color: #0f172a; }
+  .pill { background: #15803d; color: #fff; padding: 1.6mm 3.2mm; border-radius: 20mm; font-weight: 700; font-size: 8.4pt; white-space: nowrap; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1><span>Banting</span> food list</h1>
+  <div class="sub">Green = eat freely · Orange = one portion · Coral = hardly ever · Grey = your call · Red = no<br>
+  Free printable from Banting Buddy</div>
+</header>
+
+<div class="grid">
+
+  <div class="col g">
+    <h2>GREEN<small>0–5g net carbs /100g · eat to satiety</small></h2>
+    <div class="body">
+      <div class="cat"><b>Vegetables</b><span>spinach, kale, chard, rocket, lettuce, cabbage, cauliflower, broccoli, Brussels sprouts, asparagus, courgette, cucumber, celery, green beans, peppers, mushrooms, aubergine, tomato, onion, leek, radish, gem squash, olives, avocado</span></div>
+      <div class="cat"><b>Meat &amp; poultry</b><span>beef, lamb, pork, chicken, turkey, duck, venison, liver, kidney, heart</span></div>
+      <div class="cat"><b>Fish &amp; seafood</b><span>snoek, hake, salmon, mackerel, sardines, pilchards, trout, tuna, prawns, calamari, mussels, oysters</span></div>
+      <div class="cat"><b>Eggs</b><span>any style</span></div>
+      <div class="cat"><b>Cured, no sugar</b><span>biltong, bacon, pancetta, prosciutto, parma ham, salami</span></div>
+      <div class="cat"><b>Fats</b><span>butter, ghee, olive oil, avocado oil, coconut oil, macadamia oil, tallow, duck fat, lard</span></div>
+      <div class="cat"><b>Cheese</b><span>cheddar, gouda, parmesan, pecorino, emmental</span></div>
+      <div class="cat"><b>Seeds</b><span>flax, chia, pumpkin, sesame, sunflower</span></div>
+      <div class="cat"><b>Fermented</b><span>bone broth, sauerkraut, kimchi, pickles, coconut yoghurt, kefir</span></div>
+      <div class="cat"><b>Drinks &amp; pantry</b><span>water, rooibos, herbal tea, black coffee, apple cider vinegar, tamari, herbs, spices, avocado-oil mayo</span></div>
+    </div>
+  </div>
+
+  <div class="col o">
+    <h2>ORANGE<small>6–25g net carbs /100g · one measured portion</small></h2>
+    <div class="body">
+      <div class="cat"><b>Dairy</b><span>brie, camembert, feta, mozzarella, ricotta, blue cheese, cottage cheese, cream, cream cheese, sour cream, Greek yoghurt, milk splash, almond or coconut milk</span></div>
+      <div class="cat"><b>Root veg</b><span>beetroot, butternut, pumpkin, carrot, celeriac, parsnip, sweet potato, peas, spaghetti squash</span></div>
+      <div class="cat"><b>Fruit</b><span>berries first: strawberry, raspberry, blackberry, blueberry, gooseberry. Higher sugar: apple, banana, pear, grapes, mango, pineapple, watermelon, granadilla</span></div>
+      <div class="cat"><b>Nuts</b><span>almonds, macadamia, walnuts, pecans, hazelnuts, Brazil, pistachio, peanuts, cashews <i>(handful only)</i>, 100% nut butter</span></div>
+      <div class="cat"><b>Legumes</b><span>chickpeas, lentils, kidney beans, cannellini, black-eyed beans, edamame</span></div>
+      <div class="cat"><b>Drinks</b><span>coffee, black tea, green tea, oolong, low-sugar kombucha, water kefir</span></div>
+    </div>
+  </div>
+
+  <div class="col c">
+    <h2>CORAL<small>26g+ whole food · hardly ever</small></h2>
+    <div class="body">
+      <div class="cat"><b>Gluten-free grains</b><span>brown, wild and jasmine rice, rice noodles, quinoa, buckwheat, millet, sorghum, teff, amaranth, arrowroot, tapioca, GF oats, air-popped popcorn</span></div>
+      <div class="cat"><b>Alternative flours</b><span>almond, coconut, chickpea, pea, corn flour, polenta</span></div>
+      <div class="cat"><b>Natural sugars</b><span>raw honey, maple syrup, dates, prunes, unsweetened dried fruit, dark chocolate 85%+</span></div>
+      <div class="cat"><b>Whole-food drinks</b><span>vegetable juice with no fruit juice, plain yoghurt or berry smoothie, no syrup</span></div>
+      <div class="cat"><b>Note</b><span>Maintenance only. Excluded during active weight loss.</span></div>
+    </div>
+  </div>
+
+  <div class="col y">
+    <h2>GREY<small>not a carb band · your call</small></h2>
+    <div class="body">
+      <div class="cat"><b>Low-carb bakes</b><span>almond flour bread, coconut pancakes, seed crackers, rusks, low-carb pizza base, erythritol cheesecake and brownies</span></div>
+      <div class="cat"><b>Sweeteners</b><span>erythritol, stevia, monk fruit, xylitol <i>(toxic to dogs)</i></span></div>
+      <div class="cat"><b>Alcohol, maintenance</b><span>gin, vodka, whisky, tequila, rum, brandy with soda and lime; dry wine; brut champagne</span></div>
+      <div class="cat"><b>Plant protein</b><span>pea protein isolate, egg white protein, tempeh, firm tofu</span></div>
+      <div class="cat"><b>Avoid</b><span>aspartame, acesulfame-K, beer, cider, sweet mixers</span></div>
+    </div>
+  </div>
+
+  <div class="col r">
+    <h2>RED<small>refined, processed or gluten · never</small></h2>
+    <div class="body">
+      <div class="cat"><b>Refined sugar</b><span>white, brown and icing sugar, golden syrup, agave, jam, sweets, chocolate spread, ice cream, cordials</span></div>
+      <div class="cat"><b>Grains &amp; cereal</b><span>wheat, bread, rolls, wraps, croissants, pasta, pizza crust, couscous, barley, rye, spelt, oats, muesli, granola, corn flakes, instant porridge</span></div>
+      <div class="cat"><b>Fried &amp; starchy</b><span>white potato, chips, crisps, pap, samp, corn</span></div>
+      <div class="cat"><b>Seed oils</b><span>sunflower, canola, corn, soybean, cottonseed, safflower, rice bran, margarine, shortening</span></div>
+      <div class="cat"><b>Processed meat</b><span>polony, viennas, hot dogs, wors with rusk or flour</span></div>
+      <div class="cat"><b>Drinks</b><span>soft drinks, fruit juice, iced tea, energy drinks, flavoured milk, milkshakes</span></div>
+      <div class="cat"><b>Sauces</b><span>ketchup, sweet chilli, marinades, commercial dressings</span></div>
+      <div class="cat"><b>Packaged</b><span>"low-fat" and most "Banting"-branded products</span></div>
+    </div>
+  </div>
+
+</div>
+
+<footer>
+  <div><strong>Banting Buddy</strong> — 200+ recipes, barcode scanner and a 50g net-carb tracker.<br>
+  Free on Google Play · no account · your logs stay on your device.</div>
+  <div class="pill">Search "Banting Buddy" on Google Play</div>
+</footer>
+
+</body>
+</html>
