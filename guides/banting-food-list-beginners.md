@@ -1,30 +1,32 @@
 ---
 title: "Banting Food List: Green, Orange & Red Lists (Free PDF)"
-description: "Banting food list with green, orange and red bands and net carbs per 100g, plus a free printable PDF. What to eat, limit and skip in South Africa."
+description: "Banting food list with green, orange, coral, grey and red bands, net carbs per 100g and a free printable PDF for South Africa."
 date: 2026-09-19
 last_modified_at: 2026-11-16
 ---
 
 # Banting food list
 
-**Short answer:** eat freely from the green list — meat, fish, eggs, above-ground vegetables, full-fat dairy and natural fats. Keep the orange list to measured portions — nuts, berries, root vegetables, milk and legumes. Skip the red list — sugar, grains, industrial seed oils, potatoes and anything ultra-processed.
+**Short answer:** eat freely from the green list — meat, fish, eggs, above-ground vegetables, full-fat dairy and natural fats. Keep the orange list to measured portions — nuts, berries, root vegetables, milk and legumes. Treat coral (gluten-free grains, flours, natural sugars) as hardly ever, decide grey (low-carb bakes, sweeteners, alcohol) for yourself, and skip the red list — refined sugar, gluten grains, industrial seed oils and anything ultra-processed.
 
-The full list, with the green, orange and red groups split by food type, is below. You can also [download it as a printable PDF]({{ site.baseurl }}/assets/downloads/banting-food-list.pdf) and keep it on the fridge or in your phone.
+The full list, with the five bands split by food type, is below. You can also [download it as a printable PDF]({{ site.baseurl }}/assets/downloads/banting-food-list.pdf) and keep it on the fridge or in your phone.
 
 <div class="cta-row" style="margin:1.5rem 0;">
   <a class="btn-primary" href="{{ site.baseurl }}/assets/downloads/banting-food-list.pdf" download>Download the free food list PDF</a>
-  <span style="font-size:0.85rem; color:var(--muted);">6 pages · green, orange and red lists · print or save to your phone</span>
+  <span style="font-size:0.85rem; color:var(--muted);">6 pages · green, orange, coral, grey and red · print or save to your phone</span>
 </div>
 
-## What green, orange and red mean
+## What the five bands mean
 
-Banting uses a traffic-light system because counting every gram is not realistic in a shop aisle. The colours are a shortcut: green is your daily base, orange needs a portion decision, red is a no.
+Banting uses a traffic-light system because counting every gram is not realistic in a shop aisle. The colours are a shortcut: green is your daily base, orange needs a portion decision, coral is hardly ever, grey is your call, red is a no.
 
 | Band | Net carbs per 100g | What it means |
 |---|---|---|
-| Green | 0–5g | Eat freely, to satiety. This is the foundation of fat adaptation. |
+| Green | 0–5g | Eat freely, to satiety. The foundation of fat adaptation. |
 | Orange | 6–25g | Nutritious but carb-dense. One measured portion, not a plateful. |
-| Red | 25g+ or refined | Skip. Sugar, grains, starch and ultra-processed food. |
+| Coral | 26g+ in a whole, unrefined food | Hardly ever. Gluten-free grains, alternative flours, natural sugars and high-sugar whole foods. Maintenance only. |
+| Red | Refined, ultra-processed, or gluten | Never. Sugar, wheat, seed oils and packet food. |
+| Grey | Not a carb band | Your decision. Low-carb bakes, sweeteners, alcohol and protein powders. Maintenance, not daily. |
 
 Most people aim for 25–50g net carbs a day. Cooked meals should land around 5–10g a serving, which is why the [Banting recipes]({{ site.baseurl }}/recipes/) on this site list net carbs per serving rather than per 100g.
 
@@ -53,20 +55,39 @@ Orange foods are 6–25g net carbs per 100g. They are real whole foods, not junk
 - **Full-fat dairy:** brie, camembert, feta, mozzarella, ricotta, blue cheese, cottage cheese, cream, cream cheese, sour cream, full-fat Greek yoghurt, a splash of full-cream milk, unsweetened almond or coconut milk.
 - **Root vegetables:** beetroot, butternut, pumpkin, carrots, celeriac, parsnip, sweet potato, garden peas, spaghetti squash.
 - **Fruit:** berries first — strawberries, raspberries, blackberries, blueberries, gooseberries. Higher sugar: apple, banana, pear, grapes, mango, pineapple, watermelon, granadilla.
-- **Nuts and nut butters:** almonds, macadamias, walnuts, pecans, hazelnuts, Brazil nuts, pistachios, peanuts, 100% nut butter with no added sugar. Cashews are the outlier — closer to red.
+- **Nuts and nut butters:** almonds, macadamias, walnuts, pecans, hazelnuts, Brazil nuts, pistachios, peanuts, 100% nut butter with no added sugar. Cashews are the exception — they sit in coral.
 - **Legumes:** chickpeas, lentils, kidney beans, cannellini beans, black-eyed beans, edamame. Maintenance only for most people.
 - **Caffeinated drinks:** coffee, black tea, green tea, oolong. Plain, no sugar.
 - **Kombucha and water kefir:** low-sugar only. Check the label for added sugar.
 
 Carb traps in this group: [is peanut butter Banting friendly?]({{ site.baseurl }}/questions/is-peanut-butter-banting-friendly/) and [is sweet potato Banting friendly?]({{ site.baseurl }}/questions/is-sweet-potato-banting-friendly/) explain where the numbers move.
 
+## Coral list: hardly ever
+
+Coral is the band between "a measured portion" and "no". These are whole, unrefined foods, but they carry enough carbohydrate to stall fat loss. They are excluded during active weight loss and used only as occasional transition foods at goal weight.
+
+- **Gluten-free grains and seeds:** brown, wild and jasmine rice, rice noodles, quinoa, buckwheat, millet, sorghum, teff, amaranth, arrowroot, tapioca, certified gluten-free oats, plain air-popped popcorn.
+- **Alternative flours:** almond flour, coconut flour, chickpea flour, pea flour, corn flour, polenta (maize meal).
+- **Natural sugars and dried fruit:** raw honey, pure maple syrup, dates, prunes, unsweetened dried fruit, dark chocolate at 85% cocoa or more.
+- **Whole-food drinks:** vegetable juice with no added fruit juice, plain yoghurt or berry smoothies with no ice cream or syrup.
+- **High-carb whole foods:** cashews — a 30g handful is about 9g net carbs, roughly double almonds — and plain boiled or roast white potato.
+
+## Grey area: your decision
+
+Grey is not a carb band. It covers the modern low-carb products and lifestyle choices that are neither traditional Banting food nor junk. They make the diet liveable, but they are not everyday food.
+
+- **Low-carb bakes:** almond flour bread, coconut flour pancakes, seed crackers, Banting rusks, low-carb pizza bases, erythritol-sweetened cheesecake and brownies.
+- **Sweeteners:** erythritol, stevia leaf extract, monk fruit, xylitol. Keep xylitol away from dogs — it is toxic to them. Skip aspartame and acesulfame-K.
+- **Alcohol:** none during active weight loss. At maintenance, zero-carb spirits (gin, vodka, whisky, tequila, rum, brandy) with soda water and fresh lime, dry red or white wine, or brut Champagne. Avoid beer, cider, sweet wine and sugary mixers.
+- **Plant protein:** unflavoured pea protein isolate, egg white protein, tempeh, firm tofu.
+
 ## Red list: skip
 
-Red foods are high-carb, refined, or ultra-processed. There is no portion that fits a low-carb day.
+Red foods are refined, ultra-processed, or contain gluten. There is no portion that fits a low-carb day.
 
-- **Sugar in all forms:** white, brown and icing sugar, honey, golden syrup, agave, jam, sweets, chocolate spread, commercial ice cream.
-- **Grains and cereals:** wheat, bread, rolls, wraps, croissants, pasta, pizza crust, oats, muesli, granola, corn flakes, instant porridge, rice, couscous, barley, rye, spelt.
-- **Starchy vegetables and starches:** white potatoes, chips, crisps, mielie meal (pap), samp, corn.
+- **Refined sugar and syrups:** white, brown and icing sugar, golden syrup, agave, jam, sweets, chocolate spread, commercial ice cream, cordials.
+- **Gluten grains and cereal products:** wheat, bread, rolls, wraps, croissants, pasta, pizza crust, couscous, barley, rye, spelt, muesli, granola, corn flakes, instant porridge.
+- **Fried and starchy snacks:** chips, crisps, mielie meal (pap), samp, corn.
 - **Industrial seed and vegetable oils:** sunflower, canola, corn, soybean, cottonseed, safflower, rice bran, margarine and shortening.
 - **Processed meat with filler:** polony, viennas, hot dogs, cheaper boerewors and braaiwors made with rusk or wheat flour.
 - **Sugary and diet drinks:** soft drinks, fruit juice, iced tea, energy drinks, flavoured milk, milkshakes.
@@ -95,12 +116,12 @@ Estimates from USDA FoodData Central SR Legacy. Brands differ — use these to s
 | Carrot | 9.6g | 2.8g | 6.8g | Orange |
 | Almonds | 21.6g | 12.5g | 9.1g | Orange |
 | Blueberries | 14.5g | 2.4g | 12.1g | Orange |
-| Sweet potato | 20.1g | 3.0g | 17.1g | Red |
-| Banana | 22.8g | 2.6g | 20.2g | Red |
-| Cashews | 30.2g | 1.6g | 28.6g | Red |
-| Oats (dry) | 66.3g | 10.1g | 56.2g | Red |
+| Sweet potato | 20.1g | 3.0g | 17.1g | Orange |
+| Banana | 22.8g | 2.6g | 20.2g | Orange |
+| Cashews | 30.2g | 1.6g | 28.6g | Coral |
+| Oats (dry, gluten-free) | 66.3g | 10.1g | 56.2g | Coral |
 
-One banana or one bowl of oats can use half your day's carb budget before you add anything else. That is the whole argument for the list.
+A single banana is about 20g net carbs — orange, but most of a day's budget in one piece of fruit. A 30g handful of cashews is about 9g. That is why the portion matters as much as the colour.
 
 ## How to read a South African label
 
@@ -121,7 +142,7 @@ When you want meals rather than ingredients, use the [free 7-day Banting meal pl
 
 ## Check any product in the app
 
-A list cannot cover the 40,000 products in a Checkers aisle. Banting Buddy has this green, orange and red list built in, plus a barcode scanner: point it at a pack and it shows net carbs and flags hidden sugar, maltodextrin, dextrose and starch.
+A list cannot cover the 40,000 products in a Checkers aisle. Banting Buddy has the green, orange and red lists built in, plus a barcode scanner: point it at a pack and it shows net carbs and flags hidden sugar, maltodextrin, dextrose and starch.
 
 The app also holds 200+ Banting recipes, a macro tracker built around the 50g net-carb ceiling, and grocery lists. Free with ads, no account, and your logs stay on your device.
 
@@ -136,7 +157,7 @@ The app also holds 200+ Banting recipes, a macro tracker built around the 50g ne
   "@context": "https://schema.org",
   "@type": "Article",
   "headline": "Banting Food List: Green, Orange and Red Lists",
-  "description": "A printable Banting food list with green, orange and red bands, net carbs per 100g, South African label guidance and a free PDF.",
+  "description": "A printable Banting food list with green, orange, coral, grey and red bands, net carbs per 100g, South African label guidance and a free PDF.",
   "datePublished": "2026-09-19",
   "dateModified": "2026-11-16",
   "author": { "@type": "Organization", "name": "Banting Buddy" },
