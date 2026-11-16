@@ -9,11 +9,11 @@ last_modified_at: 2026-11-16
 
 **Short answer:** eat freely from the green list — meat, fish, eggs, above-ground vegetables, full-fat dairy and natural fats. Keep the orange list to measured portions — nuts, berries, root vegetables, milk and legumes. Treat coral (gluten-free grains, flours, natural sugars) as hardly ever, decide grey (low-carb bakes, sweeteners, alcohol) for yourself, and skip the red list — refined sugar, gluten grains, industrial seed oils and anything ultra-processed.
 
-The full list, with the five bands split by food type, is below. You can also [download it as a printable PDF]({{ site.baseurl }}/assets/downloads/banting-food-list.pdf) and keep it on the fridge or in your phone.
+Every band is broken down by food type below. The printable PDF covers all five lists on six pages.
 
 <div class="cta-row" style="margin:1.5rem 0;">
   <a class="btn-primary" href="{{ site.baseurl }}/assets/downloads/banting-food-list.pdf" download>Download the free food list PDF</a>
-  <span style="font-size:0.85rem; color:var(--muted);">6 pages · green, orange, coral, grey and red · print or save to your phone</span>
+  <span style="font-size:0.85rem; color:var(--muted);">6 pages · print it or save it to your phone</span>
 </div>
 
 ## What the five bands mean
