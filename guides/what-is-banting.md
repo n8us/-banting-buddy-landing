@@ -27,7 +27,7 @@ If you want the short version, download the free [one-page Banting food list PDF
 | **Main rule** | 25–50g net carbs a day; most meals land at 5–10g |
 | **Eat freely** | Meat, fish, eggs, full-fat dairy, above-ground vegetables, avocado, nuts, butter, olive oil |
 | **Avoid** | Sugar, bread, rice, pasta, pap, potatoes, cereal, fruit juice, industrial seed oils, ultra-processed food |
-| **Food bands** | Green, orange, coral (light red), grey and red — five bands, not three |
+| **Food bands** | Green, orange, coral, grey and red — five bands, not three |
 | **Legumes** | Allowed in measured portions (orange list), not on the red list |
 | **Protein** | Moderate — roughly a palm-sized portion per meal |
 | **Alcohol** | Dry wine or spirits occasionally; beer and sweet mixers are out |
@@ -84,7 +84,7 @@ The full method, including the polyol rules and the traps, is in [how to count n
 
 ## What to eat on Banting
 
-The colour bands are a shortcut so you do not have to weigh every gram in the shop. South African Banting uses **five bands, not three**: green, orange, coral (also called light red), grey and red. These are the headline foods; the [full Banting food list]({{ site.baseurl }}/guides/banting-food-list-beginners/) breaks down every band with net carbs per 100g.
+The colour bands are a shortcut so you do not have to weigh every gram in the shop. South African Banting uses **five bands, not three**: green, orange, coral, grey and red. These are the headline foods; the [full Banting food list]({{ site.baseurl }}/guides/banting-food-list-beginners/) breaks down every band with net carbs per 100g.
 
 ### Green list: eat freely
 
@@ -111,7 +111,7 @@ Orange foods are roughly 6–25g net carbs per 100g. They are real food, not jun
 - **Full-fat dairy:** full-cream milk, Greek yoghurt, cottage cheese, cream.
 - **Legumes:** lentils, chickpeas and beans are allowed in a measured portion — about half a cup, not a bowl. They sit on the orange list, not the red list.
 
-### Coral list (light red): hardly ever
+### Coral list: hardly ever
 
 Coral is the band the old three-colour lists leave out. It covers whole, unrefined foods that are still high in carbs: gluten-free grains, alternative flours (rice, corn, potato), natural sugars such as honey, maple and dates, and high-sugar whole foods. Think 26g+ net carbs per 100g in a whole food. Maintenance only, not daily.
 
