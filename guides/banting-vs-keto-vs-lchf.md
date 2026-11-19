@@ -23,7 +23,7 @@ All three cut sugar and starch. The split is how many carbs you allow and how st
 | Fruit | Berries only (small portions, medium-carb) | Berries only, strictly weighed | Berries plus occasional apple or plum |
 | Sweeteners | Occasional use (xylitol, erythritol, stevia for rare treats) | Stevia, erythritol, monk fruit common | Similar to Banting |
 
-Sources: founders' lists via Real Meal Revolution; keto ranges cross-checked with USDA FoodData Central for portion maths. (Note: On South African food labels, "Glycaemic Carbohydrate" is already net carbs).
+Sources: Banting food lists; keto ranges cross-checked against public nutrition data for portion maths. (Note: On South African food labels, "Glycaemic Carbohydrate" is already net carbs).
 
 So Banting sits in a practical sweet spot: stricter about food quality and eliminating industrial seed oils than generic keto, but easier for families to sustain than mathematical macro-counting.
 

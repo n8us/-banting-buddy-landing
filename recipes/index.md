@@ -22,7 +22,7 @@ This page is the index for every Banting recipe on the site. It also explains ho
 
 ## What makes a recipe Banting?
 
-Banting is South Africa's version of low-carb, high-fat (LCHF) eating. The rules are simple enough to apply without an app:
+Banting is South Africa's version of low-carb, high-fat (LCHF) eating. [What is Banting?]({{ site.baseurl }}/guides/what-is-banting/) covers the full picture. The rules are simple enough to apply without an app:
 
 1. **Keep net carbs low.** Most people aim for 25–50g net carbs a day. A main meal should sit around 5–10g.
 2. **Use whole foods.** Meat, fish, eggs, cheese, cream, butter, olive oil, avocado, nuts and vegetables that grow above the ground.

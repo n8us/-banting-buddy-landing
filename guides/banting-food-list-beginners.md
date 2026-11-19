@@ -7,6 +7,8 @@ last_modified_at: 2026-11-16
 
 # Banting food list
 
+*New to this? Read [what Banting is]({{ site.baseurl }}/guides/what-is-banting/) first, then come back to the lists.*
+
 **Short answer:** eat freely from the green list — meat, fish, eggs, above-ground vegetables, full-fat dairy and natural fats. Keep the orange list to measured portions — nuts, berries, root vegetables, milk and legumes. Treat coral (gluten-free grains, flours, natural sugars) as hardly ever, decide grey (low-carb bakes, sweeteners, alcohol) for yourself, and skip the red list — refined sugar, gluten grains, industrial seed oils and anything ultra-processed.
 
 Every band is broken down by food type below. The Banting food list PDF puts all five lists on a single A4 landscape page.
@@ -143,7 +145,7 @@ When you want meals rather than ingredients, use the [free 7-day Banting meal pl
 
 ## Check any product in the app
 
-A list cannot cover the 40,000 products in a Checkers aisle. Banting Buddy has the green, orange and red lists built in, plus a barcode scanner: point it at a pack and it shows net carbs and flags hidden sugar, maltodextrin, dextrose and starch.
+A list cannot cover the 40,000 products in a Checkers aisle. Banting Buddy has all five bands (green, orange, coral, grey and red) built in, plus a barcode scanner: point it at a pack and it shows net carbs and flags hidden sugar, maltodextrin, dextrose and starch.
 
 The app also holds 200+ Banting recipes, a macro tracker built around the 50g net-carb ceiling, and grocery lists. Free with ads, no account, and your logs stay on your device.
 

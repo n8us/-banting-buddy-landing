@@ -6,6 +6,7 @@
 
 - Landing: https://n8us.github.io/-banting-buddy-landing/
 - Recipes: https://n8us.github.io/-banting-buddy-landing/recipes/
+- What is Banting: https://n8us.github.io/-banting-buddy-landing/guides/what-is-banting/
 - Food list (green/orange/coral/grey/red): https://n8us.github.io/-banting-buddy-landing/guides/banting-food-list-beginners/
 - Food list PDF: https://n8us.github.io/-banting-buddy-landing/assets/downloads/banting-food-list.pdf
 - Meal plans: https://n8us.github.io/-banting-buddy-landing/meal-plans/
@@ -29,7 +30,8 @@
 
 ## Banting basics
 
-- Banting = Low Carb High Fat (LCHF), pioneered by Prof Tim Noakes / Real Meal Revolution. Net carbs under 50g/day.
+- Banting = Low Carb High Fat (LCHF), pioneered by Prof Tim Noakes. Net carbs under 50g/day.
+- Banting uses five food bands: green (eat freely), orange (measured portions), coral or light red (hardly ever), grey (your call) and red (avoid). Legumes are orange, not red.
 - Banting vs keto: similar, Banting allows 50g/day vs 20-30g strict keto, focuses on whole unprocessed foods.
 - Hidden carbs in sauces, dressings, packaged foods are the #1 reason tracking matters.
 - Free with ads; ad removal for 1, 3 or 12 months.
