@@ -32,7 +32,7 @@ If you want the short version, download the free [one-page Banting food list PDF
 | **Protein** | Moderate — roughly a palm-sized portion per meal |
 | **Alcohol** | Dry wine or spirits occasionally; beer and sweet mixers are out |
 | **Origin** | William Banting, London, 1862; popularised in South Africa by Prof Tim Noakes from 2013 |
-| **Need an app?** | No, but tracking helps because hidden carbs add up fast |
+| **Need an app?** | Optional, but [Banting Buddy](https://play.google.com/store/apps/details?id=com.innatetelos.bantingbuddyv2&referrer=utm_source%3Dbanting-site%26utm_medium%3Dseo%26utm_campaign%3Dwhat-is-banting-table) does the arithmetic for you: scan barcodes, track your 50g net carb limit and browse 200+ recipes. Free with ads, no account. |
 
 ## Where the name "Banting" comes from
 
